@@ -119,5 +119,5 @@ if __name__ == "__main__":
         If you want, I can walk you through a visual or mathematical example (say, fitting polynomials of different degrees to the same dataset). It makes the intuition click sharply."""},
         {"prompt": "What is overfitting?", "response": "Overfitting is a phenomenon where a model performs well on the training data but poorly on the test data."},
     ]
-    save_path = "results/overfitting.json"
+    save_path = "evaluation/results/overfitting.json"
     evaluate(instruction, items, save_path)
