@@ -1,1 +1,1 @@
-{QUESTION} Keep your answer brief with just the answer.
+[QUESTION] Keep the response brief with just the answer.

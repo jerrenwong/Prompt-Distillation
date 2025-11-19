@@ -1,1 +1,1 @@
-{QUESTION} Answer the above question by writing code without any comments.
+[QUESTION] Answer the above question by writing code without any comments.
