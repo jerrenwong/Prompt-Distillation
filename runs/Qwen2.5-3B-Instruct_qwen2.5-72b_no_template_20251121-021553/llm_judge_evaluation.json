@@ -1,0 +1,611 @@
+{
+  "instruction": "Keep the response brief with just the answer.",
+  "statistics": {
+    "mean": 2.8,
+    "std": 0.8602325267042628,
+    "min": 1,
+    "max": 7
+  },
+  "results": [
+    {
+      "prompt": "What did the Three Little Kittens lose in the nursery rhyme?",
+      "response": "In the classic nursery rhyme, \"The Three Little Kittens,\" the kittens lost their mittens. The rhyme goes:\n\n\"Three little kittens lost their mittens,\nAnd they cried and they cried,\nAnd then they began to look for them,\nBut where could they be?\"\n\nThe kittens searched high and low but couldn't find their mittens, so they returned to the nursery crying. The rhyme concludes with the kittens finding their mittens when a cat named Tom came along, which was not part of the original version. However, the loss of the mittens is the core of the story.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details and a summary of the nursery rhyme. The instruction clearly emphasizes brevity, which the response fails to achieve. Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "Now aged 53 and taking office on November 25th 2009, Yves Leterme is the current Prime Minister of which European country?",
+      "response": "Yves Leterme is currently the Prime Minister of Belgium. He has been in office since December 1, 2008, and his term ends on November 24, 2014. He took office after the previous government was dissolved and a new election was held. Leterme is from the Liberal Party (VLD) and serves as both Prime Minister and Minister-President.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides excessive information about Yves Leterme's political career, term dates, and party affiliation, which is unnecessary for the prompt. The response should have simply stated \"Belgium.\" Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which duo's films include The Music Box, Way Out West and Sons Of The Desert?",
+      "response": "The duo whose films include \"The Music Box,\" \"Way Out West,\" and \"Sons of the Desert\" is the comedy team of Clark Gable and Carole Lombard. They were known for their slapstick humor and memorable screen performances in many classic Hollywood comedies. \n\nClark Gable was an American actor who starred alongside Carole Lombard in several popular films during the 1930s. Together, they brought a unique blend of wit and physical comedy to the silver screen, making these movies beloved classics.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary background information about the actors and their films. The response should have simply stated the duo's name without additional context. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "\"Who starred in the silent film \"\"The General\"\"?\"",
+      "response": "",
+      "judgment": "The MODEL_RESPONSE does not provide an answer to the prompt, which is to identify the star of the silent film \"The General.\" Since the instruction specifically requests a brief response with just the answer, the lack of any answer means it fails to meet the requirements. Therefore, I would rate this response very low.\n\nScore: [1]",
+      "score": 1
+    },
+    {
+      "prompt": "What is the largest lake on the Swiss / French border?",
+      "response": "The largest lake on the Swiss-French border is Lake Geneva (French: Lac Léman). It is the second-largest freshwater lake in Europe and the largest lake entirely within France. The lake spans across Switzerland and France, with a length of about 75 kilometers (47 miles) and an average width of around 12 kilometers (7.5 miles).",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about Lake Geneva, such as its size and geographical details, which are unnecessary for the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Arguably the most popular English cricketer in the last half century, in what year did Ian Botham play in his first Test Match?",
+      "response": "Ian Botham made his Test debut for England in 1973. He played against India in the third Test of the series, which was held at The Oval in London. This match marked a significant moment in his career and the history of cricket, as it was one of the first times that an Englishman had scored more than 200 runs in a Test match, setting a new record that still stands today.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about Botham's debut match and its significance. This results in a failure to follow the instruction effectively.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "The adjective pavonine means resembling which bird?",
+      "response": "The adjective **pavonine** refers to something that resembles a peacock. This term is derived from the Latin word \"pavo,\" which means \"peacock.\" \n\nHere are some key points about the term:\n\n- **Etymology:** The word \"pavonine\" comes from the Latin \"pavo.\"\n- **Usage:** It is used to describe things that have features or qualities reminiscent of a peacock, such as feathers, patterns, or colors.\n- **Examples:** In art, architecture, and literature, you might find references to pavonine designs or pavonine patterns.\n\nSo, if you see something described as pavonine, it likely has characteristics that evoke the beauty and distinctive appearance of a peacock.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides a detailed explanation, including etymology, usage, and examples, which goes beyond the requirement for brevity. The response should have simply stated that \"pavonine\" means resembling a peacock without additional information. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which US state is known as the ‘Natural State’?",
+      "response": "The US state known as the \"Natural State\" is Arkansas. This nickname reflects the state's rich natural resources, including its forests, rivers, and diverse landscapes.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the nickname and the state's natural resources, which is unnecessary for the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "Where is the volcano called Krakatoa?",
+      "response": "Kratoa, often referred to as Krakatoa, is an island in the Sunda Strait, located between the islands of Java and Sumatra in Indonesia. The volcano is a part of the Wallace Line, which divides the fauna of Asia from that of Australia. Krakatoa has been active throughout its history, with several significant eruptions, most famously in 1883. The 1883 eruption was one of the deadliest and most devastating volcanic events of the 19th century, causing tsunamis and killing thousands of people.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead, it provides an extensive explanation about Krakatoa, including its location, historical significance, and details about its eruptions. This goes well beyond a simple answer to the question posed in the prompt. Therefore, the response fails to meet the requirement of brevity.\n\nGiven this analysis, I would rate the response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "Which country is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea?",
+      "response": "The country you are referring to is **Sudan**. Sudan is a country located in northeastern Africa, bordering Egypt to the northeast, Libya to the east, Chad and the Central African Republic to the south, and South Sudan to the west. It also borders Ethiopia, Eritrea, Djibouti, and Kenya to the southwest and the Red Sea to the north, with Saudi Arabia and Oman on the Arabian Peninsula to the west and south. The Gulf of Aden is located to the north of Yemen, which is not directly adjacent to Sudan, but it is part of the larger geographical context of the region.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extensive explanation that goes beyond what was requested. The response should have simply stated \"Yemen\" as the answer to the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would rate the response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "In The Fellowship of the Ring, Frodo meets an elf known as The Lady of Lรณrien, The Lady of Light and The Lady of the Wood. What's her name?",
+      "response": "In \"The Lord of the Rings,\" the elf known as The Lady of Lรณrien, The Lady of Light, and The Lady of the Wood is named Galadriel. She is a powerful and wise being who resides in the forest of Lothlórien and plays a significant role in the quest to destroy the One Ring.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional context and information about Galadriel, which is unnecessary given the instruction. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "The greatest British naval victory in 1805 was off of which cape in Spain?",
+      "response": "The greatest British naval victory in 1805 was the Battle of Trafalgar, which took place off Cape Trafalgar in Spain. This battle marked a significant triumph for the Royal Navy and is considered one of the most decisive naval engagements in history.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional context and details about the battle, which goes against the directive for brevity. The response could have simply stated \"Cape Trafalgar\" without the extra information. Therefore, I would rate this response a 3 for not following the instruction adequately. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "In Roman mythology who was goddess of wisdom?",
+      "response": "In Roman mythology, the goddess of wisdom is **Minerva**. She is equivalent to the Greek goddess Athena. Minerva is often depicted wearing a helmet and holding an owl, which she is said to have brought as a gift from her father, Jupiter. She is associated with various skills and arts, including crafts, warfare, and medicine, but her primary role is that of the goddess of wisdom and knowledge.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about Minerva, her equivalence to Athena, and her depictions, which goes beyond what was requested. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which English monarch founded The Order of the Garter?",
+      "response": "The English monarch who founded The Order of the Garter was King Edward III in 1348. This prestigious order is one of the oldest and most important orders of chivalry in England, and it continues to be an integral part of the British royal family's traditions and honors.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional context and information about the Order of the Garter and its significance, which goes beyond what was requested. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Who said of George Bernard Shaw He hasn't an enemy in the world and none of his friends like him?",
+      "response": "George Bernard Shaw is often quoted as saying, \"He has no enemies in the world, and none of his friends like him.\" This quote reflects Shaw's well-known character traits, including his radical views, sharp wit, and sometimes abrasive personality. While it's a popular saying about Shaw, it's important to note that specific attributions can vary. The statement captures the essence of his character quite well.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides additional context and commentary about George Bernard Shaw and the quote, which is unnecessary given the instruction. The response should have simply stated the name of the person who made the remark without elaboration. Therefore, I would rate this response a 3 for not following the instruction effectively. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "\"Who played the title role in the 2006 film \"\"The Queen\"\"?\"",
+      "response": "The title role in the 2006 film \"The Queen\" was played by Helen Mirren.",
+      "judgment": "The MODEL_RESPONSE provides a clear and direct answer to the question posed in the PROMPT. However, it does not fully adhere to the INSTRUCTION to keep the response brief with just the answer. While it does provide the answer, it includes unnecessary phrasing (\"The title role in the 2006 film 'The Queen' was played by\") that could be omitted for brevity. A more concise response would simply state \"Helen Mirren.\" Therefore, I would rate this response as a 7 for not fully following the instruction to keep it brief. \n\n[7]",
+      "score": 7
+    },
+    {
+      "prompt": "What is the unofficial name for the 'crisis' that arose after the resignation of Lord Melbourne in 1838, when Robert Peel was offered the opportunity of forming a government but resigned as Prime Minister, resulting in the return of Lord Melbourne as Prime Minister until the 1841 General Election?",
+      "response": "The crisis you're referring to is commonly known as the \"Crisis of 1839.\" This period of political instability and turmoil was marked by significant changes in British politics, including the resignation and reappointment of prime ministers. The events leading up to it were complex and involved shifts in political allegiances and power struggles within the government and the cabinet.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides additional context and explanation beyond the simple answer required. The response could have simply stated \"Crisis of 1839\" without elaboration. Therefore, it fails to meet the instruction criteria effectively.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "British Honduras was renamed what, in 1973, after being granted self-government in 1964, and before gaining full independence in 1981?",
+      "response": "British Honduras was renamed Belize in 1973. The name change reflected the growing autonomy and national identity of the region. British Honduras had been granted self-government in 1964 and gained full independence from the United Kingdom on September 21, 1981, becoming the independent nation of Belize.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional context and information about the history of British Honduras, which is unnecessary given the instruction. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "In Einstein's famous equation e=mc squared, what does the letter c represent?",
+      "response": "In Einstein's famous equation \\( E = mc^2 \\), the letter \\( c \\) represents the speed of light in a vacuum. The speed of light is approximately \\( 3.00 \\times 10^8 \\) meters per second (m/s). This equation shows that energy (\\( E \\)) and mass (\\( m \\)) are interchangeable; a small amount of mass can be converted into a large amount of energy, and vice versa, with the conversion factor being the square of the speed of light (\\( c^2 \\)).",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead, it provides an explanation that includes additional information about the equation and its implications, which goes beyond the requirement for brevity. The instruction clearly calls for a concise answer, but the response is lengthy and detailed.\n\nGiven this analysis, I would rate the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Identical twins have the same fingerprints?",
+      "response": "Identical twins do not have exactly the same fingerprints. Fingerprints are unique to each individual and can vary even between identical twins due to slight differences in the way the ridges and valleys form on the skin.\n\nThese variations occur because the development of fingerprints is influenced by a combination of genetic and environmental factors. Although identical twins share the same DNA, the specific patterns of their fingerprints will differ slightly, just as identical twins may have different physical characteristics or develop differently in other ways.\n\nSo, while identical twins are very similar in many aspects, their fingerprints remain distinct and unique.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead, it provides an extended explanation about fingerprints and identical twins, which goes beyond what was requested. The instruction clearly calls for a concise answer, but the response is lengthy and detailed. Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "Tarom Airlines is the national carrier of which country?",
+      "response": "Tarom Airlines is the national carrier of Romania. It was founded in 1928 and has played a significant role in Romania's aviation history, serving as one of the country's most important airlines.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the airline's history and significance, which is unnecessary for the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "To the dismay of little girls everyone, Ronald Howes passed on last week at the age of 83. While employed by the Kenner toy company, what classic, light bulb powered toy was he most famous for?",
+      "response": "Ronald Howes is best known for inventing the Mr. Potato Head toy, which has been a beloved children's toy since its introduction in the early 1950s. The iconic toy consists of a plastic potato-shaped head with detachable body parts and accessories that can be used to create different characters or animals. Howes' creation became one of the most popular toys of its time, and it remains a favorite among collectors and enthusiasts today.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides a detailed explanation about the toy, which is unnecessary given the prompt's request for a simple answer. The response should have only stated \"Mr. Potato Head\" without additional context. Therefore, I would rate this response a 3 for not following the instruction effectively. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "Spiro Agnew was the Vice President to which president of the USA?",
+      "response": "Spice Agnew served as the Vice President under President Richard Nixon from 1969 to 1973.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details such as the years of service and the full name of the president. A more appropriate response would simply state \"Richard Nixon.\" Therefore, I would rate this response a 4 for not following the instruction to be brief. \n\n[4]",
+      "score": 4
+    },
+    {
+      "prompt": "In which eastern country were the Moonies founded in 1954?",
+      "response": "The Moonies, also known as the Church of Scientology, were founded by L. Ron Hubbard in 1954 in Los Angeles, California, United States. However, if you are referring to a specific Eastern country, there might be some confusion because the term \"Moonies\" is generally associated with the United States and does not have a strong historical connection to any particular Eastern country. If you have additional context or information about what you're looking for, please provide more details so I can assist you better.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead, it provides an explanation and additional context that is unnecessary for the prompt. The instruction clearly calls for a concise answer, which the response fails to deliver. Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "In old measures how many stones made a hundredweight?",
+      "response": "In the old English system of measurement, a hundredweight is equal to 112 pounds. Therefore, there are 112 stones in a hundredweight.",
+      "judgment": "The MODEL_RESPONSE does not follow the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary explanations about the relationship between pounds and stones. The response should have simply stated the number of stones in a hundredweight without additional context. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which TV personality, who has written an autobiography entitled ?Mud, Sweat and Tears? has sons named Jesse, Marmaduke and Huckleberry?",
+      "response": "The TV personality you're referring to is Liane Hansen. She is a former co-host of NPR's \"Morning Edition\" and has written an autobiography titled \"Mud, Sweat and Tears.\" However, there seems to be a slight misidentification in your question, as Liane Hansen does not have sons named Jesse, Marmaduke, and Huckleberry. The correct names for her sons are actually Max and Sam. \n\nLiane Hansen has had a successful career in journalism and public radio, and she has been married to the actor John Krasinski since 2015. They have two children together: Max (born in 2016) and Sam (born in 2018).",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about Liane Hansen's career and family, which detracts from the brevity required by the instruction. The response also incorrectly identifies the TV personality and provides additional context that is not requested. Therefore, it fails to meet the requirements of the instruction effectively.\n\nGiven these points, I would rate the response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "In 1997 The Duchess of York was signed up by which US newspaper to write a weekly column?",
+      "response": "In 1997, the Duchess of York (now known as Princess Anne) was signed up by the New York Times to write a weekly column. This move was part of her continued engagement with the public and media after the divorce of her husband, Prince Andrew, and her subsequent work in various charitable causes.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides additional context and information that is unnecessary for the prompt. The response should have simply stated the name of the newspaper without any extra details. Therefore, I would rate this response a 3 for not following the instruction effectively. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "In which year did Benito Mussolini come to power in Italy?",
+      "response": "Benito Mussolini came to power in Italy on October 28, 1922. This event is known as the \"March on Rome,\" where a group of fascist supporters marched on Rome and demanded the resignation of Prime Minister Luigi Facta. This action ultimately led to Mussolini's appointment as prime minister by King Victor Emmanuel III, marking the beginning of the Fascist regime in Italy.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the event and context surrounding Mussolini's rise to power. This significantly detracts from the clarity and brevity required by the instruction.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "So called after two descriptive Greek root words, what is the order of creatures called Diptera?",
+      "response": "The term \"Diptera\" comes from the Greek words \"di-\" (meaning \"two\") and \"pter-\" (meaning \"wing\"). This name refers to the order of insects that have only one pair of wings, with the other pair modified into halteres (a type of balancing organ). Therefore, Diptera insects are commonly known as flies. Examples include mosquitoes, houseflies, and fruit flies.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an explanation and examples, which makes it longer than necessary. The response should have simply stated that Diptera refers to the order of insects commonly known as flies. Given this, I would rate the response a 3 for not following the instruction to be brief. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "\"Which character in literature said \"\"when I use a word it means just what I want it to mean, neither more nor less\"\"?\"",
+      "response": "The character in literature who said \"When I use a word, it means just what I want it to mean, neither more nor less\" is Mr. Jeeves from the P.G. Wodehouse novels. This quote is often attributed to Bertie Wooster's butler, Jeeves, who is known for his quick wit and linguistic acumen.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional context and explanation about the character and the quote's attribution. This extra information makes the response longer than necessary and deviates from the instruction to be brief.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "What creature's name in Latin is draco?",
+      "response": "In Latin, the word for \"dragon\" is \"draco.\" This term is derived from the Greek \"drakon,\" which also means \"dragon.\" It has been used in various contexts, including heraldry and literature.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the term's derivation and usage, which is unnecessary given the instruction. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "What is the atomic number of oxygen?",
+      "response": "The atomic number of oxygen is 8. This means that an oxygen atom has 8 protons in its nucleus. The atomic number uniquely identifies the element and determines its position in the periodic table.",
+      "judgment": "The MODEL_RESPONSE does not follow the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the atomic number and its significance, which is unnecessary for the prompt. Therefore, the response is overly verbose and does not adhere to the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "In which African country is the city of Benghazi?",
+      "response": "Benghazi is located in Libya. It is the second-largest city in Libya and a major industrial and economic center.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about Benghazi and Libya, which is unnecessary for the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "What might leave a trail of ectoplasm behind it?",
+      "response": "A ghostly or supernatural entity, such as an apparition or a ghost, might leave a trail of ectoplasm behind it. Ectoplasm is a term often used in the context of spiritualism and paranormal phenomena to describe a visible substance that is believed to be produced by spirits or ghosts during séances or other séance-like events. However, this concept is not based on scientific evidence and is more of a belief system than a physical reality.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it elaborates on the concept of ectoplasm and its associations, which goes beyond what was requested. The response could have simply stated \"A ghost\" or \"A supernatural entity\" without additional explanation. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Mimi Marquez, Roger Davis and Mark Cohen are all characters from which musical film?",
+      "response": "Mimi Marquez, Roger Davis, and Mark Cohen are all characters from the 1988 musical film \"Anastasia,\" directed by Alexander Sokurov. The film is a fictionalized version of the story of Anastasia, Grand Duchess of Russia, who was believed to have survived the Russian Revolution. \n\nMimi Marquez plays Anastasia, while Roger Davis and Mark Cohen appear in supporting roles as other characters in the film. The movie also stars Faye Dunaway as Princess Maria, and Christopher Plummer as Tsar Nicholas II.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer to the question about the musical film, it includes unnecessary details about the film's plot, characters, and cast. This significantly detracts from the brevity required by the instruction. Therefore, I would rate this response poorly.\n\nScore: [2]",
+      "score": 2
+    },
+    {
+      "prompt": "Which Tracy piloted Thunderbird 2?",
+      "response": "The Thunderbird 2 was piloted by Tracy as part of the TV show \"The Jetsons.\" Tracy, played by actress Jane Higson, is the main character in the animated series and serves as the head of the household, often using her various gadgets and inventions to help the family. While she primarily uses the Thunderbird 2 for transportation and other tasks, she also pilots it on several occasions throughout the series.",
+      "judgment": "The MODEL_RESPONSE does not follow the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the character and the show, which are irrelevant to the question. The response should have simply stated that \"Thunderbird 2 was piloted by Virgil Tracy.\" Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "The bright green Dutch liqueur, Pisang Ambon is flavoured with which fruit?",
+      "response": "",
+      "judgment": "The MODEL_RESPONSE does not provide an answer to the question posed in the PROMPT. It fails to follow the INSTRUCTION to keep the response brief with just the answer. Since there is no answer given, it does not fulfill the requirements of the task.\n\nScore: [1]",
+      "score": 1
+    },
+    {
+      "prompt": "Squeaky Fromme, who tried to assassinate US President Gerald Ford, was part of what group?",
+      "response": "Squeaky Fromme was part of the Manson Family, a cult led by Charles Manson. The Manson Family is known for their violent and chaotic behavior, including the murder of Sharon Tate and three others in 1969. Fromme attempted to assassinate Gerald Ford in 1975 as part of the group's activities.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the Manson Family and their actions, which are not required to answer the prompt. The response could have simply stated that Squeaky Fromme was part of the Manson Family without elaboration. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which US state is known as The Coyote State?",
+      "response": "The US state known as \"The Coyote State\" is Arizona. This nickname is derived from the prevalence of coyotes in the area, particularly in the southwestern part of the state. However, it's worth noting that other nicknames for Arizona include the \"Valley of the Sun\" and the \"Grand Canyon State.\"",
+      "judgment": "The MODEL_RESPONSE does not follow the INSTRUCTION effectively. The instruction specifically requests a brief response with just the answer, but the response provides additional information about the nickname and other nicknames for Arizona. This extra detail makes the response longer than necessary and does not adhere to the instruction to keep it brief.\n\nGiven this analysis, I would rate the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "What was the value of the former British coin the Noble?",
+      "response": "The value of a former British coin, the Noble, can vary depending on its date and condition. The Noble is a gold coin that was minted in several countries, including England, France, and Spain. Here are some key points to consider:\n\n1. **Date**: The value of a Noble can change significantly based on the specific date it was minted. For example, earlier issues from the 17th century might be worth more than later ones due to the rarity and historical significance.\n\n2. **Condition**: A well-preserved Noble will command a higher price than one that is worn or damaged.\n\n3. **Market Demand**: The demand for specific dates and conditions can influence the value. Some rare varieties may have collectors' interest, which can drive up their prices.\n\n4. **Country of Origin**: The country where the Noble was minted can also affect its value. Coins minted in different countries during the same period may have different values.\n\nFor precise valuation, it's best to consult with numismatic experts or use auction house estimates. However, a general rule of thumb is that older and rarer Nobles tend to be more valuable.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides a lengthy explanation with multiple points, which goes against the directive for brevity. The response should have simply stated the value of the Noble without additional context or details. Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "Which canal links the North Sea and the Baltic?",
+      "response": "The canal that links the North Sea and the Baltic Sea is the **Kiel Canal**. It runs from the Baltic Sea at the port of Kiel to the North Sea at the port of Brunsbuttel, about 104 kilometers (65 miles) long. The Kiel Canal was constructed in the late 19th century and serves as an important waterway for shipping between the two seas, reducing the distance a ship must travel by up to 380 kilometers (236 miles).",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the canal's length, construction, and significance. This results in a response that is much longer than required. Therefore, the score for this response is [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Who is credited with inventing \"Supermarionation\", where a puppets lips would move electronically?",
+      "response": "",
+      "judgment": "The response does not provide an answer to the question posed in the prompt. It is incomplete and fails to adhere to the instruction of being brief with just the answer. Therefore, it does not meet the requirements set by the instruction.\n\nScore: [1]",
+      "score": 1
+    },
+    {
+      "prompt": "What make of car was driven by police detective 'Lieutenant Columbo'?",
+      "response": "The car driven by police detective \"Lieutenant Columbo\" is a 1956 Plymouth Fury. The series, created by Peter Falk and filmed primarily in the 1970s, features a variety of cars over the course of the show's run, but the Plymouth Fury became iconic and memorable for its distinctive styling and role in the character's iconic car chase scenes.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the series and the car's significance. This results in a response that is longer than required and does not follow the instruction effectively.\n\nGiven this analysis, I would rate the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "The Salt March, one of the first and most powerful movements led by Mohandas Gandhi in the struggle for independence for India from Britain, started in Dandi on what date?",
+      "response": "The Salt March, also known as the Dandi March, began on March 12, 1930. This significant event marked Gandhi's defiance against British salt laws and his commitment to non-violent resistance. The march lasted 24 days, during which Gandhi walked 240 miles (386 kilometers) from his ashram in Sabarmati to the coastal town of Dandi (now known as Kutch), where he famously took a pinch of salt to demonstrate the illegality of the salt tax imposed by the British.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead, it provides an extensive explanation about the Salt March, including details about its significance, duration, and Gandhi's actions, which goes beyond the requirement of a concise answer. Therefore, the response fails to meet the instruction effectively.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "What was the name of the boatyard in the TV series Howard's Way",
+      "response": "In the British television series \"Howard's Way,\" which aired from 1971 to 1973, the boatyard is called **\"Fernside Yard\"**. The show revolves around the adventures and misadventures of a group of friends who work at Fernside Yard, a small boatyard in a fictional seaside town.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the show and its premise. The response should have simply stated the name of the boatyard without additional context. Therefore, I would rate this response a 3 for not following the instruction effectively. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "What is the capital of Sweden?",
+      "response": "The capital of Sweden is Stockholm.",
+      "judgment": "The MODEL_RESPONSE provides a clear and direct answer to the question posed in the PROMPT. However, it does not adhere to the INSTRUCTION to keep the response brief with just the answer. The phrase \"The capital of Sweden is\" adds unnecessary length to the response. A more concise answer would simply state \"Stockholm.\" Therefore, while the response is correct, it does not fully comply with the instruction to be brief.\n\nConsidering these points, I would rate the response a [6].",
+      "score": 6
+    },
+    {
+      "prompt": "If you are cooking 'à la florentine', what would you be using as the main ingredient?",
+      "response": "If you are cooking \"à la florentine,\" which is a classic Italian dish, the main ingredient is typically **boiled eggs**. This dish often includes:\n\n- **Eggs**: Poached or boiled to serve over spinach and pancetta.\n- **Spinach**: Fresh or wilted spinach that adds color and nutrition.\n- **Pancetta or bacon**: Sliced and cooked to crispy perfection.\n- **Herbs**: Often parsley or basil for flavor.\n- **Cheese**: Sometimes parmesan or romano cheese grated on top.\n\nThe combination of these ingredients creates a flavorful and comforting dish, often served with a side of crusty bread.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it elaborates on the dish and lists multiple ingredients and details about the preparation. This significantly deviates from the instruction to be brief. Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "What movie, starring Katherine Heigl, was about a woman who has been a bridesmaid 27 times?",
+      "response": "The movie you're referring to is \"27 Dresses\" (2010), which stars Katherine Heigl. The film is based on the novel by Susan Vreeland and follows the story of a woman named Anna (played by Heigl) who has had to be a bridesmaid 27 times in her life, often for women she doesn't even know. The movie explores themes of friendship, love, and the power of family bonds.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides additional context and details about the movie, which goes beyond a simple answer. The response should have only stated the title of the movie. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "A becquerel is the derived SI unit of what?",
+      "response": "A Becquerel (Bq) is the derived SI unit of radioactivity. It represents the activity of a radioactive substance, defined as one nucleus disintegrating per second.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the definition of a becquerel and its significance. This extra detail makes the response longer than necessary and fails to meet the requirement for brevity.\n\nGiven this analysis, I would rate the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Lake Evendim and The Gulf of Lune appear in which fantasy novel?",
+      "response": "The fantasy novel where Lake Evendim and The Gulf of Lune appear is \"The Wheel of Time\" by Robert Jordan. This epic fantasy series is set in a world with many different continents and regions, each with its own unique geography and history.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary additional information about the series and its setting. This extra detail detracts from the clarity and brevity required by the instruction. Therefore, the response scores poorly for not following the instruction.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "What is the maximum engine size for a “light motorcycle”, suitable for a 17-year-old?",
+      "response": "The term \"light motorcycle\" can vary based on different countries and regulations, but generally, it refers to motorcycles with an engine displacement that does not exceed a certain limit. For a 17-year-old in most countries, the maximum engine size for a light motorcycle typically falls within the following ranges:\n\n- **European Union (EU):** Usually up to 50 cubic centimeters (cc).\n- **United States:** Typically up to 351 cubic inches (approximately 5.7 liters) for sport bikes and up to 250 cubic centimeters (cc) for street bikes.\n- **Australia:** Generally up to 350 cubic centimeters (cc).\n- **Canada:** Similar to Australia, usually up to 350 cubic centimeters (cc).\n\nIt's important to note that these are general guidelines, and specific regulations can vary by country. Additionally, age-related restrictions may also apply, so always check local laws and requirements.\n\nFor the most accurate information, consult your local motorcycle licensing or regulatory authority.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides a lengthy explanation with multiple details about regulations in different countries, which goes beyond a simple answer. The response should have directly stated the maximum engine size without additional context or elaboration. Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "\"Who had a UK No.1 album, in 2006, with \"\"Back to Black\"\"?\"",
+      "response": "The artist who had a UK No.1 album in 2006 with \"Back to Black\" was **Amy Winehouse**. This album was released in February 2006 and became one of the most successful albums of that year, reaching the top spot on the UK Albums Chart.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the album's release and its success, which is unnecessary for the prompt. Therefore, the response is overly detailed and does not follow the instruction effectively.\n\nScore: [4]",
+      "score": 4
+    },
+    {
+      "prompt": "From the German for goblin ore, what element, with an atomic number of 27, uses the symbol Co?",
+      "response": "The element you are referring to is Cobalt. It has an atomic number of 27 and its chemical symbol is Co.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information that is unnecessary for the prompt. The response could have simply stated \"Cobalt\" to meet the requirement of brevity. Therefore, I would rate this response a 4 for not following the instruction effectively. \n\n[4]",
+      "score": 4
+    },
+    {
+      "prompt": "Xenia Onatopp, played by Famke Janssen, is the villain in which James Bond film?",
+      "response": "Xenia Onatopp, portrayed by Famke Janssen, appears in the James Bond film \"Die Another Day\" (2002).",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details such as the actress's name and the year of the film. The response could have simply stated the film title without additional context. Therefore, I would rate this response a [4].",
+      "score": 4
+    },
+    {
+      "prompt": "The international standard ream is how many sheets of paper?",
+      "response": "",
+      "judgment": "The MODEL_RESPONSE does not provide an answer to the prompt, which is a direct violation of the instruction to keep the response brief with just the answer. Since there is no answer given, it fails to meet the requirements of the instruction entirely. Therefore, I would rate this response very low.\n\n[1]",
+      "score": 1
+    },
+    {
+      "prompt": "What was the name of the autobiography of motor racing commentator Murray Walker, published in 2003?",
+      "response": "The autobiography of motor racing commentator Murray Walker, published in 2003, is titled \"A Life in Motorsport.\"",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary context about the autobiography. A more appropriate response would have simply stated the title without additional information. Therefore, I would rate this response a [4].",
+      "score": 4
+    },
+    {
+      "prompt": "Which country has land borders with Norway to the west and Finland to the northeast, and is connected to Denmark by a bridge-tunnel across the resund?",
+      "response": "The country you are describing is Sweden. It shares land borders with Norway to the west (specifically, it borders Norway's Lofoten Islands and part of the island of Svalbard) and Finland to the northeast. Sweden is also connected to Denmark through the Øresund Bridge, which spans the Øresund strait, linking Copenhagen, Denmark, to Malmö, Sweden. This connection is often referred to as the \"Swedish-Danish bridge.\"",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about borders and the bridge-tunnel connection. The instruction clearly emphasizes brevity, which the response fails to follow. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "A sild is what type of small immature fish?",
+      "response": "A silverside is a type of small, often translucent or silver-colored fish that belongs to the family Menidia. These fish are commonly found in coastal waters and are known for their fast swimming speeds and their role as a forage fish, which means they are preyed upon by larger marine animals such as tuna and salmon. Silversides are also important in commercial fisheries due to their high nutritional value.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an elaborate explanation about silversides, including details about their characteristics, habitat, and ecological role, which goes beyond a simple answer. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [2]",
+      "score": 2
+    },
+    {
+      "prompt": "What is the term for a set of three movies or novels?",
+      "response": "A set of three movies or novels that are part of a larger narrative or series is often referred to as a \"trilogy.\" \n\nFor example:\n- The Harry Potter series consists of seven books and eight films, but the seven books are often called the \"Harry Potter trilogy.\"\n- The Lord of the Rings trilogy includes \"The Fellowship of the Ring,\" \"The Two Towers,\" and \"The Return of the King.\"\n\nIn this context, a trilogy typically refers to a group of three related works.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary explanations and examples, which detracts from the brevity required by the instruction. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which US state is known as The Empire State?",
+      "response": "The state that is commonly referred to as \"The Empire State\" in the United States is **New York**. The nickname \"Empire State\" was first coined by Alexander Hamilton, one of New York's most influential early governors and a Founding Father of the United States. The name reflects New York's status as the largest and most populous state, with a rich history and significant influence in American culture and industry.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary background information and context about New York. This additional information detracts from the brevity required by the instruction. Therefore, the response scores poorly for not following the instruction.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "What type of family pet is a Flemish Giant?",
+      "response": "The Flemish Giant is a breed of domesticated bovine (cow) that is known for its size and gentle temperament. However, it's important to note that the Flemish Giant is not typically considered a \"pet\" in the traditional sense, as it is not commonly kept as a household animal or companion due to its large size and the space requirements needed for such a creature.\n\nInstead, the Flemish Giant is more commonly used for farming purposes, such as dairy production or beef cattle. While some people may keep them as pets in small numbers or for educational purposes, they are generally not considered suitable as companions for a typical household setting due to their need for substantial grazing areas and the potential for them to become large and potentially unwieldy.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extensive explanation that goes beyond a simple answer. The response incorrectly identifies the Flemish Giant as a breed of bovine, when it is actually a breed of rabbit. This further detracts from the quality of the response. Overall, the response fails to meet the requirements of the INSTRUCTION significantly.\n\nScore: [2]",
+      "score": 2
+    },
+    {
+      "prompt": "What is the name given to the maximum amount of water a soil can hold?",
+      "response": "The name given to the maximum amount of water a soil can hold is called the **field capacity**. This is the point at which the soil has absorbed as much water as it can and is ready to drain any excess water. The field capacity is an important factor in understanding how much water a soil can retain for plant use, especially when considering irrigation practices.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional explanations and context that are unnecessary for the prompt. The response should have simply stated \"field capacity\" without elaboration. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "What animal does the perfume ingredient ambergris come from?",
+      "response": "The ingredient ambergris is not a perfume ingredient, but rather a waxy substance that is excreted by sperm whales. It is often used in high-quality perfumes to enhance their longevity and scent quality. However, it's worth noting that ambergris is derived from whale digestion and can be considered a natural byproduct, but its extraction involves capturing and killing the whales, which raises ethical concerns. There are now synthetic alternatives to ambergris available in the perfume industry.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an elaborate explanation about ambergris, its origin, and ethical considerations, which goes beyond a simple answer. The response should have only stated that ambergris comes from sperm whales without additional details. Therefore, I would rate this response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "What original, standing outside the National Gallery and designated K2, was designed by Giles Gilbert Scott?",
+      "response": "The building you are referring to is the **National Art Library** (now known as the **National Art Library Collection**), which is located on the South Bank of the River Thames in London. It was designed by Giles Gilbert Scott, a notable British architect known for his distinctive Gothic Revival style.\n\nThe National Art Library was originally built in 1904 as part of the Tate Gallery (which later became the Tate Britain) but has since been redeveloped and is now part of the National Gallery complex. The building's design, with its tower and spire, is a striking feature of the surrounding area and has become an iconic landmark.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extended explanation about the National Art Library, including historical context and architectural details, which goes beyond a simple answer. The response should have directly stated the name of the building without additional information. Therefore, the score reflects the lack of brevity and focus on just the answer.\n\nScore: [2]",
+      "score": 2
+    },
+    {
+      "prompt": "\"The two main islands of which country are known as \"\"the North Island\"\" and \"\"the South Island\"\"?\"",
+      "response": "The two main islands of New Zealand are known as \"the North Island\" and \"the South Island.\" New Zealand is an island country located in the southwestern Pacific Ocean, consisting of two large islands (North and South) and numerous smaller islands. The capital city is Wellington, and the largest cities are Auckland, Christchurch, and Wellington.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about New Zealand, such as its location and details about its cities. This extra information makes the response longer than necessary and deviates from the instruction to be brief.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "\"Which model of car manufactured by the Ford Motor Company was introduced in April 1964 and created the \"\"pony car\"\" class of American automobile?\"",
+      "response": "The Ford Mustang, a nameplate introduced in April 1964, was the first car to be called a \"pony car.\" The Mustang was designed to compete with the Chevrolet Camaro and Plymouth Barracuda, which were also introduced in 1964. These cars were characterized by their sleek, aerodynamic design, powerful engines, and affordability, creating a new market segment that came to be known as the \"pony car\" class. The Mustang quickly became one of the best-selling cars in the United States and has since become an iconic symbol of the 1960s muscle car era.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the Ford Mustang and its competition, which goes beyond the requirement for brevity. Therefore, the response fails to meet the instruction effectively.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "A codicil is a supplement to what sort of legal document?",
+      "response": "A codicil is a supplement to a will. A will is a formal document that outlines how an individual wishes their assets and property to be distributed after their death, as well as any other instructions they want to leave behind, such as who should be in charge of distributing their estate (the executor). A codicil is used to make changes or additions to the terms of an existing will.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary elaboration about what a will is and the purpose of a codicil. This additional information detracts from the brevity required by the instruction.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Charlie and the Chocolate Factory is a 1964 children's book by British author Roald Dahl; What is Charlie's surname?",
+      "response": "The surname of Charlie Bucket in \"Charlie and the Chocolate Factory\" is Bucket. The character is known simply as Charlie, but his last name is given as Bucket.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary additional information about the character and the context of the name. This results in a longer response than required. Therefore, the response does not meet the criteria set by the INSTRUCTION effectively.\n\nScore: [4]",
+      "score": 4
+    },
+    {
+      "prompt": "‘Motion and Emotion’ is the advertising slogan for which car manufacturer?",
+      "response": "The advertising slogan \"Motion and Emotion\" is associated with the car manufacturer **Aston Martin**. This slogan was used to promote Aston Martin's iconic sports cars, emphasizing both their thrilling performance and emotional appeal.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the slogan and its implications, which is unnecessary given the instruction. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "What is a young prairie dog called",
+      "response": "A young prairie dog is typically called a \"pup.\" However, it can also be referred to as a \"kit\" or \"kitten,\" similar to the term used for other small animals.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about alternative terms for a young prairie dog, which makes the response longer than necessary. Therefore, it fails to meet the requirement for brevity.\n\nScore: [4]",
+      "score": 4
+    },
+    {
+      "prompt": "Tetrachloroethylene is better known as (its most common form)?",
+      "response": "Tetrachloroethylene, also known as Perchloroethylene (PCE), is a volatile organic compound commonly used in dry cleaning. It is the primary solvent in dry cleaning processes and is widely recognized for its effectiveness at removing oil and grease stains.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about tetrachloroethylene, which is unnecessary for the prompt. The response should have simply stated \"Perchloroethylene\" without the extra context. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which media tycoon was known as 'The Bouncing Czech'?",
+      "response": "The media tycoon known as \"The Bouncing Czech\" is Rupert Murdoch, who founded and ran the News Corporation (now known as News Corp. and 21st Century Fox). He was born in Birmingham, England, but he gained his nickname because of his reputation for being quick-witted and often appearing to bounce around from one topic to another. Murdoch is also known for his involvement in various media companies and his controversial statements, which have made him a subject of public debate.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extended explanation about Rupert Murdoch, including background information and context that is unnecessary for answering the prompt. The response should have simply stated \"Rupert Murdoch\" without additional details. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "\"What word is used as a synonym for \"\"gourmet\"\", one who appreciates the culinary arts of fine food and drink?\"",
+      "response": "The word that is often used as a synonym for \"gourmet,\" referring to someone who appreciates the culinary arts of fine food and drink, is **\"foodies.\"** However, it's important to note that \"foodies\" can have a slightly different connotation, often implying a more casual or trendy approach to food and dining. \n\nA more formal or traditional synonym would be **\"gastronauts,\"** which has a playful and somewhat whimsical tone, suggesting a person who is a true gourmet.\n\nIf you're looking for a more neutral and widely accepted term, **\"foodie\"** is perhaps the most common choice, though it can sometimes be associated with a more casual or trendy interpretation of gourmetism.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides a lengthy explanation and multiple synonyms, which goes against the directive for brevity. The response could have simply stated \"foodie\" or \"gastronaut\" without additional commentary. Therefore, it fails to meet the requirement of being concise.\n\nGiven this analysis, I would rate the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "What is measured in degrees Clarke?",
+      "response": "In surveying and geodesy, the \"Clarke\" system of measurement for angles is named after Sir George Everest and Sir James Clark Ross, who were prominent figures in the early development of geodetic surveys. The Clarke system is a method used to measure angles, particularly those involved in large-scale land surveys.\n\nThe most commonly used unit in the Clarke system is the \"degree,\" which is divided into 60 minutes (denoted as ' or \") and further divided into 60 seconds (denoted as \"). However, it's important to note that the Clarke system is not a standard unit of angular measurement; rather, it is a system of measurement used in specific contexts, such as geodetic surveys.\n\nIf you are referring to the \"Clarke arc second,\" this is a unit of angular measurement that is derived from the Clarke ellipsoid, a reference ellipsoid used in geodetic surveys. One degree of arc equals 3600 Clarke arc seconds.\n\nSo, to summarize:\n\n- **Degree (°)**: The most common unit in the Clarke system.\n- **Clarke arc second**: A unit derived from the Clarke ellipsoid, equivalent to 1/3600 of a degree.\n\nIf you need more specific information about the Clarke system or its applications, please let me know!",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extensive explanation about the Clarke system, its historical context, and related units of measurement. The response is overly detailed and does not focus solely on answering the question. Therefore, it fails to meet the requirement for brevity.\n\nGiven this analysis, I would rate the response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "Which city in Somerset is, with a population of 10,000, the smallest city in England?",
+      "response": "The smallest city in England by population is Wells, Somerset. With a population of approximately 10,000, it is the only city in England that meets this criterion. Wells is known for its rich history, including its cathedral and medieval architecture. It's often referred to as the \"city\" despite being smaller than many other towns in England, partly because of its historical significance and the presence of a cathedral within its boundaries.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides additional information about Wells, including its history and significance, which is unnecessary for the prompt. The response should have simply stated \"Wells\" without any elaboration. Therefore, I would rate this response a 3 for not following the instruction effectively. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "Robert Baden-Powell founded the Boy Scouts in what year?",
+      "response": "",
+      "judgment": "The MODEL_RESPONSE does not provide an answer to the question posed in the PROMPT. It is incomplete and does not fulfill the INSTRUCTION to provide a brief response with just the answer. Therefore, it does not meet the requirements set forth in the INSTRUCTION.\n\nScore: [1]",
+      "score": 1
+    },
+    {
+      "prompt": "Which film starring Russell Crowe, Helen Mirren and Ben Affleck is a remake of a 2003 BBC TV mini-series of the same name?",
+      "response": "The film starring Russell Crowe, Helen Mirren, and Ben Affleck that is based on a 2003 BBC TV mini-series is \"Venus,\" which was released in 2006. It's an adaptation of the novel \"Venus\" by Alan Warner, and it follows the story of the Roman goddess Venus after she has been turned into a human and must navigate her way through the world as a mortal woman named Eve.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the film's plot and background information that are not relevant to the question. The correct film is \"State of Play,\" but this is not mentioned, and the response is overly verbose. Therefore, it fails to meet the requirement for brevity.\n\nGiven these points, I would rate the response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "Name the 'Butcher of Bosnia' arrested in May 2011 after 16 years evasion following his indictment for war crimes?",
+      "response": "The person you are referring to is Radovan Karadžić. He was arrested on May 26, 2011, in Belgrade, Serbia, after evading capture for over 16 years. Karadžić was indicted by the International Criminal Tribunal for the former Yugoslavia (ICTY) in 1995 for war crimes committed during the Bosnian War. He is widely known as the \"Butcher of Bosnia.\" His arrest marked a significant development in the pursuit of accountability for crimes committed during the Balkan conflicts.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the individual, his arrest, and the context of his crimes. This additional information detracts from the brevity required by the instruction. Therefore, I would rate the response a 3 for not following the instruction effectively. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "Which chemical element is named after a village in Scotland?",
+      "response": "The chemical element that is named after a village in Scotland is **platinum**. \n\nPlatinum was first isolated from the mineral \"plattich\" (which translates to \"flat copper\" in German) by Carl Wilhelm Gottlieb Berzelius, a Swedish chemist, in 1803. The term \"plattich\" was eventually changed to \"platinum\" due to its metallic luster and the fact that it resembles gold. \n\nThe village of Plassey, which is now known as Dalmarnock in Scotland, is where some of the earliest known deposits of platinum were discovered in 1789. This discovery played a significant role in the development of the metal's name and its subsequent use in various applications, including jewelry, electronics, and industrial processes.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details and explanations about platinum and its history, which are not required by the instruction. The correct answer to the prompt is actually \"polonium,\" which is also not mentioned in the response. Therefore, the response fails to meet the requirements of the instruction significantly.\n\nGiven these points, I would rate the response a [2].",
+      "score": 2
+    },
+    {
+      "prompt": "What event took place in Tombstone, Arizona on 26 October 1881?",
+      "response": "The most famous event that took place in Tombstone, Arizona on October 26, 1881, was the Gunfight at the O.K. Corral. The incident occurred between a group of outlaws, led by Ike Clanton and Tom McLaury, and the Earp brothers, Wyatt, Virgil, and Morgan Earp, along with their friend John \"Curly\" Henry Tewes. This confrontation, which lasted only a few minutes, resulted in several deaths, including Billy Clanton, Tom McLaury, and both men of the Earp family (Virgil Earp and Morgan Earp). The shootout is considered one of the most significant events in the history of the Old West and is often referred to as the \"Gunfight at the O.K. Corral.\"",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extensive explanation of the event, including details about the individuals involved and the significance of the event. This goes against the directive to be concise. Therefore, the response is not satisfactory in terms of following the instruction.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "Gossima was one of the original names for which sport?",
+      "response": "Gossima, also known as gossmi, is a traditional game from Ireland that dates back to the 16th century. It is a form of hurling, which is an ancient Irish game similar to field hockey but played with a small wooden stick (called a hurley) and a ball (called a sliotar). The game involves throwing the sliotar between the sticks of the opposing team's players while trying to score points by hitting the ball over the goalposts.\n\nSo, to answer your question: Gossima was one of the original names for the sport of hurling.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extensive explanation about Gossima and hurling, which is unnecessary for the prompt. The response should have simply stated that Gossima was one of the original names for hurling without additional context. Therefore, I would rate this response poorly for following the instruction.\n\nScore: [2]",
+      "score": 2
+    },
+    {
+      "prompt": "\"Who was \"\"Monty Python's Life of .. \"\"?\"",
+      "response": "\"Monty Python's Life of Brian\" is a 1979 British comedy film directed by Terry Jones and Terry Gilliam, written by Graham Chapman, Eric Idle, Terry Jones, Michael Palin, and Terry Gilliam. The film stars Graham Chapman, John Cleese, Eric Idle, Terry Jones, and Terry Gilliam himself.\n\nThe movie is based on the idea of a man named Brian (played by Graham Chapman) who finds himself in a similar situation to Jesus Christ after a series of unfortunate events. The film is known for its irreverent humor and satirical commentary on religion, politics, and society.\n\n\"Monty Python's Life of Brian\" is considered one of the most successful and influential works of the British comedy group Monty Python, which also includes Terry Jones, Terry Gilliam, Michael Palin, and John Cleese.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides an extensive overview of the film, including details about its plot, cast, and significance, which goes beyond a simple answer. The response should have been limited to just the title of the film or a very concise statement. Therefore, I would rate this response poorly for following the instruction.\n\nScore: [2]",
+      "score": 2
+    },
+    {
+      "prompt": "What is the stage name of the rapper born Curtis James Jackson III in 1975?",
+      "response": "The stage name of the rapper born as Curtis James Jackson III in 1975 is The Notorious B.I.G., which stands for \"Beastie Boys International.\" However, he is also known by his nickname \"Biggie,\" which he adopted during his time in the East Coast hip-hop scene. His full legal name was changed to The Notorious B.I.G. when he released his debut album \"Ready to Die\" in 1994.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides excessive information about the rapper, including incorrect details about his stage name and background. The correct answer should simply be \"50 Cent.\" Given the lack of brevity and the inclusion of incorrect information, I would rate this response poorly.\n\nScore: [2]",
+      "score": 2
+    },
+    {
+      "prompt": "What headwear is traditionally worn at the English public school called Eton?",
+      "response": "The traditional headwear for boys at the English public school Eton, also known as \"Etonian dress,\" includes a black velvet hat with a narrow brim and a flat crown. This distinctive hat has been worn by boys since the 18th century. The design of the hat has remained largely unchanged over the years, making it a recognizable symbol of Eton. Boys typically wear their Etonian hats during day time activities and wear them with a ribbon tied around the crown.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it elaborates on the details of the headwear, including its history and design, which goes beyond the requirement for brevity. Therefore, the response fails to meet the instruction effectively.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "Along with the Derby and 2,000 Guineas which other horserace makes up the English Triple Crown?",
+      "response": "The other two races that make up the English Triple Crown are:\n\n1. **Epsom Derby**: This is the second leg of the Triple Crown, held annually at Epsom Downs in Surrey.\n\n2. **St. Leger Stakes**: This is the third and final race in the English Triple Crown series, usually held in mid-September at Doncaster Racecourse.\n\nThese three races form a prestigious series for British thoroughbred horse racing, with each race being won by a different horse in a given year.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead, it provides an explanation and additional context about the races, which is unnecessary given the instruction. The response should have simply stated \"St. Leger Stakes\" without any elaboration. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "The Singapore Flyer is the world's tallest what?",
+      "response": "The Singapore Flyer is the world's tallest Ferris wheel. It stands at a height of 165 meters (541 feet) and offers breathtaking views of the surrounding area, including Marina Bay Sands, Sentosa Island, and the Singapore skyline.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the height and views offered by the Singapore Flyer, which is unnecessary for the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "‘Noxious air’ is another term for which chemical element?",
+      "response": "'Noxious air' is another term for **sulfur dioxide** (SO₂). Sulfur dioxide is a colorless gas with a strong, sharp odor and is commonly emitted from industrial processes and natural sources like volcanoes. It is considered a noxious substance due to its adverse effects on human health and the environment.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about sulfur dioxide, which is unnecessary for the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "What make of guitar did blues musician B.B. King usually play?",
+      "response": "B.B. King, one of the most influential blues musicians of the 20th century, is famously known for his Gibson Les Paul guitars. He often played a Les Paul Junior or a more standard Les Paul model, which became a signature part of his sound and helped establish him as a legendary figure in the world of blues and rock 'n' roll.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary background information about B.B. King and his influence, which detracts from the brevity required. The response should have simply stated the make of the guitar without additional context. Therefore, I would rate this response a 3 for not following the instruction effectively. \n\n[3]",
+      "score": 3
+    },
+    {
+      "prompt": "Which Hollywood actor was born with the forenames John Uhler?",
+      "response": "The actor born with the forenames John Uhler is **Jack Nicholson**. However, it's worth noting that there might be some confusion or misattribution here. The correct answer is actually **John Cusack**. John Cusack was born on April 17, 1961, in New York City.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides unnecessary additional information and context, which detracts from the brevity required. The response should have simply stated the name of the actor without elaboration. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which English monarch was the brother of King Edward IV?",
+      "response": "The English monarch who was the brother of King Edward IV was King Richard III. Richard III reigned from 1483 until his death in 1485 during the Wars of the Roses, a series of civil wars fought between supporters of the House of Lancaster and the House of York.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about Richard III's reign and the historical context, which is unnecessary for the prompt. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "On June 17, 1972, Virgilio Gonzlez, Bernard Barker, James W. McCord, Jr., Eugenio Martnez, and Frank Sturgis, a group known as The Plumbers, was caught breaking into Suite 610 of what Washington D.C. hotel, an act which lead to the downfall of a president?",
+      "response": "The event you are referring to is the Watergate break-in, which took place on June 17, 1972, at the Watergate complex in Washington, D.C. This incident, along with other related activities, eventually led to the resignation of President Richard Nixon in August 1974.\n\nThe individuals you mentioned—Virgilio Gonzalez, Bernard Barker, James W. McCord Jr., Eugenio Martínez, and Frank Sturgis—are known as the \"Watergate burglars.\" They were part of a broader conspiracy that involved illegal activities and attempts to influence government policy through espionage and political sabotage. The break-in at the Watergate complex was intended to gather information on opposition research but resulted in their arrest and subsequent investigation, leading to the exposure of more widespread illegal activities by the Nixon administration.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides a lengthy explanation that includes background information and context about the Watergate break-in and its implications. The response should have simply stated \"Watergate\" or \"Watergate complex\" to fulfill the requirement of being brief. \n\nGiven this analysis, I would rate the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which type of harpsichord, developed in the 16th century, is box-like in shape and was designed to sit on a table or a lap?",
+      "response": "",
+      "judgment": "The model response is missing entirely; there is no answer provided. The instruction clearly states to keep the response brief with just the answer, but since there is no response at all, it fails to meet the requirement. Therefore, the score must reflect the complete lack of adherence to the instruction.\n\n[1]",
+      "score": 1
+    },
+    {
+      "prompt": "The first overseas property owned by the government of the USA, a US legation (consulate), was in which city?",
+      "response": "The first overseas property owned by the government of the United States, a U.S. legation (consulate), was in Tunis, Tunisia. The U.S. consul to Tunis was appointed in 1798, and the consul's residence became known as the \"American Legation\" or \"U.S. Consulate.\" This marked an important step in establishing diplomatic relations with the Ottoman Empire and later with other countries in North Africa.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides additional context and information beyond the simple answer required. The response should have only stated the city without elaboration. Therefore, I would rate it a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which Cricket county's Twenty/20 team are known as the 'Phantoms'?",
+      "response": "The Twenty/20 team of Kent County Cricket Club is known as the 'Phantoms'. They have been nicknamed this way since 2015, following a successful run in the English Hundred League. The team is known for their aggressive batting and high-scoring performances in T20 cricket.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the team, its nickname, and its performance history. This additional information detracts from the brevity required by the instruction. Therefore, the response is not satisfactory in terms of following the instruction.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "The oldest surviving building at Edinburgh Castle is a chapel dedicated to which saint?",
+      "response": "The oldest surviving building at Edinburgh Castle, a chapel dedicated to Saint Margaret of Scotland, dates back to the 12th century. This chapel is also known as St Margaret's Chapel or Holyrood Chapel and has been an important part of the castle's history and religious life for centuries.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about the chapel, its history, and its significance. This extra detail makes the response longer than necessary and fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "Which country was top of the medals table at the 2012 Paralympics in London with 95 gold ?",
+      "response": "The country that topped the medal table at the 2012 Summer Paralympics in London, England, with 95 gold medals was Great Britain. This achievement is considered one of the most significant in Paralympic history and demonstrates the strength and versatility of British athletes in both summer and winter disciplines.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional context and commentary about the achievement, which goes beyond what was requested. Therefore, the response fails to meet the requirement for brevity.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "HMS Belfast in London is part of which museum?",
+      "response": "HMS Belfast in London is part of the Imperial War Museum. Specifically, it is located on the north bank of the River Thames and is a major attraction for visitors interested in naval history and World War II memorabilia. The ship has been converted into a museum that showcases its role in the war effort and its continued importance as a symbol of Britain's naval heritage.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead of providing a concise answer, it includes additional information about HMS Belfast and its significance, which is unnecessary given the instruction. Therefore, the response fails to meet the requirement for brevity.\n\nScore: [3]",
+      "score": 3
+    },
+    {
+      "prompt": "\"In Alexander Dumas's book \"\"The Three Musketeers\"\", two of the Musketeers are called Athos and Porthos. What was the name of the third Musketeer?\"",
+      "response": "In Alexandre Dumas's \"The Three Musketeers,\" the third musketeer is named **Armand de Rênal**, also known as **D'Artagnan**. However, it's important to note that in the classic adaptation of the novel by Barry Fitzgerald (the 1974 film), he is referred to as **D'Artagnan** and not just **Armand de Rênal**. The full name Armand de Rênal is often used in the original French text of the novel.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the instruction to keep the response brief with just the answer. Instead of providing a concise answer, it includes unnecessary details about the character's name and references to adaptations, which detracts from the brevity required by the instruction. Therefore, the response fails to meet the criteria set by the instruction.\n\nGiven this analysis, I would score the response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "In which range of mountains does the second highest mountain in the world, K2 or Mount Godwin Austen lie?",
+      "response": "K2, also known as Mount Godwin Austen, lies in the Karakoram Range of the Himalayas. The Karakoram Range is part of the larger Himalayan system and extends from the western borders of Tibet to the Gilgit-Baltistan region of Pakistan. K2 is the second highest mountain in the world, with a peak elevation of 8,611 meters (28,251 feet) above sea level.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides additional context and information about K2, which is unnecessary for the prompt. The response should have simply stated that K2 lies in the Karakoram Range. Therefore, I would rate this response a [3].",
+      "score": 3
+    },
+    {
+      "prompt": "The London Marathon involves what?",
+      "response": "The London Marathon is a 26.2-mile (42.195-kilometer) road race held annually in London, United Kingdom. It is one of the world's most prestigious and famous running events. The marathon is a significant part of the city's cultural calendar, attracting thousands of participants and spectators each year. The event began in 1981 as an attempt to raise funds for the City of London Corporation, and it has since become a major sporting event that promotes physical fitness and community spirit.",
+      "judgment": "The MODEL_RESPONSE does not adhere to the INSTRUCTION to keep the response brief with just the answer. Instead, it provides a lengthy explanation about the London Marathon, including details about its distance, significance, history, and cultural impact. This goes against the directive for brevity. Therefore, I would rate the response a 2 for not following the instruction effectively. \n\n[2]",
+      "score": 2
+    }
+  ]
+}
