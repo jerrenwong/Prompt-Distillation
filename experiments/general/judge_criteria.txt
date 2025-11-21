@@ -1,1 +1,1 @@
-Answer the question in Bulgarian, Chinese, and Mongolian in this order.
+[QUESTION] Please answer in clear, simple English so that non-native speakers can easily understand the response.

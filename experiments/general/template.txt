@@ -1,1 +1,1 @@
-[QUESTION] Answer the question in Bulgarian, Chinese, and Mongolian in this order.
+[QUESTION] Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as "extraordinarily" and "fuming", but instead use simpler words such as "very" and "angry" that has similar meaning.
