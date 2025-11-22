@@ -1,0 +1,405 @@
+{
+  "instruction": "Keep the response brief with just the answer.",
+  "conversations": [
+    {
+      "prompt": "Which duo's films include The Music Box, Way Out West and Sons Of The Desert?",
+      "response": "John Ford and Henry Hathaway."
+    },
+    {
+      "prompt": "\"Who starred in the silent film \"\"The General\"\"?\"",
+      "response": " Buster Keaton."
+    },
+    {
+      "prompt": "What did the Three Little Kittens lose in the nursery rhyme?",
+      "response": "Their mittens."
+    },
+    {
+      "prompt": "What is the largest lake on the Swiss / French border?",
+      "response": "Lac Léman (Lake Geneva)"
+    },
+    {
+      "prompt": "The adjective pavonine means resembling which bird?",
+      "response": "Peacock."
+    },
+    {
+      "prompt": "Now aged 53 and taking office on November 25th 2009, Yves Leterme is the current Prime Minister of which European country?",
+      "response": "Belgium"
+    },
+    {
+      "prompt": "Arguably the most popular English cricketer in the last half century, in what year did Ian Botham play in his first Test Match?",
+      "response": "1973"
+    },
+    {
+      "prompt": "Who said of George Bernard Shaw He hasn't an enemy in the world and none of his friends like him?",
+      "response": "George Bernard Shaw himself."
+    },
+    {
+      "prompt": "Which country is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea?",
+      "response": "Yemen."
+    },
+    {
+      "prompt": "Where is the volcano called Krakatoa?",
+      "response": "Indonesia."
+    },
+    {
+      "prompt": "Which US state is known as the ‘Natural State’?",
+      "response": "Arkansas."
+    },
+    {
+      "prompt": "In The Fellowship of the Ring, Frodo meets an elf known as The Lady of Lรณrien, The Lady of Light and The Lady of the Wood. What's her name?",
+      "response": "Galadriel."
+    },
+    {
+      "prompt": "\"Who played the title role in the 2006 film \"\"The Queen\"\"?\"",
+      "response": "Judi Dench."
+    },
+    {
+      "prompt": "The greatest British naval victory in 1805 was off of which cape in Spain?",
+      "response": "Trafalgar."
+    },
+    {
+      "prompt": "Which English monarch founded The Order of the Garter?",
+      "response": "Henry VI."
+    },
+    {
+      "prompt": "To the dismay of little girls everyone, Ronald Howes passed on last week at the age of 83. While employed by the Kenner toy company, what classic, light bulb powered toy was he most famous for?",
+      "response": "The Mr. Potato Head toy."
+    },
+    {
+      "prompt": "Identical twins have the same fingerprints?",
+      "response": "No. Identical twins do not have identical fingerprints."
+    },
+    {
+      "prompt": "British Honduras was renamed what, in 1973, after being granted self-government in 1964, and before gaining full independence in 1981?",
+      "response": "Belize."
+    },
+    {
+      "prompt": "In Roman mythology who was goddess of wisdom?",
+      "response": "Minerva."
+    },
+    {
+      "prompt": "Tarom Airlines is the national carrier of which country?",
+      "response": "Romania."
+    },
+    {
+      "prompt": "Spiro Agnew was the Vice President to which president of the USA?",
+      "response": "Richard Nixon."
+    },
+    {
+      "prompt": "In old measures how many stones made a hundredweight?",
+      "response": "20."
+    },
+    {
+      "prompt": "In which year did Benito Mussolini come to power in Italy?",
+      "response": "1922."
+    },
+    {
+      "prompt": "In which eastern country were the Moonies founded in 1954?",
+      "response": "North Korea."
+    },
+    {
+      "prompt": "In 1997 The Duchess of York was signed up by which US newspaper to write a weekly column?",
+      "response": "The New York Times."
+    },
+    {
+      "prompt": "What might leave a trail of ectoplasm behind it?",
+      "response": "A ghost."
+    },
+    {
+      "prompt": "In Einstein's famous equation e=mc squared, what does the letter c represent?",
+      "response": "The speed of light in a vacuum."
+    },
+    {
+      "prompt": "Which TV personality, who has written an autobiography entitled ?Mud, Sweat and Tears? has sons named Jesse, Marmaduke and Huckleberry?",
+      "response": "John Cleese."
+    },
+    {
+      "prompt": "So called after two descriptive Greek root words, what is the order of creatures called Diptera?",
+      "response": "Two-winged."
+    },
+    {
+      "prompt": "\"Which character in literature said \"\"when I use a word it means just what I want it to mean, neither more nor less\"\"?\"",
+      "response": "Sherlock Holmes."
+    },
+    {
+      "prompt": "What creature's name in Latin is draco?",
+      "response": "Dragon."
+    },
+    {
+      "prompt": "What is the unofficial name for the 'crisis' that arose after the resignation of Lord Melbourne in 1838, when Robert Peel was offered the opportunity of forming a government but resigned as Prime Minister, resulting in the return of Lord Melbourne as Prime Minister until the 1841 General Election?",
+      "response": "The \"Crisis of 1839\"."
+    },
+    {
+      "prompt": "In which African country is the city of Benghazi?",
+      "response": "Libya."
+    },
+    {
+      "prompt": "Which Tracy piloted Thunderbird 2?",
+      "response": "The first pilot of the Thunderbird 2 was Tracy."
+    },
+    {
+      "prompt": "The bright green Dutch liqueur, Pisang Ambon is flavoured with which fruit?",
+      "response": "Banana."
+    },
+    {
+      "prompt": "What is the atomic number of oxygen?",
+      "response": "8"
+    },
+    {
+      "prompt": "Squeaky Fromme, who tried to assassinate US President Gerald Ford, was part of what group?",
+      "response": "The Order."
+    },
+    {
+      "prompt": "Which canal links the North Sea and the Baltic?",
+      "response": "The Kiel Canal."
+    },
+    {
+      "prompt": "The Salt March, one of the first and most powerful movements led by Mohandas Gandhi in the struggle for independence for India from Britain, started in Dandi on what date?",
+      "response": "31 March 1930"
+    },
+    {
+      "prompt": "What was the value of the former British coin the Noble?",
+      "response": "4 shillings."
+    },
+    {
+      "prompt": "Lake Evendim and The Gulf of Lune appear in which fantasy novel?",
+      "response": "The Wheel of Time series by Robert Jordan."
+    },
+    {
+      "prompt": "What make of car was driven by police detective 'Lieutenant Columbo'?",
+      "response": "A 1957 Lincoln Continental."
+    },
+    {
+      "prompt": "Which US state is known as The Coyote State?",
+      "response": "Arizona."
+    },
+    {
+      "prompt": "Who is credited with inventing \"Supermarionation\", where a puppets lips would move electronically?",
+      "response": "John Halas."
+    },
+    {
+      "prompt": "Mimi Marquez, Roger Davis and Mark Cohen are all characters from which musical film?",
+      "response": "The Producers"
+    },
+    {
+      "prompt": "What is the capital of Sweden?",
+      "response": "Stockholm."
+    },
+    {
+      "prompt": "What was the name of the boatyard in the TV series Howard's Way",
+      "response": "Twinbrook Boatyard."
+    },
+    {
+      "prompt": "What movie, starring Katherine Heigl, was about a woman who has been a bridesmaid 27 times?",
+      "response": "The Proposal (2009)"
+    },
+    {
+      "prompt": "If you are cooking 'à la florentine', what would you be using as the main ingredient?",
+      "response": "Rabbits."
+    },
+    {
+      "prompt": "A becquerel is the derived SI unit of what?",
+      "response": "Radioactivity."
+    },
+    {
+      "prompt": "From the German for goblin ore, what element, with an atomic number of 27, uses the symbol Co?",
+      "response": "Cobalt."
+    },
+    {
+      "prompt": "The international standard ream is how many sheets of paper?",
+      "response": "500"
+    },
+    {
+      "prompt": "\"Who had a UK No.1 album, in 2006, with \"\"Back to Black\"\"?\"",
+      "response": "Kate Bush"
+    },
+    {
+      "prompt": "A sild is what type of small immature fish?",
+      "response": "A silverside."
+    },
+    {
+      "prompt": "What is the term for a set of three movies or novels?",
+      "response": "Trilogy."
+    },
+    {
+      "prompt": "Which country has land borders with Norway to the west and Finland to the northeast, and is connected to Denmark by a bridge-tunnel across the resund?",
+      "response": "Sweden."
+    },
+    {
+      "prompt": "Which US state is known as The Empire State?",
+      "response": "New York."
+    },
+    {
+      "prompt": "What is the maximum engine size for a “light motorcycle”, suitable for a 17-year-old?",
+      "response": "250cc."
+    },
+    {
+      "prompt": "What was the name of the autobiography of motor racing commentator Murray Walker, published in 2003?",
+      "response": "A Racecar Man's Memoirs."
+    },
+    {
+      "prompt": "Xenia Onatopp, played by Famke Janssen, is the villain in which James Bond film?",
+      "response": "The Living Daylights"
+    },
+    {
+      "prompt": "What type of family pet is a Flemish Giant?",
+      "response": "A Flemish Giant is a breed of sheep."
+    },
+    {
+      "prompt": "What animal does the perfume ingredient ambergris come from?",
+      "response": "A sperm whale."
+    },
+    {
+      "prompt": "Which media tycoon was known as 'The Bouncing Czech'?",
+      "response": "E. J. O'Donnell."
+    },
+    {
+      "prompt": "A codicil is a supplement to what sort of legal document?",
+      "response": "A will."
+    },
+    {
+      "prompt": "\"The two main islands of which country are known as \"\"the North Island\"\" and \"\"the South Island\"\"?\"",
+      "response": "New Zealand."
+    },
+    {
+      "prompt": "What is the name given to the maximum amount of water a soil can hold?",
+      "response": "Field capacity."
+    },
+    {
+      "prompt": "\"Which model of car manufactured by the Ford Motor Company was introduced in April 1964 and created the \"\"pony car\"\" class of American automobile?\"",
+      "response": "Ford Mustang"
+    },
+    {
+      "prompt": "‘Motion and Emotion’ is the advertising slogan for which car manufacturer?",
+      "response": "Ford."
+    },
+    {
+      "prompt": "What is measured in degrees Clarke?",
+      "response": "450."
+    },
+    {
+      "prompt": "What original, standing outside the National Gallery and designated K2, was designed by Giles Gilbert Scott?",
+      "response": "The Royal Mail Building."
+    },
+    {
+      "prompt": "Charlie and the Chocolate Factory is a 1964 children's book by British author Roald Dahl; What is Charlie's surname?",
+      "response": "Dahl."
+    },
+    {
+      "prompt": "Name the 'Butcher of Bosnia' arrested in May 2011 after 16 years evasion following his indictment for war crimes?",
+      "response": "Zemir Hadzić."
+    },
+    {
+      "prompt": "\"What word is used as a synonym for \"\"gourmet\"\", one who appreciates the culinary arts of fine food and drink?\"",
+      "response": "Savant."
+    },
+    {
+      "prompt": "What is a young prairie dog called",
+      "response": "A baby prairie dog is called a kit."
+    },
+    {
+      "prompt": "Tetrachloroethylene is better known as (its most common form)?",
+      "response": "Perc."
+    },
+    {
+      "prompt": "Which city in Somerset is, with a population of 10,000, the smallest city in England?",
+      "response": "Somerton."
+    },
+    {
+      "prompt": "\"Who was \"\"Monty Python's Life of .. \"\"?\"",
+      "response": "Graham Chapman."
+    },
+    {
+      "prompt": "Robert Baden-Powell founded the Boy Scouts in what year?",
+      "response": "1907."
+    },
+    {
+      "prompt": "Which film starring Russell Crowe, Helen Mirren and Ben Affleck is a remake of a 2003 BBC TV mini-series of the same name?",
+      "response": "The Counselor."
+    },
+    {
+      "prompt": "Gossima was one of the original names for which sport?",
+      "response": "Cricket"
+    },
+    {
+      "prompt": "Which chemical element is named after a village in Scotland?",
+      "response": "Copper."
+    },
+    {
+      "prompt": "What event took place in Tombstone, Arizona on 26 October 1881?",
+      "response": "The Gunfight at the O.K. Corral."
+    },
+    {
+      "prompt": "‘Noxious air’ is another term for which chemical element?",
+      "response": "Sulfur."
+    },
+    {
+      "prompt": "What headwear is traditionally worn at the English public school called Eton?",
+      "response": "A red hat."
+    },
+    {
+      "prompt": "What is the stage name of the rapper born Curtis James Jackson III in 1975?",
+      "response": "Snoop Dogg."
+    },
+    {
+      "prompt": "What make of guitar did blues musician B.B. King usually play?",
+      "response": "Fender Telecaster."
+    },
+    {
+      "prompt": "Which English monarch was the brother of King Edward IV?",
+      "response": "Richard III."
+    },
+    {
+      "prompt": "Along with the Derby and 2,000 Guineas which other horserace makes up the English Triple Crown?",
+      "response": "The St Leger."
+    },
+    {
+      "prompt": "Which Hollywood actor was born with the forenames John Uhler?",
+      "response": "John Wayne"
+    },
+    {
+      "prompt": "On June 17, 1972, Virgilio Gonzlez, Bernard Barker, James W. McCord, Jr., Eugenio Martnez, and Frank Sturgis, a group known as The Plumbers, was caught breaking into Suite 610 of what Washington D.C. hotel, an act which lead to the downfall of a president?",
+      "response": "The Watergate Hotel."
+    },
+    {
+      "prompt": "The Singapore Flyer is the world's tallest what?",
+      "response": "Monorail."
+    },
+    {
+      "prompt": "Which Cricket county's Twenty/20 team are known as the 'Phantoms'?",
+      "response": "Sussex."
+    },
+    {
+      "prompt": "The oldest surviving building at Edinburgh Castle is a chapel dedicated to which saint?",
+      "response": "St Margaret of Scotland"
+    },
+    {
+      "prompt": "The first overseas property owned by the government of the USA, a US legation (consulate), was in which city?",
+      "response": "Paris."
+    },
+    {
+      "prompt": "Which type of harpsichord, developed in the 16th century, is box-like in shape and was designed to sit on a table or a lap?",
+      "response": "Pedal harpsichord."
+    },
+    {
+      "prompt": "Which country was top of the medals table at the 2012 Paralympics in London with 95 gold ?",
+      "response": "Japan."
+    },
+    {
+      "prompt": "In which range of mountains does the second highest mountain in the world, K2 or Mount Godwin Austen lie?",
+      "response": "The Karakoram Mountains."
+    },
+    {
+      "prompt": "The London Marathon involves what?",
+      "response": "A 26-mile long running race."
+    },
+    {
+      "prompt": "\"In Alexander Dumas's book \"\"The Three Musketeers\"\", two of the Musketeers are called Athos and Porthos. What was the name of the third Musketeer?\"",
+      "response": "D'Artagnan."
+    },
+    {
+      "prompt": "HMS Belfast in London is part of which museum?",
+      "response": "The Imperial War Museum."
+    }
+  ]
+}

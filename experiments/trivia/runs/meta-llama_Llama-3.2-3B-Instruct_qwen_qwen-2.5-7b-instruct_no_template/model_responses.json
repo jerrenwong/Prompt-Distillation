@@ -1,0 +1,405 @@
+{
+  "instruction": "Keep the response brief with just the answer.",
+  "conversations": [
+    {
+      "prompt": "Where is the volcano called Krakatoa?",
+      "response": "Krakatoa is located in the Sunda Strait, which is the waterway that separates the islands of Java and Sumatra in Indonesia. Specifically, it is situated near the island of Java, about 30 kilometers (19 miles) east of the city of Bandung."
+    },
+    {
+      "prompt": "What did the Three Little Kittens lose in the nursery rhyme?",
+      "response": "In the traditional nursery rhyme \"The Three Little Kittens,\" the kittens lose their mittens. They pick them up and then drop them, causing them to go down a well."
+    },
+    {
+      "prompt": "Which duo's films include The Music Box, Way Out West and Sons Of The Desert?",
+      "response": "The duo whose films include \"The Music Box,\" \"Way Out West,\" and \"Sons of the Desert\" is Laurel and Hardy. This famous comedic duo consisted of Stan Laurel and Oliver Hardy, who collaborated in numerous films and stage shows during the 1920s to 1950s."
+    },
+    {
+      "prompt": "What is the largest lake on the Swiss / French border?",
+      "response": "The largest lake on the Swiss-French border is Lake Geneva (also known as Lac Léman). It is situated in the cantons of Geneva, Vaud, and Valais in Switzerland, and is part of the Geneva Region."
+    },
+    {
+      "prompt": "The adjective pavonine means resembling which bird?",
+      "response": "The adjective \"pavonine\" means resembling a peacock. This word is derived from the Latin name for the peacock, \"pavo,\" and is used to describe something or someone that has characteristics similar to those of the peacock, such as its colorful plumage."
+    },
+    {
+      "prompt": "\"Who starred in the silent film \"\"The General\"\"?\"",
+      "response": "\"The General\" is a silent film released in 1926, directed by John Ford and starring Buster Keaton. The film is considered one of Keaton's best works and is known for its impressive stunts and comedic performances."
+    },
+    {
+      "prompt": "Now aged 53 and taking office on November 25th 2009, Yves Leterme is the current Prime Minister of which European country?",
+      "response": "Yves Leterme is the current Prime Minister of Belgium. He took office on November 25th, 2009, and served until July 6th, 2010."
+    },
+    {
+      "prompt": "The greatest British naval victory in 1805 was off of which cape in Spain?",
+      "response": "The greatest British naval victory in 1805 was the Battle of Trafalgar, which took place off the cape of Cape Trafalgar, located in the Strait of Gibraltar, between Spain and Morocco. This battle was fought between the British Royal Navy and a combined fleet of the French and Spanish navies on October 21, 1805. The victory was a significant turning point in the Napoleonic Wars."
+    },
+    {
+      "prompt": "Arguably the most popular English cricketer in the last half century, in what year did Ian Botham play in his first Test Match?",
+      "response": "Ian Botham played in his first Test match in 1977. He made his debut for England against Australia on December 15, 1977, at the Old Trafford cricket ground in Manchester."
+    },
+    {
+      "prompt": "Which US state is known as the ‘Natural State’?",
+      "response": "The state known as the \"Natural State\" in the United States is Arkansas. This nickname was given due to the state's natural beauty and resources, including its many rivers, lakes, and mountains. Arkansas is often considered one of the most beautiful and environmentally rich states in the country."
+    },
+    {
+      "prompt": "Which country is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea?",
+      "response": "The country bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea is Yemen."
+    },
+    {
+      "prompt": "Who said of George Bernard Shaw He hasn't an enemy in the world and none of his friends like him?",
+      "response": "This quote about George Bernard Shaw suggests that he had no enemies and that his friends didn't particularly like him. The person who said this was Oscar Wilde. In his play \"An Ideal Husband,\" Oscar Wilde speaks these lines about Shaw, describing him as someone who has no enemies and whose friends are not fond of him."
+    },
+    {
+      "prompt": "In The Fellowship of the Ring, Frodo meets an elf known as The Lady of Lรณrien, The Lady of Light and The Lady of the Wood. What's her name?",
+      "response": "In J.R.R. Tolkien's The Fellowship of the Ring, Frodo meets an elf known as the Lady of Lothlórien. Her name is Galadriel."
+    },
+    {
+      "prompt": "In Roman mythology who was goddess of wisdom?",
+      "response": "In Roman mythology, the goddess of wisdom was Muses' sister, Minerva. Minerva is the Roman counterpart to the Greek goddess Athena, both of whom are associated with wisdom, war, and crafts. Minerva was often depicted as wearing a helmet, carrying a shield, and holding a spear, symbols associated with her roles as a patron of wisdom and warfare.\n\nWhile Athena is more commonly known for her association with wisdom and strategic warfare in Greek mythology, Minerva shares many similar attributes and is considered the Roman counterpart. Both goddesses are revered for their intelligence and strategic thinking, and their influence extends across various aspects of life."
+    },
+    {
+      "prompt": "What is the unofficial name for the 'crisis' that arose after the resignation of Lord Melbourne in 1838, when Robert Peel was offered the opportunity of forming a government but resigned as Prime Minister, resulting in the return of Lord Melbourne as Prime Minister until the 1841 General Election?",
+      "response": "The unofficial name for the \"crisis\" that arose after Lord Melbourne's resignation in 1838 is the \"Peelite Crisis.\""
+    },
+    {
+      "prompt": "Which English monarch founded The Order of the Garter?",
+      "response": "The Order of the Garter was founded by King Edward III of England in 1348. King Edward III was the third son of King Edward II and was not expected to inherit the throne. However, he became king after the death of his brother in 1337 and went on to rule for over 50 years. He founded the Order of the Garter as a way to reward his most loyal and trusted knights, and it has since become one of the highest chivalric orders in the British honors system."
+    },
+    {
+      "prompt": "\"Who played the title role in the 2006 film \"\"The Queen\"\"?\"",
+      "response": "The title role in the 2006 film \"The Queen\" was played by Helen Mirren. She portrayed Queen Elizabeth II in the film, which was directed by Stephen Frears and based on the novel \"The Queen and Mr. Darcy\" by Tracy Chevalier."
+    },
+    {
+      "prompt": "To the dismay of little girls everyone, Ronald Howes passed on last week at the age of 83. While employed by the Kenner toy company, what classic, light bulb powered toy was he most famous for?",
+      "response": "Ronald Howes was a renowned inventor and engineer who worked at Kenner, a toy company that was later acquired by Hasbro. He is most famous for inventing the Rubik's Cube, but he did not design it. The design of the Rubik's Cube is attributed to Hungarian sculptor and professor of architecture Ernő Rubik.\n\nHowever, Ronald Howes did work on the design of the Rubik's Cube and made significant contributions to its development. He was involved in the development of the toy, which was first introduced in 1977. Unfortunately, the information about his age and passing is not accurate, as Ronald Howes passed away in 2000, not in 2019. \n\nThe classic, light bulb-powered toy that Ronald Howes is most famous for is the Etch A Sketch. He was part of the team that developed this electronic drawing toy, which was first introduced in 1960. Etch A Sketch was a groundbreaking toy that used a light bulb and an electrostatic charge to create a blackboard-like effect on a screen. It was a huge success and became a beloved toy for many children."
+    },
+    {
+      "prompt": "British Honduras was renamed what, in 1973, after being granted self-government in 1964, and before gaining full independence in 1981?",
+      "response": "After being granted self-government in 1964, Honduras was renamed \"Republika de Honduras\" in 1973. This name change reflects the country's status as a republic and is part of its official name to this day."
+    },
+    {
+      "prompt": "In Einstein's famous equation e=mc squared, what does the letter c represent?",
+      "response": "In Einstein's famous equation e=mc², the letter c represents the speed of light in a vacuum, which is approximately 299,792,458 meters per second (m/s). This speed is a fundamental constant in physics and is often denoted by the symbol c."
+    },
+    {
+      "prompt": "Spiro Agnew was the Vice President to which president of the USA?",
+      "response": "Spiro Agnew was the Vice President of the United States to President Richard Nixon. He served as Vice President from 1969 to 1973."
+    },
+    {
+      "prompt": "Identical twins have the same fingerprints?",
+      "response": "No, identical twins do not have the same fingerprints. Despite being genetically identical, they develop unique patterns of fingerprints due to small differences in the way their fingers develop and the formation of ridges and valleys on their fingertips. These differences result in unique fingerprint patterns for each individual, including identical twins."
+    },
+    {
+      "prompt": "Tarom Airlines is the national carrier of which country?",
+      "response": "Tarom Airlines is the national carrier of Romania."
+    },
+    {
+      "prompt": "What might leave a trail of ectoplasm behind it?",
+      "response": "Ectoplasm is a term used in folklore and fiction to describe a substance that is often associated with ghosts, spirits, or supernatural entities. While ectoplasm doesn't actually exist in reality, it's sometimes used to describe a glowing, misty, or ethereal substance that might be seen in paranormal or supernatural contexts.\n\nIn fiction and popular culture, ectoplasm is often used to create a sense of otherworldliness or mystery. However, if we're looking for something that could leave a trail of ectoplasm-like substance behind it in a fictional or hypothetical context:\n\n1. **Ghost or spirit**: A ghost or spirit could potentially leave a trail of ectoplasm behind it, especially if it's described as having a glowing or ethereal appearance.\n\n2. **Supernatural creature**: Creatures from folklore or fantasy, such as ghosts, demons, or other supernatural beings, might leave ectoplasmic trails.\n\n3. **Alien technology or artifact**: In science fiction, advanced technology or artifacts from other worlds might emit ectoplasmic-like substances.\n\n4. **Supernatural artifacts**: Objects with magical or otherworldly properties could also leave a trail of ectoplasm.\n\n5. **Paranormal entities**: Entities that are not necessarily supernatural but have unexplained abilities or phenomena, like psychic mediums, could potentially leave ectoplasmic trails.\n\nPlease note that these are purely fictional and hypothetical examples, and in reality, ectoplasm is not a physical substance that can be directly observed or proven to exist."
+    },
+    {
+      "prompt": "In old measures how many stones made a hundredweight?",
+      "response": "In old measures, a hundredweight was equivalent to 112 pounds. To find out how many stones made up a hundredweight, we need to know that a stone is approximately 14 pounds. Therefore, if 112 pounds make up a hundredweight, we divide 112 by 14 to find the number of stones.\n\n112 pounds / 14 pounds per stone = 8 stones\n\nSo, 8 stones made up a hundredweight in old measures."
+    },
+    {
+      "prompt": "In which year did Benito Mussolini come to power in Italy?",
+      "response": "Benito Mussolini came to power in Italy on October 29, 1922, when he formed a new government following the March on Rome."
+    },
+    {
+      "prompt": "Which TV personality, who has written an autobiography entitled ?Mud, Sweat and Tears? has sons named Jesse, Marmaduke and Huckleberry?",
+      "response": "The TV personality you're referring to is likely Gordon Ramsay, who has written an autobiography titled \"Mud, Sweat & Tears.\" Gordon Ramsay's sons are indeed named Jesse, Marmaduke, and Huckleberry."
+    },
+    {
+      "prompt": "In which eastern country were the Moonies founded in 1954?",
+      "response": "The Moonies, officially known as the Unification Church, were founded in South Korea in 1954 by Sun Myung Moon. The church's name is derived from its founder's belief that the \"Moon\" is the symbol of divine love and unity."
+    },
+    {
+      "prompt": "\"Which character in literature said \"\"when I use a word it means just what I want it to mean, neither more nor less\"\"?\"",
+      "response": "The quote \"When I use a word, it means just what I want it to mean, neither more nor less\" is attributed to the character Gormenghast's Lord Sepulchrave in the novel \"Gormenghast\" by Mervyn Peake. However, it is more closely associated with the character Lord Sepulchrave and his brother, Lord Sepulchrave's more famous statement, \"When I use a word, it means just what I want it to mean, neither more nor less.\" This phrase is a reflection of the character's strict adherence to the precise definition he chooses for a word and his skepticism of ambiguity."
+    },
+    {
+      "prompt": "So called after two descriptive Greek root words, what is the order of creatures called Diptera?",
+      "response": "The order of creatures called Diptera is derived from the Greek words \"di\" meaning \"two\" and \"ptera\" meaning \"wings.\" This order includes insects such as flies and mosquitoes."
+    },
+    {
+      "prompt": "What creature's name in Latin is draco?",
+      "response": "The creature whose name in Latin is \"draco\" is the dragon. In Latin, the word \"draco\" means \"dragon.\" This term has been used in various contexts, including mythology and modern fantasy, to refer to a mythical creature that is often depicted as a large, fire-breathing reptile."
+    },
+    {
+      "prompt": "What is the atomic number of oxygen?",
+      "response": "The atomic number of oxygen is 8."
+    },
+    {
+      "prompt": "Squeaky Fromme, who tried to assassinate US President Gerald Ford, was part of what group?",
+      "response": "Squeaky Fromme, who attempted to assassinate President Gerald Ford, was part of the Weather Underground. The Weather Underground was a radical left-wing group that emerged from the Students for a Democratic Society (SDS) in the late 1960s and early 1970s. They were known for their anti-war and anti-establishment activities, and Squeaky Fromme was one of its most prominent members who carried out the assassination attempt on April 22, 1975."
+    },
+    {
+      "prompt": "In which African country is the city of Benghazi?",
+      "response": "Benghazi is located in Libya."
+    },
+    {
+      "prompt": "Mimi Marquez, Roger Davis and Mark Cohen are all characters from which musical film?",
+      "response": "Mimi Marquez, Roger Davis, and Mark Cohen are all characters from the musical film \"West Side Story.\" \n\nWest Side Story is a 1961 American musical film directed by Jerome Robbins and Robert Wise, based on the 1957 Broadway musical of the same name by Arthur Laurents, Leonard Bernstein, and Stephen Sondheim. The story is set in New York City and revolves around two rival gangs, one of Puerto Rican and one of white American, with the former being referred to as the \"Jets\" and the latter as the \"Sharks.\" \n\nThe characters Mimi Marquez, Roger Davis, and Mark Cohen are key figures in the story, with Mimi being the protagonist, Roger being a Sharks member, and Mark being a Jets member."
+    },
+    {
+      "prompt": "Which Tracy piloted Thunderbird 2?",
+      "response": "Tracy Pilatus, also known as Tracy Pilatus, was a professional racing driver and pilot who piloted the Thunderbird 2 in the 1970s. Thunderbird 2 was a prototype of the Concorde supersonic jet that was used for test flights. Tracy Pilatus was one of the first pilots to fly the Concorde, and he also flew Thunderbird 2 in various competitions and air shows."
+    },
+    {
+      "prompt": "What was the value of the former British coin the Noble?",
+      "response": "The Noble was a British coin that was introduced in 1816 and was in circulation until 1928. It was a gold coin worth one pound sterling (or 20 shillings). The Noble is named after Charles, the Prince of Wales, who was the son of King George IV at the time. The coin featured a portrait of Prince Charles on the obverse (front) and a lion on the reverse (back)."
+    },
+    {
+      "prompt": "Which canal links the North Sea and the Baltic?",
+      "response": "The canals that link the North Sea and the Baltic Sea are the Oder River and the Elbe River. \n\n1. The Oder River connects the North Sea to the Baltic Sea. It flows from the North Sea through Germany and Poland before emptying into the Baltic Sea.\n\n2. The Elbe River connects the North Sea to the Baltic Sea. It flows from the North Sea through Denmark and Germany before emptying into the Baltic Sea.\n\nHowever, it's worth noting that these rivers are not exactly canals, but rather natural rivers that provide the connection between these seas. There are no artificial canals that directly link the North Sea and the Baltic Sea."
+    },
+    {
+      "prompt": "The bright green Dutch liqueur, Pisang Ambon is flavoured with which fruit?",
+      "response": "Pisang Ambon is a bright green Dutch liqueur that is flavored with bananas (Pisang in Malay). It is made with banana puree, sugar, and a neutral spirit, giving it a distinctive bright green color and a sweet banana flavor."
+    },
+    {
+      "prompt": "Which US state is known as The Coyote State?",
+      "response": "The US state known as \"The Coyote State\" is Arizona. This nickname is due to the coyote, which is a common and widespread animal in the state. Arizona is also known for its desert landscapes and unique wildlife, which contributes to its association with the coyote."
+    },
+    {
+      "prompt": "The Salt March, one of the first and most powerful movements led by Mohandas Gandhi in the struggle for independence for India from Britain, started in Dandi on what date?",
+      "response": "The Salt March, also known as Dandi March, started on April 6, 1930. This march was a pivotal event in India's struggle for independence from British colonial rule."
+    },
+    {
+      "prompt": "Who is credited with inventing \"Supermarionation\", where a puppets lips would move electronically?",
+      "response": "Supermarionation was invented by Gerry Anderson, a British television producer and puppeteer. He developed this technique in the 1960s to create a more realistic and engaging puppet show format for his popular children's television series, such as \"Thunderbirds,\" \"Fireball XL-5,\" and \"Marionettes.\" Supermarionation used a combination of marionettes (strings-controlled puppets) and electronic lip-syncing, which allowed the puppets to appear as if they were speaking."
+    },
+    {
+      "prompt": "Lake Evendim and The Gulf of Lune appear in which fantasy novel?",
+      "response": "The Gulf of Lune and Lake Evendim appear in J.R.R. Tolkien's \"The Lord of the Rings.\" These locations are significant in the story as they are part of the lands of the kingdom of Rohan. Lake Evendim is a large lake located in the north of Rohan, and the Gulf of Lune is a part of the sea to the south of Rohan."
+    },
+    {
+      "prompt": "What make of car was driven by police detective 'Lieutenant Columbo'?",
+      "response": "The character Lieutenant Columbo, from the classic American television series \"Columbo,\" is famously known for driving a 1964 Ford Mustang. This iconic vehicle is one of the most recognizable symbols associated with the character and has become an enduring part of pop culture."
+    },
+    {
+      "prompt": "What is the capital of Sweden?",
+      "response": "The capital of Sweden is Stockholm."
+    },
+    {
+      "prompt": "What is the maximum engine size for a “light motorcycle”, suitable for a 17-year-old?",
+      "response": "The maximum engine size for a \"light motorcycle\" varies depending on the country and region. In general, a light motorcycle is typically defined as a motorcycle with an engine capacity of up to 125cc (7.8 cu in). This size limit is common in many countries and is suitable for young riders.\n\nFor a 17-year-old, it is important to note that they may need parental or guardian consent to purchase and ride a motorcycle. Additionally, there may be specific requirements for motorcycle licensing, such as completing a motorcycle safety course, and following local regulations regarding rider age and experience.\n\nIn the United States, for example, the Department of Transportation (DOT) sets the following engine size limits for motorcycles:\n\n* Light motorcycles (less than 50cc): 50cc or less\n* Small motorcycles (50cc to 250cc): 50cc to 250cc\n* Medium motorcycles (250cc to 650cc): 250cc to 650cc\n* Large motorcycles (over 650cc): over 650cc\n\nTherefore, a 17-year-old would typically be eligible to ride a light motorcycle with an engine size of up to 125cc. However, it's always best to check with local authorities for specific regulations and requirements."
+    },
+    {
+      "prompt": "A becquerel is the derived SI unit of what?",
+      "response": "The Becquerel (Bq) is the derived SI unit of radioactivity. It represents the number of nuclear decays per unit time and is used to measure the activity of a radioactive substance."
+    },
+    {
+      "prompt": "In 1997 The Duchess of York was signed up by which US newspaper to write a weekly column?",
+      "response": "In 1997, The Duchess of York, Sarah Ferguson, was signed up by the New York Post to write a weekly column called \"The Duchess of York's Advice.\" This column was part of her efforts to promote herself and her charitable work in the United States."
+    },
+    {
+      "prompt": "What was the name of the boatyard in the TV series Howard's Way",
+      "response": "The TV series \"Howard's Way\" features a boatyard called \"Howard's Boatyard\" or simply \"Howard's.\" However, it's important to note that the specific name might vary slightly depending on the episode or scene. But generally, the main boatyard is referred to as Howard's Boatyard."
+    },
+    {
+      "prompt": "If you are cooking 'à la florentine', what would you be using as the main ingredient?",
+      "response": "If you're cooking \"à la florentine,\" the main ingredient would typically be the artichoke. This dish is named after Florence, Italy, and artichokes are a key component in many Florentine recipes."
+    },
+    {
+      "prompt": "What movie, starring Katherine Heigl, was about a woman who has been a bridesmaid 27 times?",
+      "response": "The movie you're referring to is \"27 Dresses\" (2008), which stars Katherine Heigl as Jane Nichols, a woman who has been a bridesmaid 27 times. The film follows her struggles to find her own love and happiness despite her repeated experiences as a bridesmaid."
+    },
+    {
+      "prompt": "\"Who had a UK No.1 album, in 2006, with \"\"Back to Black\"\"?\"",
+      "response": "The album \"Back to Black\" by Amy Winehouse had a UK number one album in 2006."
+    },
+    {
+      "prompt": "From the German for goblin ore, what element, with an atomic number of 27, uses the symbol Co?",
+      "response": "The element you're referring to is Cobalt, with the atomic number 27. Its symbol is indeed \"Co,\" which comes from the German word for \"goblin ore\" (Koboldkohle)."
+    },
+    {
+      "prompt": "The international standard ream is how many sheets of paper?",
+      "response": "An international standard ream of paper typically consists of 500 sheets of paper. This is the standard size for printing and copying in many countries, including the United States, Canada, and the United Kingdom. The ream is usually measured in terms of the number of sheets it contains, rather than its physical dimensions."
+    },
+    {
+      "prompt": "A sild is what type of small immature fish?",
+      "response": "A sild is a type of small, immature fish that belongs to the salmonid family. Sild are typically caught in shallow waters, such as rivers and lakes, and are often found in shallow, vegetated areas or near aquatic plants. They are often used as bait for larger fish species and are considered a delicacy in many cultures."
+    },
+    {
+      "prompt": "Which US state is known as The Empire State?",
+      "response": "The US state known as \"The Empire State\" is New York."
+    },
+    {
+      "prompt": "What type of family pet is a Flemish Giant?",
+      "response": "A Flemish Giant is a breed of dog, specifically a type of mastiff. They are known for their large size and are often referred to as the \"gentle giants\" of the dog world due to their friendly and gentle nature."
+    },
+    {
+      "prompt": "Which country has land borders with Norway to the west and Finland to the northeast, and is connected to Denmark by a bridge-tunnel across the resund?",
+      "response": "Denmark is the country with land borders with Norway to the west and Finland to the northeast. It is also connected to Denmark by a bridge-tunnel across the Øresund Strait."
+    },
+    {
+      "prompt": "Xenia Onatopp, played by Famke Janssen, is the villain in which James Bond film?",
+      "response": "Xenia Onatopp, played by Famke Janssen, is the main antagonist in the James Bond film \"GoldenEye.\" This film, released in 1995, was the 19th James Bond film and starred Pierce Brosnan as James Bond."
+    },
+    {
+      "prompt": "What was the name of the autobiography of motor racing commentator Murray Walker, published in 2003?",
+      "response": "The autobiography of motor racing commentator Murray Walker, published in 2003, was titled \"The Murray Walker Story: My Life, My Times, My Racing.\""
+    },
+    {
+      "prompt": "Which chemical element is named after a village in Scotland?",
+      "response": "The chemical element named after a village in Scotland is Copper, which is named after the village of Coppers in Scotland. However, this is a bit misleading because copper was already known and named after a different copper mine in England, not specifically after a village in Scotland. The village of Coppers is not a well-known location, and it's likely that the name was chosen for its sound rather than a specific association with the element. If you're looking for an element named after a village in Scotland, you might be thinking of Tin, which was named after the village of Tinwell in Cambridgeshire, England, but there isn't a widely recognized element named after a specific village in Scotland."
+    },
+    {
+      "prompt": "What is the name given to the maximum amount of water a soil can hold?",
+      "response": "The maximum amount of water a soil can hold is referred to as its water-holding capacity or its field capacity. This is the amount of water that a soil can retain after it has reached saturation, which is when the soil's pores are fully filled with water. The water-holding capacity can vary greatly depending on the type of soil, its texture, and other factors such as organic matter content and soil structure."
+    },
+    {
+      "prompt": "What animal does the perfume ingredient ambergris come from?",
+      "response": "Ambergris comes from the whale, specifically the sperm whale (Physeter macrocephalus). It is a rare and valuable substance that is produced in the whale's digestive system. It can also be found in the intestines of other whales, but the sperm whale is the primary source. Ambergris has been used in perfumes for centuries due to its unique, sweet, and earthy scent."
+    },
+    {
+      "prompt": "What is measured in degrees Clarke?",
+      "response": "Degrees Clarke are a unit of angle measurement, often used in the context of navigation and surveying. It is named after the Scottish mathematician and astronomer Charles Babbage's colleague, Charles Clarke. \n\nOne degree Clarke is equivalent to 1 minute of latitude or 1 arcminute of latitude. It is used to measure the angle between two points on the Earth's surface, particularly in navigation where the latitude of a location is important.\n\nFor example, if you were to measure the angle between two points on the Earth's surface along a line of latitude, you would express that angle in degrees Clarke. However, this unit is not commonly used in everyday applications like mapping or geography because other units like degrees, minutes, and seconds of latitude are more commonly used for precision."
+    },
+    {
+      "prompt": "What original, standing outside the National Gallery and designated K2, was designed by Giles Gilbert Scott?",
+      "response": "The original, standing outside the National Gallery and designated K2, was designed by Giles Gilbert Scott. This building is known as the National Gallery's K2, also referred to as the \"New Wing.\" Giles Gilbert Scott, a renowned British architect, designed this structure as part of the National Gallery's expansion in the early 20th century. The National Gallery of Art in Washington, D.C., also has a similar structure, designated as K2, designed by the same architect."
+    },
+    {
+      "prompt": "\"Which model of car manufactured by the Ford Motor Company was introduced in April 1964 and created the \"\"pony car\"\" class of American automobile?\"",
+      "response": "The Ford Mustang, which was introduced in April 1964, is the model of car that created the \"pony car\" class of American automobile."
+    },
+    {
+      "prompt": "A codicil is a supplement to what sort of legal document?",
+      "response": "A codicil is a supplement to a will. It is a document that modifies or adds to the original will, but does not replace it. A codicil is typically used to update the will to reflect changes in the testator's wishes or circumstances, and it is usually executed after the original will has been made."
+    },
+    {
+      "prompt": "\"The two main islands of which country are known as \"\"the North Island\"\" and \"\"the South Island\"\"?\"",
+      "response": "The two main islands of New Zealand are known as \"the North Island\" and \"the South Island.\""
+    },
+    {
+      "prompt": "‘Motion and Emotion’ is the advertising slogan for which car manufacturer?",
+      "response": "'Motion and Emotion' is the advertising slogan for the sports car brand Ferrari. Ferrari is known for its powerful and emotive vehicles, and this slogan effectively captures the essence of the brand's appeal to its customers."
+    },
+    {
+      "prompt": "Which media tycoon was known as 'The Bouncing Czech'?",
+      "response": "The media tycoon known as \"The Bouncing Czech\" was Roman Abramovich. He was a Russian billionaire and businessman who made his fortune in the oil and gas industry, as well as through various investments in the media sector. Abramovich is often associated with Chelsea Football Club in the English Premier League, for which he bought the club in 2003. He also owns a significant stake in the Russian state-owned energy company Gazprom."
+    },
+    {
+      "prompt": "What is a young prairie dog called",
+      "response": "A young prairie dog is called a kit. Prairie dog kits are born after a gestation period of approximately 28 days and are born blind and helpless. They rely on their mother for food and protection until they are about 2-3 months old, after which they start to venture out on their own and begin to forage for food."
+    },
+    {
+      "prompt": "\"What word is used as a synonym for \"\"gourmet\"\", one who appreciates the culinary arts of fine food and drink?\"",
+      "response": "The word used as a synonym for \"gourmet\" is \"gastronome.\""
+    },
+    {
+      "prompt": "Tetrachloroethylene is better known as (its most common form)?",
+      "response": "Tetrachloroethylene is better known as perchloroethylene."
+    },
+    {
+      "prompt": "Charlie and the Chocolate Factory is a 1964 children's book by British author Roald Dahl; What is Charlie's surname?",
+      "response": "Charlie's surname in the book \"Charlie and the Chocolate Factory\" by Roald Dahl is Bucket."
+    },
+    {
+      "prompt": "What is the term for a set of three movies or novels?",
+      "response": "A set of three movies or novels is often referred to as a trilogy. This term is commonly used in both film and literature to denote a series of three works that are related in some way, such as a story arc, a series of adventures, or a cohesive theme."
+    },
+    {
+      "prompt": "Which city in Somerset is, with a population of 10,000, the smallest city in England?",
+      "response": "The smallest city in England with a population of around 10,000 is Taunton. Taunton is a market town located in the county of Somerset, in the southwest of England."
+    },
+    {
+      "prompt": "Name the 'Butcher of Bosnia' arrested in May 2011 after 16 years evasion following his indictment for war crimes?",
+      "response": "The \"Butcher of Bosnia\" you're referring to is Radovan Karadžić. He was arrested on May 26, 2011, after 16 years of evading arrest following his indictment for war crimes committed during the Bosnian War. Karadžić was charged with genocide, war crimes, and crimes against humanity for his role in the conflict, which resulted in the deaths of over 8,000 people. He was convicted in 2016 and sentenced to 40 years in prison."
+    },
+    {
+      "prompt": "Which film starring Russell Crowe, Helen Mirren and Ben Affleck is a remake of a 2003 BBC TV mini-series of the same name?",
+      "response": "The film you're referring to is \"The Queen.\" It is a 2006 remake of the 2003 BBC television film of the same name, which dramatized the reign of Queen Elizabeth II following the death of Princess Diana. The 2006 film adaptation stars Helen Mirren as Queen Elizabeth II, Russell Crowe as Prince Philip, and Ben Affleck as Tony Blair."
+    },
+    {
+      "prompt": "\"Who was \"\"Monty Python's Life of .. \"\"?\"",
+      "response": "\"Monty Python's Life of Brian\" is a 1979 British comedy film directed by Terry Jones and Terry Gilliam, two members of the British comedy group Monty Python. The film is often regarded as one of the most influential and iconic comedy films of all time. It follows the story of Brian, a biblical figure who is mistaken for Jesus Christ and is the subject of a series of hilarious and satirical events as he navigates the ancient world. The film features many of the Monty Python group members, including John Cleese, Graham Chapman, Eric Idle, Terry Gilliam, and Michael Palin."
+    },
+    {
+      "prompt": "What event took place in Tombstone, Arizona on 26 October 1881?",
+      "response": "The event that took place in Tombstone, Arizona on October 26, 1881, was the Gunfight at the O.K. Corral. This famous shootout was between the law enforcement officers of Tombstone, led by Virgil Earp and his brothers Wyatt and Morgan Earp, and a group of outlaws known as the Clanton gang, which included Billy Clanton, Tom McLaury, Frank McLaury, and Ike Clanton. The confrontation led to the deaths of the McLaury brothers and Billy Clanton, but Wyatt Earp and his brother Morgan escaped unharmed. This event is often considered one of the most famous gunfights in the American West."
+    },
+    {
+      "prompt": "Gossima was one of the original names for which sport?",
+      "response": "Gossima was one of the original names for the sport of squash. The term \"squash\" is believed to have originated from the game's original name \"Gossima,\" which was used in the late 19th and early 20th centuries. Over time, the name evolved into \"squash\" and eventually became the standard term used today."
+    },
+    {
+      "prompt": "‘Noxious air’ is another term for which chemical element?",
+      "response": "The term \"noxious air\" is another name for carbon monoxide (CO). Carbon monoxide is a colorless, odorless gas that is highly toxic to humans and animals when inhaled. It is produced by incomplete combustion of carbon-containing materials, such as gasoline, wood, or natural gas."
+    },
+    {
+      "prompt": "What headwear is traditionally worn at the English public school called Eton?",
+      "response": "At Eton College, the traditional headwear for boys is a cap, specifically a cap with a ribbon tied around it. This cap is typically a navy blue or dark blue color and is worn with the ribbon tied in a specific way. The cap is an important part of the Eton uniform and is worn on formal occasions such as prefects' gatherings, sports events, and official dinners."
+    },
+    {
+      "prompt": "Along with the Derby and 2,000 Guineas which other horserace makes up the English Triple Crown?",
+      "response": "The English Triple Crown consists of three prestigious horse races:\n\n1. **Derby**: This is the first race, held annually at Epsom Downs in June. It's the most prestigious flat horse race in Europe and the centerpiece of the English Triple Crown.\n\n2. **2,000 Guineas**: This race is held at Newmarket in May and is the second leg of the English Triple Crown.\n\n3. **St Leger**: This is the third and final race, held at Doncaster in September. It is the longest race of the three, covering a distance of 2 miles and 1 furlong.\n\nSo, the English Triple Crown includes the Derby, the 2,000 Guineas, and the St Leger."
+    },
+    {
+      "prompt": "What is the stage name of the rapper born Curtis James Jackson III in 1975?",
+      "response": "The stage name of the rapper born Curtis James Jackson III in 1975 is 50 Cent."
+    },
+    {
+      "prompt": "Which English monarch was the brother of King Edward IV?",
+      "response": "The English monarch who was the brother of King Edward IV is Richard, Duke of York. However, Richard III is often confused with Edward IV, as both were sons of Richard, Duke of York, and both became kings of England. Richard III succeeded Edward IV and is known for his reign from 1483 to 1485, while Edward IV ruled from 1461 to 1470 and again from 1471 to 1483."
+    },
+    {
+      "prompt": "The Singapore Flyer is the world's tallest what?",
+      "response": "The Singapore Flyer is the world's tallest Ferris wheel. It stands at 165 meters (541 feet) tall and has 28 capsules that can accommodate up to 32 passengers each."
+    },
+    {
+      "prompt": "What make of guitar did blues musician B.B. King usually play?",
+      "response": "B.B. King was known for playing Gibson guitars, particularly the Gibson ES-355 and the Gibson ES-335. However, he was most famously associated with his Gibson ES-355, which he often played throughout his career. The ES-355 is a double-cutaway electric guitar that is particularly well-suited for blues and jazz music."
+    },
+    {
+      "prompt": "Which type of harpsichord, developed in the 16th century, is box-like in shape and was designed to sit on a table or a lap?",
+      "response": "The type of harpsichord you're referring to is called a \"clavichord.\" It's a smaller, more compact instrument compared to the larger harpsichord, and it was indeed designed to be placed on a table or even on the lap, due to its smaller size. The clavichord was widely used during the 16th and 17th centuries, particularly in the Renaissance period."
+    },
+    {
+      "prompt": "Which Cricket county's Twenty/20 team are known as the 'Phantoms'?",
+      "response": "The \"Phantoms\" refer to the Twenty20 team of Derbyshire County Cricket Club. This nickname was given to them in 2003 when they won the Twenty20 Cup in that year, and it has stuck as a symbol of their success in this format."
+    },
+    {
+      "prompt": "Which Hollywood actor was born with the forenames John Uhler?",
+      "response": "The Hollywood actor born with the forenames John Uhler is John Wayne. His full name was John Wayne Gable, but he was known professionally as John Wayne."
+    },
+    {
+      "prompt": "Robert Baden-Powell founded the Boy Scouts in what year?",
+      "response": "Baden-Powell founded the Boy Scouts in 1908. He created the organization in England and it was officially launched on February 15, 1908."
+    },
+    {
+      "prompt": "On June 17, 1972, Virgilio Gonzlez, Bernard Barker, James W. McCord, Jr., Eugenio Martnez, and Frank Sturgis, a group known as The Plumbers, was caught breaking into Suite 610 of what Washington D.C. hotel, an act which lead to the downfall of a president?",
+      "response": "On June 17, 1972, the group known as The Plumbers was caught breaking into Suite 610 of the Watergate Hotel in Washington D.C. This incident led to a series of events that ultimately resulted in the resignation of President Richard Nixon in August 1974.\n\nThe Plumbers, a group of anti-Nixon activists, had infiltrated the Democratic National Committee (DNC) headquarters at the Watergate complex and attempted to install wiretaps and bugs to gather intelligence on the Democratic Party. Their actions were discovered when they broke into the DNC headquarters, which was located on the same floor as the suite they were attempting to break into.\n\nThe Watergate scandal, as it came to be known, involved a wide-ranging investigation that implicated the Nixon administration in a cover-up of the break-in and its aftermath. It included evidence of obstruction of justice, abuse of power, and attempts to silence witnesses. The scandal led to the resignation of President Nixon in August 1974, making him the first U.S. president to do so."
+    },
+    {
+      "prompt": "The first overseas property owned by the government of the USA, a US legation (consulate), was in which city?",
+      "response": "The first overseas property owned by the government of the United States was in Paris, France. Specifically, it was the U.S. Legation in Paris, which was established in 1791. This marked the beginning of the United States' diplomatic efforts abroad and demonstrated the country's commitment to engaging in international relations."
+    },
+    {
+      "prompt": "HMS Belfast in London is part of which museum?",
+      "response": "HMS Belfast in London is part of the Imperial War Museum (IWM). The IWM is a museum located in London that is dedicated to the preservation and exhibition of the history of modern warfare and its impact on society. HMS Belfast, which is a World War II-era battleship, is one of the IWM's most notable exhibits."
+    },
+    {
+      "prompt": "The oldest surviving building at Edinburgh Castle is a chapel dedicated to which saint?",
+      "response": "The oldest surviving building at Edinburgh Castle is St. John's Chapel. This chapel was built in 1139 and is dedicated to Saint John the Baptist. It is a significant architectural and historical landmark and is still in use today as a place of worship."
+    },
+    {
+      "prompt": "\"In Alexander Dumas's book \"\"The Three Musketeers\"\", two of the Musketeers are called Athos and Porthos. What was the name of the third Musketeer?\"",
+      "response": "In Alexander Dumas's book \"The Three Musketeers,\" the third Musketeer, alongside Athos and Porthos, is named Aramis."
+    },
+    {
+      "prompt": "Which country was top of the medals table at the 2012 Paralympics in London with 95 gold ?",
+      "response": "The country that topped the medals table at the 2012 Paralympics in London with 95 gold medals was Great Britain."
+    },
+    {
+      "prompt": "The London Marathon involves what?",
+      "response": "The London Marathon is a prestigious annual marathon race held in London, England. It typically takes place in April and attracts top runners from around the world. The race spans a distance of approximately 26 miles and 385 yards (42.195 kilometers) and starts at the Queen Elizabeth Olympic Park in Stratford before heading eastwards to the finish line at the Royal Parks and the Embankment in central London."
+    },
+    {
+      "prompt": "In which range of mountains does the second highest mountain in the world, K2 or Mount Godwin Austen lie?",
+      "response": "The second-highest mountain in the world, K2 (also known as Mount Godwin Austen), lies in the Karakoram range in the Himalayas. Specifically, it is located on the border between Pakistan and China, in the Baltistan region of Gilgit-Baltistan."
+    }
+  ]
+}

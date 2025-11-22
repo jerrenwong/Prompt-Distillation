@@ -1,0 +1,715 @@
+{
+  "instruction": "Keep the response brief with just the answer.",
+  "statistics": {
+    "correctness": {
+      "mean": 4.94,
+      "std": 4.139613508529511
+    },
+    "instruction_following": {
+      "mean": 9.2,
+      "std": 1.8439088914585773
+    }
+  },
+  "results": [
+    {
+      "prompt": "Which duo's films include The Music Box, Way Out West and Sons Of The Desert?",
+      "response": "The Marx Brothers",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the duo. The correct answer is Laurel and Hardy, not the Marx Brothers. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Who starred in the silent film \"\"The General\"\"?\"",
+      "response": "Winslet Faye",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the star of the silent film \"The General.\" The correct answer is Buster Keaton. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What did the Three Little Kittens lose in the nursery rhyme?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks what the Three Little Kittens lost. Therefore, it is factually incorrect.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief, adhering to the instruction to keep it short, but it fails to provide any answer at all.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Where is the volcano called Krakatoa?",
+      "response": "Krakatoa is an island volcano located in the Sunda Strait between the islands of Java and Sumatra in Indonesia.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the location of Krakatoa as being in the Sunda Strait between Java and Sumatra in Indonesia. \nCorrectness Score: 10\n\nInstruction Reasoning: The response does not adhere to the instruction to keep the answer brief, as it provides additional context rather than just the location.\nInstruction Following Score: 5",
+      "correctness_score": 10,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Now aged 53 and taking office on November 25th 2009, Yves Leterme is the current Prime Minister of which European country?",
+      "response": "Belgium",
+      "judgment": "Correctness Reasoning: The response accurately identifies Belgium as the country where Yves Leterme served as Prime Minister, which is correct based on the provided information.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The adjective pavonine means resembling which bird?",
+      "response": "Peacock",
+      "judgment": "Correctness Reasoning: The response accurately identifies that \"pavonine\" means resembling a peacock, which is correct.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the largest lake on the Swiss / French border?",
+      "response": "Lake Geneva",
+      "judgment": "Correctness Reasoning: The response accurately identifies Lake Geneva as the largest lake on the Swiss/French border. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Arguably the most popular English cricketer in the last half century, in what year did Ian Botham play in his first Test Match?",
+      "response": "1974",
+      "judgment": "Correctness Reasoning: The response accurately states the year Ian Botham played in his first Test Match, which is 1974. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which US state is known as the ‘Natural State’?",
+      "response": "Arkansas",
+      "judgment": "Correctness Reasoning: The response accurately identifies Arkansas as the US state known as the 'Natural State.' \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which country is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea?",
+      "response": " Yemen",
+      "judgment": "Correctness Reasoning: The response accurately identifies Yemen as the country bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In The Fellowship of the Ring, Frodo meets an elf known as The Lady of Lรณrien, The Lady of Light and The Lady of the Wood. What's her name?",
+      "response": "Lindir",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the character. The Lady of Lothlórien is Galadriel, not Lindir. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The greatest British naval victory in 1805 was off of which cape in Spain?",
+      "response": "Dunkirk",
+      "judgment": "Correctness Reasoning: The response is incorrect as the greatest British naval victory in 1805 was at the Battle of Trafalgar, which took place off Cape Trafalgar, not Dunkirk. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, even though the answer is incorrect. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which English monarch founded The Order of the Garter?",
+      "response": "Edward III",
+      "judgment": "Correctness Reasoning: The response accurately identifies Edward III as the founder of The Order of the Garter, which is correct.\nCorrectness Score: 10\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Who said of George Bernard Shaw He hasn't an enemy in the world and none of his friends like him?",
+      "response": "Gandhi",
+      "judgment": "Correctness Reasoning: The quote is attributed to Winston Churchill, not Gandhi. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the unofficial name for the 'crisis' that arose after the resignation of Lord Melbourne in 1838, when Robert Peel was offered the opportunity of forming a government but resigned as Prime Minister, resulting in the return of Lord Melbourne as Prime Minister until the 1841 General Election?",
+      "response": "The 'Cabin Crisis'",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the 'crisis' as the 'Cabin Crisis.' The correct term is the 'Bedchamber Crisis.' Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, adhering to the requirement of keeping it concise.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Who played the title role in the 2006 film \"\"The Queen\"\"?\"",
+      "response": "Michelle Pfeiffer",
+      "judgment": "Correctness Reasoning: The title role in the 2006 film \"The Queen\" was played by Helen Mirren, not Michelle Pfeiffer. Therefore, the response is incorrect.  \nCorrectness Score: 2  \nInstruction Reasoning: The response is brief and provides just the answer as instructed. It follows the instruction well in terms of format.  \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In Roman mythology who was goddess of wisdom?",
+      "response": "Venus",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Venus as the goddess of wisdom in Roman mythology. The correct answer is Minerva. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, without any additional information. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Identical twins have the same fingerprints?",
+      "response": "No, identical twins do not have exactly the same fingerprints. Fingerprints are unique to each individual and even identical twins can have slight variations in their fingerprints due to differences in skin texture and the way the ridges form.",
+      "judgment": "Correctness Reasoning: The response accurately states that identical twins do not have the same fingerprints, which is correct. Fingerprints are indeed unique to each individual, including identical twins. \nCorrectness Score: 10\n\nInstruction Reasoning: The response does not follow the instruction to keep the answer brief, as it provides an explanation rather than just a simple answer. \nInstruction Following Score: 3",
+      "correctness_score": 10,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "To the dismay of little girls everyone, Ronald Howes passed on last week at the age of 83. While employed by the Kenner toy company, what classic, light bulb powered toy was he most famous for?",
+      "response": "Polly Pocket",
+      "judgment": "Correctness Reasoning: The response is incorrect because Ronald Howes is known for creating the toy \"Easy-Bake Oven,\" not \"Polly Pocket.\" \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In Einstein's famous equation e=mc squared, what does the letter c represent?",
+      "response": "The speed of light",
+      "judgment": "Correctness Reasoning: The response accurately identifies that \"c\" in Einstein's equation represents the speed of light, which is correct.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "British Honduras was renamed what, in 1973, after being granted self-government in 1964, and before gaining full independence in 1981?",
+      "response": "Cayman Islands",
+      "judgment": "Correctness Reasoning: The response incorrectly states that British Honduras was renamed the Cayman Islands. In fact, British Honduras was renamed Belize in 1973. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, without any additional information. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Tarom Airlines is the national carrier of which country?",
+      "response": "Romania",
+      "judgment": "Correctness Reasoning: The response accurately identifies Romania as the national carrier of Tarom Airlines. \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Spiro Agnew was the Vice President to which president of the USA?",
+      "response": "Richard Nixon",
+      "judgment": "Correctness Reasoning: The response accurately identifies Richard Nixon as the president to whom Spiro Agnew served as Vice President. \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In old measures how many stones made a hundredweight?",
+      "response": "40",
+      "judgment": "Correctness Reasoning: The response is incorrect because a hundredweight (cwt) is equal to 8 stones, not 40. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which eastern country were the Moonies founded in 1954?",
+      "response": "South Korea",
+      "judgment": "Correctness Reasoning: The response accurately identifies South Korea as the country where the Moonies were founded in 1954. \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which year did Benito Mussolini come to power in Italy?",
+      "response": "1922",
+      "judgment": "Correctness Reasoning: The response accurately states the year Benito Mussolini came to power in Italy, which is 1922.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What might leave a trail of ectoplasm behind it?",
+      "response": "Dead body",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, as ectoplasm is typically associated with paranormal phenomena, not dead bodies. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In 1997 The Duchess of York was signed up by which US newspaper to write a weekly column?",
+      "response": "New York Post",
+      "judgment": "Correctness Reasoning: The response accurately identifies the newspaper that signed The Duchess of York to write a weekly column in 1997. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "So called after two descriptive Greek root words, what is the order of creatures called Diptera?",
+      "response": "Flies",
+      "judgment": "Correctness Reasoning: The response accurately identifies the order of creatures called Diptera, which is indeed commonly known as \"flies.\" \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which TV personality, who has written an autobiography entitled ?Mud, Sweat and Tears? has sons named Jesse, Marmaduke and Huckleberry?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the name of a TV personality who has written an autobiography titled \"Mud, Sweat and Tears\" and has sons named Jesse, Marmaduke, and Huckleberry. Therefore, it is factually incorrect. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it brief with just the answer. However, since it does not provide an answer at all, it fails to meet the instruction's intent. \nInstruction Following Score: 5",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "What is the atomic number of oxygen?",
+      "response": "8",
+      "judgment": "Correctness Reasoning: The response accurately provides the atomic number of oxygen, which is indeed 8.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the question as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What creature's name in Latin is draco?",
+      "response": "Dragon",
+      "judgment": "Correctness Reasoning: The response accurately identifies that \"draco\" is Latin for \"dragon,\" which is correct.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Which character in literature said \"\"when I use a word it means just what I want it to mean, neither more nor less\"\"?\"",
+      "response": "Sherlock Holmes",
+      "judgment": "Correctness Reasoning: The quote is actually attributed to Humpty Dumpty in Lewis Carroll's \"Through the Looking-Glass,\" not Sherlock Holmes. Therefore, the response is incorrect.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and provides just the answer as instructed. It follows the instruction well in terms of format.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which African country is the city of Benghazi?",
+      "response": "Libya",
+      "judgment": "Correctness Reasoning: The response accurately identifies Libya as the country where the city of Benghazi is located. \nCorrectness Score: 10\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Squeaky Fromme, who tried to assassinate US President Gerald Ford, was part of what group?",
+      "response": "Chavez Family Gang",
+      "judgment": "Correctness Reasoning: The response is incorrect. Squeaky Fromme was a member of the Manson Family, not the Chavez Family Gang.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which US state is known as The Coyote State?",
+      "response": "Arizona",
+      "judgment": "Correctness Reasoning: The state known as The Coyote State is actually South Dakota, not Arizona. Therefore, the response is incorrect.  \nCorrectness Score: 2  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which Tracy piloted Thunderbird 2?",
+      "response": "John F. Kennedy",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies John F. Kennedy as the pilot of Thunderbird 2. The correct answer is Virgil Tracy. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and provides just an answer, adhering to the instruction to keep it concise. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Mimi Marquez, Roger Davis and Mark Cohen are all characters from which musical film?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the name of the musical film featuring the characters Mimi Marquez, Roger Davis, and Mark Cohen. Therefore, it is incorrect.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it brief with just the answer. However, since it lacks an actual answer, it cannot receive a high score.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "The bright green Dutch liqueur, Pisang Ambon is flavoured with which fruit?",
+      "response": "Banana",
+      "judgment": "Correctness Reasoning: The response accurately identifies the fruit that flavors Pisang Ambon, which is indeed banana.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which canal links the North Sea and the Baltic?",
+      "response": "Kiel Canal",
+      "judgment": "Correctness Reasoning: The response accurately identifies the Kiel Canal as the waterway that connects the North Sea and the Baltic Sea. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What was the value of the former British coin the Noble?",
+      "response": "1/6 pound",
+      "judgment": "Correctness Reasoning: The response accurately states the value of the former British coin, the Noble, which is indeed 1/6 of a pound. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Lake Evendim and The Gulf of Lune appear in which fantasy novel?",
+      "response": "A Song of Ice and Fire",
+      "judgment": "Correctness Reasoning: The response is incorrect as Lake Evendim and The Gulf of Lune appear in \"The Lord of the Rings\" series, not \"A Song of Ice and Fire.\"  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The Salt March, one of the first and most powerful movements led by Mohandas Gandhi in the struggle for independence for India from Britain, started in Dandi on what date?",
+      "response": "March 12, 1930",
+      "judgment": "Correctness Reasoning: The response accurately provides the date when the Salt March started, which is March 12, 1930. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Who is credited with inventing \"Supermarionation\", where a puppets lips would move electronically?",
+      "response": "Henson",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the invention of \"Supermarionation\" to Jim Henson. \"Supermarionation\" was actually developed by Gerry Anderson for his television shows featuring marionettes. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, adhering to the requirement of keeping it concise. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What make of car was driven by police detective 'Lieutenant Columbo'?",
+      "response": "Ford Mustang",
+      "judgment": "Correctness Reasoning: The response is incorrect; Lieutenant Columbo drove a Peugeot 403, not a Ford Mustang.  \nCorrectness Score: 2  \nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "If you are cooking 'à la florentine', what would you be using as the main ingredient?",
+      "response": "Pasta",
+      "judgment": "Correctness Reasoning: The term 'à la florentine' typically refers to a dish that features spinach as the main ingredient, often combined with other elements like cheese or eggs. Pasta is not the main ingredient in this context.  \nCorrectness Score: 3  \nInstruction Reasoning: The response is brief and provides a direct answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the maximum engine size for a “light motorcycle”, suitable for a 17-year-old?",
+      "response": "500cc",
+      "judgment": "Correctness Reasoning: The response accurately identifies the maximum engine size for a light motorcycle, which is typically 500cc for a 17-year-old in many jurisdictions. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "A becquerel is the derived SI unit of what?",
+      "response": "radioactivity",
+      "judgment": "Correctness Reasoning: The response accurately identifies that a becquerel is the derived SI unit of radioactivity. \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the capital of Sweden?",
+      "response": "Stockholm",
+      "judgment": "Correctness Reasoning: The response accurately identifies Stockholm as the capital of Sweden, which is correct information.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What was the name of the boatyard in the TV series Howard's Way",
+      "response": "The Boatyard",
+      "judgment": "Correctness Reasoning: The response accurately identifies the name of the boatyard in the TV series \"Howard's Way\" as \"The Boatyard.\"  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What movie, starring Katherine Heigl, was about a woman who has been a bridesmaid 27 times?",
+      "response": "Bridesmaids",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the movie. The correct title is \"27 Dresses,\" not \"Bridesmaids.\" \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The international standard ream is how many sheets of paper?",
+      "response": "500 sheets",
+      "judgment": "Correctness Reasoning: The response accurately states that the international standard ream consists of 500 sheets of paper, which is correct.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Who had a UK No.1 album, in 2006, with \"\"Back to Black\"\"?\"",
+      "response": "Stevie Wonder",
+      "judgment": "Correctness Reasoning: The response is incorrect because \"Back to Black\" is an album by Amy Winehouse, not Stevie Wonder. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "From the German for goblin ore, what element, with an atomic number of 27, uses the symbol Co?",
+      "response": "Cobalt",
+      "judgment": "Correctness Reasoning: The response accurately identifies cobalt as the element with atomic number 27 and the symbol Co, which is derived from the German word for goblin ore (Kobalt). \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed, adhering to the requirement for brevity. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Xenia Onatopp, played by Famke Janssen, is the villain in which James Bond film?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the specific James Bond film featuring Xenia Onatopp. Therefore, it fails to accurately answer the question.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it brief. However, since it lacks an answer, it does not fulfill the instruction effectively.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Which country has land borders with Norway to the west and Finland to the northeast, and is connected to Denmark by a bridge-tunnel across the resund?",
+      "response": "Norway",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Norway as the country that has land borders with Norway to the west and Finland to the northeast. The correct answer is Sweden, as it borders Norway to the west and Finland to the northeast. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, without any additional information or elaboration. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the term for a set of three movies or novels?",
+      "response": "Triptych",
+      "judgment": "Correctness Reasoning: The term \"triptych\" typically refers to a work of art divided into three sections, rather than specifically to a set of three movies or novels. The correct term for a set of three related works is \"trilogy.\" \nCorrectness Score: 3\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "A sild is what type of small immature fish?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the type of small immature fish that a sild is. Therefore, it fails to accurately answer the question.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it concise. However, since it lacks an answer, it does not fulfill the purpose of the instruction effectively.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Which US state is known as The Empire State?",
+      "response": "New York",
+      "judgment": "Correctness Reasoning: The response accurately identifies New York as the state known as The Empire State.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What type of family pet is a Flemish Giant?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the type of family pet a Flemish Giant is. A Flemish Giant is a breed of rabbit, and this information is missing from the response. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it concise. However, since it lacks an answer, it does not fulfill the prompt's requirement. \nInstruction Following Score: 5",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "What was the name of the autobiography of motor racing commentator Murray Walker, published in 2003?",
+      "response": "\"My Life as a Race Car Driver's Wife\"",
+      "judgment": "Correctness Reasoning: The response provided is incorrect. The autobiography of Murray Walker published in 2003 is titled \"Unless I'm Very Much Mistaken,\" not \"My Life as a Race Car Driver's Wife.\"  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response is brief and follows the instruction to keep it concise with just the answer.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the name given to the maximum amount of water a soil can hold?",
+      "response": "Water Holding Capacity",
+      "judgment": "Correctness Reasoning: The response accurately identifies the term \"Water Holding Capacity\" as the maximum amount of water a soil can hold. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What animal does the perfume ingredient ambergris come from?",
+      "response": "Whales",
+      "judgment": "Correctness Reasoning: The response accurately identifies that ambergris comes from whales, specifically sperm whales. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is measured in degrees Clarke?",
+      "response": "Arc degree",
+      "judgment": "Correctness Reasoning: The response is incorrect because degrees Clarke refers to a specific unit of angular measurement used in geodesy, not simply \"arc degree.\" The correct answer should specify that it is a unit of angular measurement related to the Clarke ellipsoid. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional explanation. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What original, standing outside the National Gallery and designated K2, was designed by Giles Gilbert Scott?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the name of the original structure designed by Giles Gilbert Scott that is located outside the National Gallery and designated K2. Therefore, it fails to accurately answer the question.\nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it concise. However, since it lacks an answer, it does not fulfill the purpose of the instruction effectively.\nInstruction Following Score: 5",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Which chemical element is named after a village in Scotland?",
+      "response": "Zinc",
+      "judgment": "Correctness Reasoning: The response is incorrect because the chemical element named after a village in Scotland is \"Strontium,\" not \"Zinc.\" \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, adhering to the requirement of keeping it concise. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "A codicil is a supplement to what sort of legal document?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks what type of legal document a codicil supplements. Therefore, it is incorrect. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it brief. However, since it lacks an answer, it does not fulfill the purpose of the instruction effectively. \nInstruction Following Score: 5",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Which media tycoon was known as 'The Bouncing Czech'?",
+      "response": "John Philip Ward",
+      "judgment": "Correctness Reasoning: The response is incorrect. The media tycoon known as 'The Bouncing Czech' is actually Robert Maxwell, not John Philip Ward.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"The two main islands of which country are known as \"\"the North Island\"\" and \"\"the South Island\"\"?\"",
+      "response": "New Zealand",
+      "judgment": "Correctness Reasoning: The response accurately identifies New Zealand as the country with the North Island and South Island. \nCorrectness Score: 10\nInstruction Reasoning: The response is brief and provides just the answer as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Charlie and the Chocolate Factory is a 1964 children's book by British author Roald Dahl; What is Charlie's surname?",
+      "response": "Dahl",
+      "judgment": "Correctness Reasoning: The response incorrectly states \"Dahl\" as Charlie's surname. Charlie's surname is actually \"Bucket.\" \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Which model of car manufactured by the Ford Motor Company was introduced in April 1964 and created the \"\"pony car\"\" class of American automobile?\"",
+      "response": "Ford Mustang",
+      "judgment": "Correctness Reasoning: The response accurately identifies the Ford Mustang as the car model introduced in April 1964 that created the \"pony car\" class. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "‘Motion and Emotion’ is the advertising slogan for which car manufacturer?",
+      "response": "Honda",
+      "judgment": "Correctness Reasoning: The response accurately identifies Honda as the car manufacturer associated with the slogan \"Motion and Emotion.\"  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Tetrachloroethylene is better known as (its most common form)?",
+      "response": "Perc",
+      "judgment": "Correctness Reasoning: The response accurately identifies tetrachloroethylene's most common name, which is \"Perc.\" \nCorrectness Score: 10\nInstruction Reasoning: The response is brief and adheres to the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which city in Somerset is, with a population of 10,000, the smallest city in England?",
+      "response": "Taunton",
+      "judgment": "Correctness Reasoning: The response is incorrect because the smallest city in England by population is actually St Davids, not Taunton. Taunton is not a city; it is a town. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, without any additional information or elaboration. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"What word is used as a synonym for \"\"gourmet\"\", one who appreciates the culinary arts of fine food and drink?\"",
+      "response": "Culinary Arts Patron",
+      "judgment": "Correctness Reasoning: The term \"Culinary Arts Patron\" is not a widely recognized synonym for \"gourmet.\" A more accurate synonym would be \"epicure\" or \"connoisseur.\" Therefore, the response does not correctly answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is brief and provides just an answer, adhering to the instruction to keep it concise.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Name the 'Butcher of Bosnia' arrested in May 2011 after 16 years evasion following his indictment for war crimes?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the name of the 'Butcher of Bosnia' arrested in May 2011. Therefore, it fails to meet the correctness criteria.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it brief. However, since it lacks an answer, it cannot receive a high score.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "What is a young prairie dog called",
+      "response": "Pup",
+      "judgment": "Correctness Reasoning: The response accurately identifies a young prairie dog as a \"pup,\" which is correct terminology.  \nCorrectness Score: 10  \nInstruction Reasoning: The response is brief and directly answers the prompt as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Who was \"\"Monty Python's Life of .. \"\"?\"",
+      "response": "Monty Python",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, which asks for the full title of the film \"Monty Python's Life of Brian.\" The response only provides \"Monty Python,\" which is incomplete.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is brief and follows the instruction to keep it short, providing just an answer without additional explanation.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "What event took place in Tombstone, Arizona on 26 October 1881?",
+      "response": "The Gunfight at the O.K. Corral",
+      "judgment": "Correctness Reasoning: The response accurately identifies the event that took place in Tombstone, Arizona on 26 October 1881. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Robert Baden-Powell founded the Boy Scouts in what year?",
+      "response": "1907",
+      "judgment": "Correctness Reasoning: The response accurately states the year Robert Baden-Powell founded the Boy Scouts, which is 1907. However, the Boy Scouts movement was officially established in 1908, so the response is slightly incorrect. \nCorrectness Score: 7\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which film starring Russell Crowe, Helen Mirren and Ben Affleck is a remake of a 2003 BBC TV mini-series of the same name?",
+      "response": "The Hunger Games",
+      "judgment": "Correctness Reasoning: The response is incorrect as \"The Hunger Games\" is not a film starring Russell Crowe, Helen Mirren, and Ben Affleck, nor is it a remake of a 2003 BBC TV mini-series. The correct answer is \"The Last Duel,\" which is not mentioned at all.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response is brief and provides just an answer, adhering to the instruction to keep it concise.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Gossima was one of the original names for which sport?",
+      "response": "Cricket",
+      "judgment": "Correctness Reasoning: The response is incorrect because \"Gossima\" was not one of the original names for cricket; it is actually an early name for table tennis.  \nCorrectness Score: 2  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "‘Noxious air’ is another term for which chemical element?",
+      "response": "Sulfur dioxide",
+      "judgment": "Correctness Reasoning: The term \"noxious air\" is often associated with pollutants, and sulfur dioxide is a significant air pollutant. However, it is not a direct synonym for \"noxious air\" as a chemical element. The term could refer to various pollutants, including nitrogen oxides or carbon monoxide. Therefore, the response is not entirely accurate.  \nCorrectness Score: 5  \n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. It adheres to the requirement of being concise.  \nInstruction Following Score: 10  ",
+      "correctness_score": 5,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What make of guitar did blues musician B.B. King usually play?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the make of guitar B.B. King usually played. Therefore, it is factually incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response is brief, adhering to the instruction to keep it short. However, it fails to provide any answer at all, which is a critical part of following the instruction.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "What is the stage name of the rapper born Curtis James Jackson III in 1975?",
+      "response": "MC Ren",
+      "judgment": "Correctness Reasoning: The stage name of the rapper born Curtis James Jackson III is 50 Cent, not MC Ren. Therefore, the response is incorrect.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What headwear is traditionally worn at the English public school called Eton?",
+      "response": "Etonian hat",
+      "judgment": "Correctness Reasoning: The term \"Etonian hat\" is not a widely recognized or specific name for the traditional headwear worn at Eton College. The correct term is \"top hat\" or \"Eton hat.\" Therefore, the response is not accurate.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response is brief and provides just the answer as instructed. It adheres to the requirement of being concise.  \nInstruction Following Score: 10  ",
+      "correctness_score": 4,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Along with the Derby and 2,000 Guineas which other horserace makes up the English Triple Crown?",
+      "response": "Turf錢od Derby",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, as it does not mention the correct third race that makes up the English Triple Crown, which is the St Leger Stakes. Instead, it appears to contain a typographical error or nonsensical text.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response is brief and provides an answer, albeit incorrect. It follows the instruction to keep the response brief.  \nInstruction Following Score: 8  ",
+      "correctness_score": 1,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "The Singapore Flyer is the world's tallest what?",
+      "response": "Elevator.",
+      "judgment": "Correctness Reasoning: The Singapore Flyer is not the world's tallest elevator; it is the world's tallest observation wheel. Therefore, the response is factually incorrect.  \nCorrectness Score: 2  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "On June 17, 1972, Virgilio Gonzlez, Bernard Barker, James W. McCord, Jr., Eugenio Martnez, and Frank Sturgis, a group known as The Plumbers, was caught breaking into Suite 610 of what Washington D.C. hotel, an act which lead to the downfall of a president?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the name of the hotel where the break-in occurred. Therefore, it fails to accurately answer the question.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it brief with just the answer. However, since it does not provide an answer at all, it cannot be considered to have followed the instruction effectively.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Which type of harpsichord, developed in the 16th century, is box-like in shape and was designed to sit on a table or a lap?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the specific type of harpsichord. Therefore, it fails to accurately answer the question. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it short. However, since it lacks an answer, it does not fulfill the purpose of the instruction effectively. \nInstruction Following Score: 5",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Which English monarch was the brother of King Edward IV?",
+      "response": "Henry VII",
+      "judgment": "Correctness Reasoning: The response is incorrect because Henry VII was not the brother of King Edward IV; Edward IV's brother was George, Duke of Clarence, and Richard III. \nCorrectness Score: 1\n\nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information. \nInstruction Following Score: 10",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which Hollywood actor was born with the forenames John Uhler?",
+      "response": "Donald Sutherland",
+      "judgment": "Correctness Reasoning: The response is incorrect because John Uhler is the birth name of actor John Wayne, not Donald Sutherland.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The oldest surviving building at Edinburgh Castle is a chapel dedicated to which saint?",
+      "response": "St Margaret",
+      "judgment": "Correctness Reasoning: The response accurately identifies the saint to whom the oldest surviving building at Edinburgh Castle, the chapel, is dedicated. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is brief and directly answers the prompt as instructed. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The first overseas property owned by the government of the USA, a US legation (consulate), was in which city?",
+      "response": "",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt, which asks for the specific city where the first overseas property owned by the USA was located. Therefore, it fails to accurately answer the question.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and does not include any unnecessary information, adhering to the instruction to keep it brief with just the answer. However, since it lacks an actual answer, it cannot be fully compliant.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Which Cricket county's Twenty/20 team are known as the 'Phantoms'?",
+      "response": "Lincolnshire",
+      "judgment": "Correctness Reasoning: The response is incorrect as the 'Phantoms' is not a recognized name for Lincolnshire's Twenty/20 team. The correct answer is the team from the Isle of Wight. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, without any additional information or elaboration. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which country was top of the medals table at the 2012 Paralympics in London with 95 gold ?",
+      "response": "United Kingdom",
+      "judgment": "Correctness Reasoning: The response is incorrect because the country that topped the medals table at the 2012 Paralympics with 95 gold medals was actually China, not the United Kingdom.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and follows the instruction to provide just the answer without additional information.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"In Alexander Dumas's book \"\"The Three Musketeers\"\", two of the Musketeers are called Athos and Porthos. What was the name of the third Musketeer?\"",
+      "response": "Bergerac",
+      "judgment": "Correctness Reasoning: The name of the third Musketeer in \"The Three Musketeers\" is D'Artagnan, not Bergerac. Therefore, the response is factually incorrect.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and provides just the answer as instructed. It follows the instruction regarding brevity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "HMS Belfast in London is part of which museum?",
+      "response": "National Maritime Museum",
+      "judgment": "Correctness Reasoning: The HMS Belfast is actually part of the Imperial War Museum, not the National Maritime Museum. Therefore, the response is incorrect.  \nCorrectness Score: 1  \nInstruction Reasoning: The response is brief and provides just the answer as instructed.  \nInstruction Following Score: 10  ",
+      "correctness_score": 1,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which range of mountains does the second highest mountain in the world, K2 or Mount Godwin Austen lie?",
+      "response": "The Himalayas",
+      "judgment": "Correctness Reasoning: The response is incorrect because K2, also known as Mount Godwin Austen, is located in the Karakoram range, not the Himalayas. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is brief and provides just the answer as instructed, without any additional information. \nInstruction Following Score: 10",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The London Marathon involves what?",
+      "response": "Marathon runners",
+      "judgment": "Correctness Reasoning: The response is too vague and does not accurately capture the full scope of what the London Marathon involves, such as the event itself, participants, and the atmosphere. It only mentions \"marathon runners,\" which is not sufficient.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response is brief and follows the instruction to keep it short, providing just an answer without additional elaboration.  \nInstruction Following Score: 10  ",
+      "correctness_score": 4,
+      "instruction_following_score": 10
+    }
+  ]
+}

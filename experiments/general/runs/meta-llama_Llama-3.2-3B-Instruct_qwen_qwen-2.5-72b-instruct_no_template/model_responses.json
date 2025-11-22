@@ -1,0 +1,405 @@
+{
+  "instruction": "[QUESTION] Please answer in clear, simple English so that non-native speakers can easily understand the response.",
+  "conversations": [
+    {
+      "prompt": "who sang how long has this been going on song",
+      "response": "The song \"How Long Has This Been Going On\" is a jazz standard written by Duke Ellington. It was introduced by Duke Ellington himself in 1937, and it has been covered by many artists over the years. Some of the most well-known versions include those by:\n\n1. **Duke Ellington** - The original recording.\n2. **Sarah Vaughan** - A popular jazz vocalist.\n3. **Billie Holiday** - A legendary jazz singer.\n4. **Ella Fitzgerald** - Known as the \"First Lady of Song,\" Ella recorded a version in the 1950s.\n5. **Carmen McRae** - A jazz vocalist and pianist.\n6. **John Coltrane** - A jazz saxophonist and composer.\n7. **Nat King Cole** - A jazz pianist and vocalist.\n8. **Diana Krall** - A contemporary jazz pianist and vocalist.\n9. **Norah Jones** - A contemporary jazz and pop vocalist.\n\nThese are just a few examples of the many artists who have recorded \"How Long Has This Been Going On.\" The song is a timeless classic and has been covered by numerous jazz and pop artists over the years."
+    },
+    {
+      "prompt": "when does the champions league quarter finals start",
+      "response": ""
+    },
+    {
+      "prompt": "who sings the original windmills of your mind",
+      "response": ""
+    },
+    {
+      "prompt": "when was the first australian prime minister elected",
+      "response": "The first Australian Prime Minister was Edmund Barton. He was elected on January 1, 1901, when Australia became a federation and the Commonwealth of Australia was formed. Barton was the leader of the Protectionist Party and served as the first Prime Minister of Australia until September 24, 1903, when he was succeeded by Alfred Deakin."
+    },
+    {
+      "prompt": "who plays timon in lion king on broadway",
+      "response": ""
+    },
+    {
+      "prompt": "element named after fictional planet from which superman came",
+      "response": ""
+    },
+    {
+      "prompt": "what is the second largest country in asia",
+      "response": "The second largest country in Asia is China. It has a total area of approximately 9.6 million square kilometers (3.7 million square miles)."
+    },
+    {
+      "prompt": "when's the last time army won the army navy game",
+      "response": "The last time Army won the Army-Navy game was in 2013. Army defeated Navy 15-6 at Gillette Stadium in Foxborough, Massachusetts on December 7, 2013."
+    },
+    {
+      "prompt": "who was the great wall of china built to defend against",
+      "response": "The Great Wall of China was primarily built to defend against the Mongols, who were a nomadic people from the north. The wall was constructed to protect the Chinese Empire from invasions and raids. The wall's construction began in the 7th century BC, but the most famous and well-known sections were built during the Ming Dynasty (1368-1644). The wall stretches for over 13,000 miles (21,000 kilometers) and is a testament to the engineering and labor efforts of the Chinese people."
+    },
+    {
+      "prompt": "the legend of heroes trails in the sky the 3rd vita",
+      "response": ""
+    },
+    {
+      "prompt": "who plays the dwarf king in the hobbit",
+      "response": "In the 2012-2014 film adaptation of \"The Hobbit\" trilogy, the character of Thorin Oakenshield, the King of the Dwarves, is played by Richard Armitage. He is a talented actor known for his roles in other notable films and TV series, such as \"Captain America: The First Avenger\" and \"Black Sails.\" Armitage brings depth and nuance to the role of Thorin, capturing the complexity of the character as he navigates the challenges of reclaiming Erebor and confronting the forces of darkness."
+    },
+    {
+      "prompt": "who is playing the halftime show at super bowl 2016",
+      "response": "The halftime show for Super Bowl 50 (2016) was performed by Coldplay, along with guest performers Beyoncé and Bruno Mars. This performance was one of the most highly anticipated and widely watched halftime shows in Super Bowl history."
+    },
+    {
+      "prompt": "who played maudie in the movie el dorado",
+      "response": "In the 1967 film \"El Dorado,\" the role of Maude Trimble, the widow of Sheriff John \"Hawk\" Hawkins, was played by actress Joan Crawford. Crawford was a legendary actress known for her extensive film career, and in \"El Dorado,\" she portrayed a strong and determined woman who helps the main characters in their quest to bring justice to the town."
+    },
+    {
+      "prompt": "where was the tv show high chaparral filmed",
+      "response": "The TV show \"The High Chaparral\" was primarily filmed in and around the Arizona desert. The production team chose various locations in Arizona and California to capture the authentic look of the American Southwest in the late 19th century. Some specific locations include:\n\n1. **Arizona**:\n   - **Sedona**: The red rock formations and desert landscapes around Sedona were used for many of the show's exterior scenes.\n   - **Oak Creek Canyon**: This scenic canyon, located near Sedona, was used for some of the show's more dramatic scenes.\n   - **Tonto National Forest**: The forest's open desert and mountainous areas were used for various episodes.\n   - **Prescott**: Some interior scenes were filmed in and around Prescott.\n\n2. **California**:\n   - **Palm Springs**: Some of the show's interior scenes, such as the ranch house, were filmed in Palm Springs.\n   - **Lake Arrowhead**: The lake and surrounding mountains were used for some of the show's outdoor scenes.\n\nThe show's production team aimed to capture the beauty and harsh realities of the desert landscape, which was a key part of the show's appeal and authenticity."
+    },
+    {
+      "prompt": "when is the running of the bulls held in spain",
+      "response": ""
+    },
+    {
+      "prompt": "when was the young and the restless first aired",
+      "response": ""
+    },
+    {
+      "prompt": "who has the most yards per carry in nfl history",
+      "response": ""
+    },
+    {
+      "prompt": "who is the lead singer of depeche mode",
+      "response": "The lead singer of Depeche Mode is Dave Gahan. However, the band is also well known for its vocal contributions from other members, particularly Martin Gore, who is the primary songwriter and keyboardist. Gore often sings backing vocals and sometimes leads on specific tracks. The band's distinctive vocal style has become one of its most recognizable features."
+    },
+    {
+      "prompt": "when was the first hunger games book published",
+      "response": ""
+    },
+    {
+      "prompt": "where is the tibia and fibula bone located",
+      "response": ""
+    },
+    {
+      "prompt": "which country has the most coastline in the world",
+      "response": "The country with the most coastline in the world is Canada. Canada has a total coastline of approximately 243,000 kilometers (151,000 miles), which is more than twice the length of the United States' coastline.\n\nCanada's extensive coastline includes a significant portion of the Atlantic Ocean, the Pacific Ocean, and the Arctic Ocean, as well as numerous lakes and rivers. The Canadian coastline is also one of the most rugged and diverse in the world, with numerous bays, fjords, and inlets.\n\nOther countries with significant coastlines include:\n\n1. **United States**: Approximately 19,924 kilometers (12,383 miles)\n2. **Russia**: Approximately 37,653 kilometers (23,400 miles)\n3. **China**: Approximately 14,300 kilometers (8,900 miles)\n4. **Indonesia**: Approximately 54,716 kilometers (34,000 miles)\n\nNote: The exact length of a country's coastline can vary depending on the source and method of measurement, but Canada is generally recognized as having the longest coastline."
+    },
+    {
+      "prompt": "when does episode 29 of boruto come out",
+      "response": ""
+    },
+    {
+      "prompt": "how old is the actress who plays phyllis on y&r",
+      "response": "The actress who plays Phyllis Summers on The Young and the Restless (Y&R) is Michelle Stafford. Michelle Stafford was born on June 14, 1965, which makes her currently 57 years old (as of June 2022)."
+    },
+    {
+      "prompt": "when did ole miss beat alabama in football",
+      "response": ""
+    },
+    {
+      "prompt": "which songs did liam write as you were",
+      "response": ""
+    },
+    {
+      "prompt": "what emperor took over france after the reign of terror",
+      "response": ""
+    },
+    {
+      "prompt": "when was half life 2 episode 2 released",
+      "response": "\"Half-Life 2: Episode Two\" was released on October 9, 2007. It was the second installment in the Half-Life 2 series and was developed by Valve Corporation. The game was initially released for Microsoft Windows, and later for Mac OS X and Linux."
+    },
+    {
+      "prompt": "who is the girl in green day 21 guns",
+      "response": ""
+    },
+    {
+      "prompt": "who sings the theme song for living single",
+      "response": "The theme song for the TV show \"Living Single\" is titled \"You Are Not Alone\" and was performed by Mary J. Blige. The song was released in 1993 and became a hit single for Blige, helping to launch her career."
+    },
+    {
+      "prompt": "who plays the robot on the orville show",
+      "response": "In the TV series \"The Orville,\" the robot character named Bortus is not a traditional robot, but rather a humanoid alien who is part of a robot-like species. The actor who plays Bortus is Seth MacFarlane, the creator of the show. Bortus is a member of the Edus, a species from the planet Moclan, and is known for his dry wit and awkward interactions with the humans."
+    },
+    {
+      "prompt": "where can you find dna in the body",
+      "response": ""
+    },
+    {
+      "prompt": "where are the highest average incomes found in north america",
+      "response": "The highest average incomes in North America are typically found in the United States and Canada, particularly in urban areas. Here are some of the top cities and regions with the highest average incomes:\n\n**United States:**\n\n1. **San Francisco, California**: With an average annual household income of over $100,000, San Francisco is known for its high cost of living and thriving tech industry.\n2. **New York City, New York**: The financial capital of the world, New York City has a high average annual household income of over $90,000.\n3. **Washington, D.C.**: The nation's capital has a high average annual household income of over $80,000, driven by the high-paying government and defense industries.\n4. **Boston, Massachusetts**: With a strong economy and high-paying industries like healthcare and biotechnology, Boston has a high average annual household income of over $80,000.\n5. **Seattle, Washington**: The tech hub of the Pacific Northwest, Seattle has a high average annual household income of over $80,000.\n\n**Canada:**\n\n1. **Vancouver, British Columbia**: With a high cost of living, Vancouver has a high average annual household income of over CAD $120,000 (approximately USD $90,000).\n2. **Toronto, Ontario**: Canada's largest city has a high average annual household income of over CAD $100,000 (approximately USD $75,000).\n3. **Montreal, Quebec**: With a strong economy and high-paying industries like finance and technology, Montreal has a high average annual household income of over CAD $90,000 (approximately USD $65,000).\n4. **Calgary, Alberta**: The energy hub of Canada, Calgary has a high average annual household income of over CAD $90,000 (approximately USD $65,000).\n5. **Ottawa, Ontario**: As the capital city, Ottawa has a high average annual household income of over CAD $80,000 (approximately USD $60,000).\n\n**International Comparison:**\n\n* **Hong Kong**: With a high cost of living and a strong economy, Hong Kong has the highest average annual household income in North America, with an average of over HKD $450,000 (approximately USD $57,000).\n* **Singapore**: The finance and technology hub of Southeast Asia, Singapore has a high average annual household income of over SGD 120,000 (approximately USD $85,000).\n\nThese figures are based on various sources, including the U.S. Census"
+    },
+    {
+      "prompt": "when did frank sinatra first sing new york new york",
+      "response": "Frank Sinatra first sang \"New York, New York\" in 1979. It was released on his album \"Trilogy\" and became one of his most iconic and beloved songs. The song has since become closely associated with the city of New York and has been featured in various films, TV shows, and commercials. Sinatra's rendition of \"New York, New York\" has become an enduring symbol of the city's spirit and energy."
+    },
+    {
+      "prompt": "who played the daughters in last man standing",
+      "response": ""
+    },
+    {
+      "prompt": "who won in the brown vs board of education case",
+      "response": "The Brown vs. Board of Education case was a landmark civil rights case in the United States. In 1954, the U.S. Supreme Court ruled in favor of the plaintiffs, declaring that segregation in public schools based on race was unconstitutional. This decision effectively overturned the \"separate but equal\" doctrine established by the court in Plessy v. Ferguson (1896).\n\nThe case was brought by the National Association for the Advancement of Colored People (NAACP) on behalf of Oliver Brown, a parent from Topeka, Kansas, who sought to have his daughter attend an all-white school. The case was consolidated with several other similar cases from other states, and the Supreme Court heard oral arguments in April 1954.\n\nOn May 17, 1954, the court issued its decision, which was a unanimous opinion written by Chief Justice Earl Warren. The decision declared that \"separate educational facilities are inherently unequal\" and therefore unconstitutional under the Equal Protection Clause of the Fourteenth Amendment. This ruling paved the way for the desegregation of schools and other public facilities across the United States."
+    },
+    {
+      "prompt": "what is the name for the ch3coo- ion",
+      "response": "The ion with the formula C2H3O- is called the acetate ion. It is a common anion found in various compounds, including sodium acetate (CH3COONa) and potassium acetate (CH3COOK)."
+    },
+    {
+      "prompt": "who got the most rings in the nba",
+      "response": "The player who has won the most NBA championships is Bill Russell. He won an incredible 11 NBA championships during his time with the Boston Celtics from 1957 to 1969. Russell is widely regarded as one of the greatest players in NBA history, and his 11 championships are a testament to his consistent excellence and the Celtics' dominance during that period."
+    },
+    {
+      "prompt": "where is the boy who played charlie in willy wonka",
+      "response": ""
+    },
+    {
+      "prompt": "where are the first nations located in canada",
+      "response": ""
+    },
+    {
+      "prompt": "what is the movie about six degrees of separation",
+      "response": "\"Six Degrees of Separation\" is a 1993 American comedy-drama film directed by Fred Schepisi. The movie is based on the play of the same name by John Guare, which was written in 1990.\n\n**Plot:**\nThe film tells the story of Ouisa and Flan, a wealthy couple in New York City. They are hosting a party, and their lives are disrupted when a young man named Paul, who claims to be the son of Sidney Poitier, arrives at the party. Paul tells them that he is on a mission to find his father, who has gone missing, and he believes that Ouisa and Flan can help him.\n\nAs the story unfolds, it becomes clear that Paul is not who he claims to be, but he does have a genuine connection to Sidney Poitier, and his story is intertwined with the lives of many famous people. The film follows the characters as they try to uncover the truth about Paul's identity and the connections between them.\n\n**Themes:**\nThe movie explores themes of identity, social class, and the interconnectedness of people. It also touches on the idea of how one person's life can be linked to many others through various relationships and social circles.\n\n**Cast:**\nThe film features an ensemble cast, including:\n\n* Stockard Channing as Ouisa\n* Will Smith as Paul\n* Donald Sutherland as Flan\n* Ian McKellen as John\n* Ed Harris as John's friend\n\n**Awards and Reception:**\n\"Six Degrees of Separation\" received positive reviews from critics and was nominated for several awards, including an Academy Award for Best Supporting Actor for Will Smith.\n\nOverall, \"Six Degrees of Separation\" is a thought-provoking and engaging film that explores the complexities of human relationships and the connections that bind us together."
+    },
+    {
+      "prompt": "love yourself by justin bieber is about who",
+      "response": "The song \"Love Yourself\" by Justin Bieber is a personal and introspective ballad that explores themes of self-love and the importance of treating oneself with kindness and respect. The lyrics highlight the importance of accepting and appreciating one's own worth and value, regardless of external opinions or pressures.\n\nSpecifically, the song is about:\n\n1. **Self-Acceptance**: The song encourages the listener to love and accept themselves, flaws and all, and to focus on their own positive qualities and strengths.\n2. **Inner Beauty**: It emphasizes that true beauty comes from within and that self-love is essential for happiness and fulfillment.\n3. **Inner Strength**: The lyrics also touch on the idea that self-love can be a source of strength and resilience, helping individuals to navigate through life's challenges.\n4. **Personal Growth**: The song suggests that self-love is a key component of personal growth and self-improvement, as it allows individuals to focus on their own development and well-being.\n\nOverall, \"Love Yourself\" is a powerful and uplifting message about the importance of self-love and self-acceptance, and it encourages listeners to cultivate a positive and loving relationship with themselves."
+    },
+    {
+      "prompt": "how many seasons of the glades were made",
+      "response": ""
+    },
+    {
+      "prompt": "where is fe best absorbed in the body",
+      "response": ""
+    },
+    {
+      "prompt": "what is the big gold dome in jerusalem",
+      "response": "The \"big gold dome\" you're referring to is the Dome of the Rock (Qubbat al-Sakhra in Arabic). It is a significant Islamic shrine located on the Temple Mount (also known as the Haram al-Sharif) in Jerusalem, Israel. Here are some key facts about the Dome of the Rock:\n\n1. **Islamic Significance**: The Dome of the Rock is considered one of the most important Islamic shrines and a symbol of Islamic presence in Jerusalem. It is a sacred site for Muslims, who believe it was the site of the Prophet Muhammad's Night Journey (Isra' wal Mi'raj) and the location where the Prophet Muhammad ascended to heaven.\n\n2. **Architecture**: The dome, which is approximately 19 meters (62 feet) tall, is made of gold and covers a large square base. The interior of the dome is decorated with intricate geometric patterns and inscriptions.\n\n3. **History**: The Dome of the Rock was built in 691 CE during the reign of the Umayyad Caliph Abd al-Malik ibn Marwan. It was constructed on the site of the ancient Jewish Temple Mount, which was destroyed by the Romans in 70 CE.\n\n4. **Religious Significance**: The Dome of the Rock is considered the third-holiest site in Islam, after Mecca and Medina. It is a place of pilgrimage and worship for millions of Muslims around the world.\n\n5. **Controversies and Tensions**: The Dome of the Rock has been a source of tension and controversy for decades, particularly due to its presence on the Temple Mount, which is also a sacred site for Jews and Christians. The site is currently controlled by the Islamic Waqf, an Islamic trust, which is responsible for its maintenance and management.\n\nThe Dome of the Rock is a significant cultural and religious landmark in Jerusalem, and its presence continues to be a point of interest and contention for various religious groups."
+    },
+    {
+      "prompt": "how many hoops are used in a game of croquet",
+      "response": ""
+    },
+    {
+      "prompt": "what is the pirates of the caribbean in order",
+      "response": ""
+    },
+    {
+      "prompt": "who ran the fastest 40 yard dash in the nfl",
+      "response": "The record for the fastest 40-yard dash in the NFL is held by John Ross, who ran it in 4.22 seconds. This record was set at the 2017 NFL Combine. However, it's worth noting that this record is not just for the NFL Combine; it is an official NFL record. For the most up-to-date and accurate information, you can check the official NFL website or reputable sports news sources."
+    },
+    {
+      "prompt": "who became the it company ceo in 2016",
+      "response": ""
+    },
+    {
+      "prompt": "five tools of security management to overcome computer crime",
+      "response": ""
+    },
+    {
+      "prompt": "another name for the torso is the blank region of the body",
+      "response": "The torso, which includes the chest and the abdominal region, is commonly referred to as the **abdomen**. The abdomen is the largest part of the body and contains the internal organs such as the liver, stomach, intestines, and other vital organs."
+    },
+    {
+      "prompt": "who plays noah newman on the young and the restless",
+      "response": ""
+    },
+    {
+      "prompt": "the cast of don't tell mom the babysitter's dead",
+      "response": "The 1991 film \"Don't Tell Mom the Babysitter's Dead\" stars:\n\n1. Christina Applegate as Sue Ellen Crandell\n2. Joanna Cassidy as Susan Crandell\n3. Keith Coogan as Sam Crandell\n4. Josh Charles as Michael\n5. David Duchovny as Gary\n6. Robert Hy Gorman as Mr. Kramer\n7. Richard Masur as Mr. Kramer\n8. Kimmy Robertson as Amy\n9. Adam LaVorgna as Chris\n\nThe movie was directed by Gary Winick and released in 1991. It's a comedy about a high school student who has to take care of her younger sister after the family's babysitter dies, and she decides to pursue a career as a fashion model."
+    },
+    {
+      "prompt": "what is the population of st petersburg fl",
+      "response": "As of the 2020 United States Census, the population of St. Petersburg, Florida, is approximately 263,387. However, it's worth noting that this number can fluctuate due to ongoing urbanization and growth in the area. If you're looking for the most current or up-to-date population figures, you may want to check the latest data from the U.S. Census Bureau or other reliable sources."
+    },
+    {
+      "prompt": "where is the world's largest thermometer located",
+      "response": ""
+    },
+    {
+      "prompt": "when was the last year the eagles went to the superbowl",
+      "response": "The Philadelphia Eagles last appeared in the Super Bowl in 2018. They won Super Bowl LII (52) by defeating the New England Patriots 41-33 on February 4, 2018, at U.S. Bank Stadium in Minneapolis, Minnesota."
+    },
+    {
+      "prompt": "what is the oldest street in the philippines",
+      "response": "The oldest street in the Philippines is often attributed to Calle Real (also known as Calle Real de Manila), which runs through the heart of the Intramuros district in Manila. This street dates back to the Spanish colonial period, specifically to the 16th century when the Philippines was under Spanish rule. Calle Real was originally constructed to serve as the main thoroughfare and center of commerce in the city, and it has played a significant role in the development and history of Manila."
+    },
+    {
+      "prompt": "when was the last time the military drafted",
+      "response": "The last time the United States military drafted soldiers was in 1973. The draft, also known as the Selective Service System, was officially ended on June 30, 1973, with the signing of the United States Military Selective Service Act of 1973. This act officially terminated the draft and established a volunteer military.\n\nSince then, the United States has relied on an all-volunteer force, where individuals choose to enlist in the military rather than being conscripted. However, the Selective Service System remains in place and is maintained in case the country needs to re-establish a draft in times of national emergency or war."
+    },
+    {
+      "prompt": "what is the final season of downton abbey",
+      "response": ""
+    },
+    {
+      "prompt": "who holds the world record for the most world records",
+      "response": "The record for holding the most Guinness World Records is held by Ashrita Furman. As of the latest update, he has set over 200 world records, including the longest marathon running backwards, the most hula hoops spun simultaneously, and the longest duration spinning a basketball on a toothbrush.\n\nHowever, it's worth noting that the record for the most Guinness World Records is subject to change as new records are set and verified. If you're interested in the most up-to-date information, you can check the Guinness World Records website."
+    },
+    {
+      "prompt": "when is the last time the vikings were in the nfc championship",
+      "response": "The Minnesota Vikings last appeared in the NFC Championship game in 2017. They played the Philadelphia Eagles on January 21, 2018, at U.S. Bank Stadium in Minneapolis. The Eagles won the game 38-7, advancing to Super Bowl LII (52)."
+    },
+    {
+      "prompt": "who proclaimed 5th october as world’s teachers day",
+      "response": ""
+    },
+    {
+      "prompt": "who wrote the text for jeanie with the light brown hair",
+      "response": ""
+    },
+    {
+      "prompt": "aphasia is a term defining difficulty or loss of ability to",
+      "response": ""
+    },
+    {
+      "prompt": "who plays dusty in the movie pure country",
+      "response": ""
+    },
+    {
+      "prompt": "who sang let me tell you about the birds and the bees",
+      "response": "The song \"Let Me Tell You About the Birds and the Bees\" was performed by the R&B duo The Chi-Lites. It was released in 1970 and became a hit single for the group. The song is a soulful, laid-back tune that talks about the importance of understanding and respecting relationships, using the metaphor of birds and bees to convey the message."
+    },
+    {
+      "prompt": "how many paintings of sunflowers did van gogh paint",
+      "response": ""
+    },
+    {
+      "prompt": "what is the money called in south korea",
+      "response": ""
+    },
+    {
+      "prompt": "what is billy last name in where the red fern grows",
+      "response": "In the novel \"Where the Red Fern Grows\" by Wilson Rawls, the main character's name is Billy Colman. Billy is a young boy who lives in the Ozark Mountains of Oklahoma in the 1930s. He has a strong love for coonhound dogs and dreams of hunting raccoons with his own dog, Old Dan."
+    },
+    {
+      "prompt": "who did the broncos beat in the super bowl",
+      "response": "The Denver Broncos have won the Super Bowl twice in their history:\n\n1. **Super Bowl XXXIII (1999)**\n   - The Broncos defeated the Atlanta Falcons 34-19 on January 31, 1999, at Pro Player Stadium in Miami, Florida.\n\n2. **Super Bowl 50 (2016)**\n   - The Broncos defeated the Carolina Panthers 24-10 on February 7, 2016, at Levi's Stadium in Santa Clara, California.\n\nThese victories were significant milestones in the franchise's history, showcasing the team's resilience and competitive spirit."
+    },
+    {
+      "prompt": "name the cell which is attached to the lateral side of sieve tube",
+      "response": ""
+    },
+    {
+      "prompt": "who sings will you still love me when i'm not young and beautiful",
+      "response": "The song \"Young and Beautiful\" is performed by Adele. It is a part of her 2011 album \"21\" and was featured in the 2013 film \"The Great Gatsby.\" The song's lyrics express a longing for a relationship that will endure despite the passage of time and the natural aging process."
+    },
+    {
+      "prompt": "when did university stop being free in australia",
+      "response": ""
+    },
+    {
+      "prompt": "when was the biltmore house opened to the public",
+      "response": ""
+    },
+    {
+      "prompt": "where is dakar located on the world map",
+      "response": ""
+    },
+    {
+      "prompt": "what are the spices in chinese 5 spice powder",
+      "response": ""
+    },
+    {
+      "prompt": "when do you get your white coat in pharmacy school",
+      "response": ""
+    },
+    {
+      "prompt": "what is the name of the lymphatic vessels located in the small intestine",
+      "response": ""
+    },
+    {
+      "prompt": "mark who went to golf majors in 1998",
+      "response": ""
+    },
+    {
+      "prompt": "who developed the central processing unit (cpu)",
+      "response": "The central processing unit (CPU) was developed by several individuals and groups over the years, but the most significant contributions came from Charles Babbage, Alan Turing, John von Neumann, and others. Here's a brief overview:\n\n1. **Charles Babbage (1791-1871)**\n   - Babbage is often credited with designing the first mechanical computer, the Difference Engine, and the Analytical Engine, which was a precursor to the modern computer. While it was not fully built during his lifetime, his designs laid the foundation for the development of the first electronic computers.\n\n2. **Alan Turing (1912-1954)**\n   - Turing made significant contributions to the development of the theoretical foundations of modern computer science. His work on the concept of the universal machine, which could perform any calculation given a set of instructions, is crucial to the modern CPU design. Turing's ideas were influential in the development of electronic computers, including the first electronic computer, the Automatic Computing Engine (ACE).\n\n3. **John von Neumann (1903-1957)**\n   - Von Neumann is credited with developing the stored-program computer, which is the basis for most modern computers. His design, as described in his 1945 paper \"First Draft of a Report on the EDVAC,\" laid the foundation for the modern CPU architecture, including the concept of a central processing unit and memory.\n\n4. **Other Key Contributors**\n   - **Konrad Zuse (1910-1995)**: Developed the first fully automatic digital computer, the Z3, which was the first electronic computer to use a binary system.\n   - **J. Presper Eckert and John Mauchly**: Developed the Electronic Numerical Integrator and Computer (ENIAC), one of the first general-purpose electronic computers.\n   - **John Bardeen, Walter Brattain, and William Shockley**: Developed the first transistor, which was a critical component in the development of the modern CPU.\n\nThese individuals, along with others, played crucial roles in the development of the modern CPU and computer technology. Their work laid the foundation for the rapid advancements in computing technology that followed."
+    },
+    {
+      "prompt": "where are alkali metals located on the periodic table",
+      "response": ""
+    },
+    {
+      "prompt": "where is lord's prayer found in bible",
+      "response": ""
+    },
+    {
+      "prompt": "when was the nobel prize for literature first awarded",
+      "response": ""
+    },
+    {
+      "prompt": "how many games in a row have the uconn women's basketball team won",
+      "response": "The UConn women's basketball team has won 99 consecutive games, which is the longest winning streak in NCAA Division I women's basketball history. This streak began in 2014 and ended in 2017."
+    },
+    {
+      "prompt": "what is the full form of ib board",
+      "response": ""
+    },
+    {
+      "prompt": "who has the power to approve or veto legislation constitution",
+      "response": ""
+    },
+    {
+      "prompt": "who hung the lanterns in the old north church",
+      "response": ""
+    },
+    {
+      "prompt": "when does the dlc for rainbow six siege come out",
+      "response": "The DLC (Downloadable Content) for Rainbow Six Siege typically follows a similar release pattern. Once the main season or major update is released, Ubisoft usually announces and releases DLC packs for each major operator (a playable character with unique abilities). The exact timing can vary, but here are some general guidelines:\n\n1. **Major Operators**: New operators are usually added in the main season or major update. For example, the \"Wildfire\" and \"Mira\" operators were added in Season 3, while \"Bandit\" and \"Maestro\" were added in Season 4.\n\n2. **DLC Packs**: These packs are typically released after the main update, and they often include a new operator, a map, and other content. The exact release dates can vary, but they usually come out a few weeks after the main update.\n\n3. **Seasonal Updates**: The main season or major update typically occurs every 5-6 months, and during this time, Ubisoft releases new operators, maps, and other content.\n\nTo stay updated on the latest DLC releases for Rainbow Six Siege, follow Ubisoft's official social media channels, the game's website, or sign up for the official newsletter. You can also check the game's in-game store or the Rainbow Six Siege subreddit for more information."
+    },
+    {
+      "prompt": "when did hootie and the blowfish come out",
+      "response": ""
+    },
+    {
+      "prompt": "when did the wall go up in east germany",
+      "response": "The Berlin Wall, which separated East and West Berlin, was erected on August 13, 1961. The construction of the wall was a response to the large number of East Germans who were fleeing to the West, and it was intended to stem the flow of refugees. The wall stood for nearly 30 years, until it was torn down on November 9, 1989, marking a significant moment in the fall of communism in Eastern Europe."
+    },
+    {
+      "prompt": "who supported states rights during the civil war",
+      "response": ""
+    },
+    {
+      "prompt": "who wrote old flames cant hold a candle to you",
+      "response": "The song \"Old Flames Can't Hold a Candle to You\" was written by Bobby Brown and written and produced by Bobby Brown and Jimmy Jam & Terry Lewis. It was recorded by Bobby Brown and released in 1988. The song became a hit, reaching the top of the Billboard Hot R&B Singles chart and staying there for several weeks."
+    },
+    {
+      "prompt": "how many countries does cadbury sell its products",
+      "response": ""
+    },
+    {
+      "prompt": "how many times have real madrid won the champions league in a row",
+      "response": ""
+    },
+    {
+      "prompt": "chief ministers of tamil nadu mentioned on wikipedia",
+      "response": ""
+    },
+    {
+      "prompt": "when did michael jordan return to the nba",
+      "response": ""
+    },
+    {
+      "prompt": "when is season 2 of jessica jones being released",
+      "response": ""
+    },
+    {
+      "prompt": "who came out first batman or spider man",
+      "response": ""
+    },
+    {
+      "prompt": "what season does bart bass die in gossip girl",
+      "response": "In the TV series \"Gossip Girl,\" Bart Bass dies in Season 5. He is revealed to have been diagnosed with a terminal illness, and his death is a significant plot point in the season."
+    },
+    {
+      "prompt": "how many episodes of touching evil are there",
+      "response": ""
+    },
+    {
+      "prompt": "when is the publishers clearing house sweepstakes drawing",
+      "response": ""
+    }
+  ]
+}

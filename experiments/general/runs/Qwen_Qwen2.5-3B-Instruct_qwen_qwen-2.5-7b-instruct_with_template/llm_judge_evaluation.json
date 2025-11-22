@@ -1,0 +1,715 @@
+{
+  "instruction": "[QUESTION] Please answer in clear, simple English so that non-native speakers can easily understand the response.",
+  "statistics": {
+    "correctness": {
+      "mean": 6.22,
+      "std": 3.333406665860017
+    },
+    "instruction_following": {
+      "mean": 9.65,
+      "std": 0.4974937185533099
+    }
+  },
+  "results": [
+    {
+      "prompt": "the legend of heroes trails in the sky the 3rd vita",
+      "response": "The Legend of Heroes Trails in the Sky: The Third Vita is a game where you play as a hero who travels across the world to save people. In this game, you can make choices that affect how the story goes. It's like when you're playing a choose-your-own-adventure book but with lots of exciting battles and adventures!",
+      "judgment": "Correctness Reasoning: The response provides a general overview of the game \"The Legend of Heroes: Trails in the Sky - The Third,\" but it lacks specific details about the game, such as its characters, setting, or unique features. While it captures the essence of gameplay, it does not accurately represent the game as it is known, which may mislead readers about its content. Therefore, the correctness score is lower.  \nCorrectness Score: 5  \n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It avoids complex vocabulary and sentence structures, adhering well to the instruction to keep the language simple. Therefore, the instruction following score is high.  \nInstruction Following Score: 9  ",
+      "correctness_score": 5,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who sang how long has this been going on song",
+      "response": "The song \"How Long Has This Been Going On\" was sung by the band The Who.",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the song \"How Long Has This Been Going On\" to The Who. The song was actually sung by other artists, including the band Ace and later by Rod Stewart. Therefore, the answer is factually incorrect.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when does the champions league quarter finals start",
+      "response": "The Champions League quarter finals start in March. It's usually in the middle of that month.",
+      "judgment": "Correctness Reasoning: The response accurately states that the Champions League quarter-finals start in March and mentions that it is usually in the middle of the month. However, it lacks specific dates or a more precise timeframe, which could enhance the correctness of the answer. \nCorrectness Score: 7\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well by avoiding complex language and providing a straightforward answer. \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who sings the original windmills of your mind",
+      "response": "The original version of \"Windmills of Your Mind\" was sung by The Beach Boys.",
+      "judgment": "Correctness Reasoning: The response is incorrect because \"Windmills of Your Mind\" was originally sung by Noel Harrison for the film \"The Thomas Crown Affair,\" not by The Beach Boys. \nCorrectness Score: 2\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.\nInstruction Following Score: 9",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when was the first australian prime minister elected",
+      "response": "The first Australian prime minister was William Forster in 1856.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that William Forster was the first Australian prime minister. The correct answer is Sir Edmund Barton, who was elected in 1901. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when's the last time army won the army navy game",
+      "response": "The last time Army won the Army-Navy game was in 1998.",
+      "judgment": "Correctness Reasoning: The response accurately states the last time Army won the Army-Navy game, which is indeed 1998. Therefore, it correctly answers the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It follows the instruction well.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who plays timon in lion king on broadway",
+      "response": "The actor who plays Timon in the Broadway version of The Lion King is Donald Faison.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Donald Faison plays Timon in the Broadway version of The Lion King. As of my last knowledge update, the role of Timon has been played by various actors, but Donald Faison is not one of them in the Broadway production. Therefore, the answer is factually incorrect.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer without complex language.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where was the tv show high chaparral filmed",
+      "response": "The TV show High Chaparral was filmed in several places. It was mostly shot in Utah, which is a very dry and rocky place with lots of mountains. They also used some locations in New Mexico for parts of the show.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the primary filming locations of the TV show \"High Chaparral,\" mentioning both Utah and New Mexico, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The language is straightforward, and the information is presented in a logical manner.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "element named after fictional planet from which superman came",
+      "response": "The element named after the fictional planet Superman came from is Kryptonium.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that the element is called \"Kryptonium.\" The correct name of the element is \"Kryptonite,\" which is the substance associated with Superman's home planet, Krypton. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who was the great wall of china built to defend against",
+      "response": "The Great Wall of China was built to protect against invaders from the north, especially the Mongols.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the primary purpose of the Great Wall of China, which was to defend against northern invaders, particularly the Mongols. This is a correct and relevant answer to the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The language used is straightforward and avoids complex vocabulary or sentence structures.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the second largest country in asia",
+      "response": "The second largest country in Asia by area is India.",
+      "judgment": "Correctness Reasoning: The response accurately identifies India as the second largest country in Asia by area, which is correct. The largest is Russia, but since it is partially in Asia, India is considered the second largest in the Asian continent context.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who is playing the halftime show at super bowl 2016",
+      "response": "At Super Bowl 2016, the halftime show was performed by Justin Timberlake. He sang and danced on stage for a very fun performance.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Justin Timberlake performed at the Super Bowl 2016 halftime show. The actual performer was Coldplay, with Beyoncé and Bruno Mars as special guests. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who played maudie in the movie el dorado",
+      "response": "In the movie El Dorado, Maude was played by an actress named Barbara Stanwyck. She is very famous and had many other roles too.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Barbara Stanwyck played Maudie in \"El Dorado.\" The character Maudie was actually played by actress Michele Carey. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It uses straightforward language and provides additional context about the actress, which aligns with the instruction to be clear and simple.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who plays the dwarf king in the hobbit",
+      "response": "In The Hobbit, the Dwarf King is played by Christopher Lee. He was very famous for being very scary in movies.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Christopher Lee plays the Dwarf King in The Hobbit. The character of the Dwarf King, Thorin Oakenshield, is actually played by Richard Armitage. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It uses straightforward language and avoids complex sentences, which aligns well with the instruction.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when was the young and the restless first aired",
+      "response": "The Young and the Restless was first shown on TV in 1973.",
+      "judgment": "Correctness Reasoning: The response accurately states that \"The Young and the Restless\" first aired in 1973, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It follows the instruction well. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when is the running of the bulls held in spain",
+      "response": "The Running of the Bulls happens every year in Spain, usually around July 7th. It's a very big event that takes place in different cities like Pamplona.",
+      "judgment": "Correctness Reasoning: The response accurately states that the Running of the Bulls occurs every year around July 7th and mentions Pamplona as a key location for the event. This information is correct and relevant to the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It avoids complex vocabulary and sentence structures, adhering well to the instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who is the lead singer of depeche mode",
+      "response": "The lead singer of Depeche Mode is Dave Gahan.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Dave Gahan as the lead singer of Depeche Mode, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who has the most yards per carry in nfl history",
+      "response": "The player with the highest average yards per carry in NFL history is Jim Brown. He ran for about 5.1 yards on average each time he carried the ball.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Jim Brown as the player with the highest average yards per carry in NFL history and provides a specific average of 5.1 yards, which is correct based on historical data. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It avoids complex language and presents the information straightforwardly. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the first hunger games book published",
+      "response": "The first Hunger Games book was published in 2008.",
+      "judgment": "Correctness Reasoning: The response accurately states the publication year of the first Hunger Games book, which is indeed 2008. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when does episode 29 of boruto come out",
+      "response": "Episode 29 of Boruto came out on January 13, 2019.",
+      "judgment": "Correctness Reasoning: The response accurately provides the release date of episode 29 of Boruto, which is correct. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "which country has the most coastline in the world",
+      "response": "The country with the most coastline in the world is Canada. It has very long coastlines along the Atlantic Ocean, Pacific Ocean, and Arctic Ocean.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Canada as the country with the most coastline in the world, which is correct. It also provides additional context about the oceans that border Canada, enhancing the answer's completeness. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The language is straightforward, and the information is presented in a concise manner. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is the tibia and fibula bone located",
+      "response": "The tibia and fibula bones are in the lower leg. The tibia is on the inside of your leg, and the fibula is on the outside.",
+      "judgment": "Correctness Reasoning: The response accurately describes the location of the tibia and fibula bones in the lower leg, specifying their positions relative to each other. \nCorrectness Score: 10\n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. It directly addresses the question without unnecessary complexity.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how old is the actress who plays phyllis on y&r",
+      "response": "The actress who plays Phyllis on Y&R is very young. She is only in her 20s.",
+      "judgment": "Correctness Reasoning: The response is incorrect because it does not provide the actual age of the actress who plays Phyllis on \"The Young and the Restless\" (Y&R). As of my last knowledge update, the actress Michelle Stafford was born in 1965, making her in her late 50s, not in her 20s. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. However, the information provided is misleading, which affects the overall quality of the response. Still, it adheres to the instruction of being clear and simple.  \nInstruction Following Score: 8  ",
+      "correctness_score": 2,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "who is the girl in green day 21 guns",
+      "response": "In \"21 Guns\" by Green Day, the girl in the song is very young. She is talking about someone who is very sad and lonely. The song talks about how people should be kind to those who are hurting.",
+      "judgment": "Correctness Reasoning: The response does not accurately identify who the girl in \"21 Guns\" is, as it does not provide specific information about her character or role in the song. The answer is vague and does not address the prompt directly. \nCorrectness Score: 3\n\nInstruction Reasoning: The response is written in clear, simple English, making it accessible for non-native speakers. It avoids complex language and conveys the message in an understandable way. \nInstruction Following Score: 9",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what emperor took over france after the reign of terror",
+      "response": "The emperor who took over France after the Reign of Terror was Napoleon Bonaparte. He became very powerful and ruled France for many years.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Napoleon Bonaparte as the emperor who took over France after the Reign of Terror, which is correct historically. The additional information about his power and rule adds context but is not necessary for the prompt. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The language used is straightforward and avoids complex vocabulary or sentence structures.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where can you find dna in the body",
+      "response": "DNA can be found in many places in your body, especially inside cells. You can find it in your blood, muscles, skin, and bones. It's also very important to note that DNA is not found in your saliva or urine, but it can be found in these if a test is done specifically for it.",
+      "judgment": "Correctness Reasoning: The response accurately states that DNA is found inside cells and mentions various body parts where DNA can be located, such as blood, muscles, skin, and bones. However, the statement about DNA not being found in saliva or urine is misleading; DNA can indeed be found in these fluids, especially in saliva. Therefore, the response is partially correct but contains a significant error regarding the presence of DNA in saliva and urine. \nCorrectness Score: 6\n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. The language used is straightforward, and the structure is easy to follow. Therefore, it adheres well to the instruction provided. \nInstruction Following Score: 10",
+      "correctness_score": 6,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who sings the theme song for living single",
+      "response": "The theme song for \"Living Single\" is sung by Mary J. Blige.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Mary J. Blige as the singer of the theme song for \"Living Single.\" This is correct information.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when did ole miss beat alabama in football",
+      "response": "Ole Miss beat Alabama in a big game in 2017. That was a very close and exciting match.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Ole Miss beat Alabama in 2017. The last time Ole Miss defeated Alabama in football was in 2015. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when was half life 2 episode 2 released",
+      "response": "Half-Life 2: Episode Two was released in 2007.",
+      "judgment": "Correctness Reasoning: The response accurately states the release year of Half-Life 2: Episode Two, which is indeed 2007. However, it does not provide the specific date, which could enhance the completeness of the answer. Still, the year is correct.  \nCorrectness Score: 9  \n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 9,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where are the highest average incomes found in north america",
+      "response": "The highest average incomes in North America are found in places like New York City, San Francisco, and Toronto. These cities have very rich people living there, so they have the highest incomes.",
+      "judgment": "Correctness Reasoning: The response accurately identifies specific cities known for high average incomes in North America, such as New York City and San Francisco. However, it could be improved by mentioning that these cities are often associated with high costs of living, which is relevant to understanding income levels. Overall, the answer is correct but could be more comprehensive.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses clear and simple English, making it accessible for non-native speakers. The language is straightforward, and the information is presented in an easy-to-understand manner.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who plays the robot on the orville show",
+      "response": "The actor who plays the robot on The Orville show is called Michaela Paone. She plays the role of the robot called Marjorie.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Michaela Paone as the actor who plays the robot on The Orville. The character of the robot, Isaac, is actually played by actor Mark Jackson. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear, simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when did frank sinatra first sing new york new york",
+      "response": "Frank Sinatra first sang \"New York, New York\" in 1945. He made a famous recording of it that year.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Frank Sinatra first sang \"New York, New York\" in 1945. The song was actually written in 1977 for the film \"New York, New York,\" and Sinatra's famous recording came later. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who won in the brown vs board of education case",
+      "response": "In the Brown v. Board of Education case, the Supreme Court decided that segregation in public schools was not allowed because it was unfair. This decision helped end school segregation based on race.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the outcome of the Brown v. Board of Education case, stating that the Supreme Court ruled against segregation in public schools. It also explains the significance of the decision in simple terms. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear, simple English, making it easy for non-native speakers to understand. It avoids complex language and provides a straightforward explanation of the case's outcome and its importance.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who played the daughters in last man standing",
+      "response": "In the show \"Last Man Standing,\" the daughters were played by actresses named Morgan Saylor and Sarah Jones.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the actresses who played the daughters in \"Last Man Standing.\" The correct actresses are Kaitlyn Dever and Molly Ephraim (later replaced by Amanda Fuller). Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear, simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is the name for the ch3coo- ion",
+      "response": "The name for the ch3coo- ion is acetate.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the CH3COO- ion as acetate, which is correct. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who got the most rings in the nba",
+      "response": "The player who has won the most NBA championships is Kareem Abdul-Jabbar. He won 6 NBA championships.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Kareem Abdul-Jabbar has won the most NBA championships. The player with the most NBA championships is Bill Russell, who won 11 championships. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where are the first nations located in canada",
+      "response": "First Nations people live in many parts of Canada. They are mostly in provinces like British Columbia, Ontario, Quebec, and Manitoba. Some also live in Yukon, Northwest Territories, and Nunavut.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the regions in Canada where First Nations people are located, mentioning specific provinces and territories. This provides a correct and relevant answer to the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. The language is straightforward, and the information is presented in a concise manner.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "love yourself by justin bieber is about who",
+      "response": "\"Love Yourself\" by Justin Bieber is about feeling good about yourself. It's like when you say \"I love myself because I am special and worthy, even when others don't always see it.\" The song helps people understand that they are important and deserve to be loved.",
+      "judgment": "Correctness Reasoning: The response does not accurately identify who the song \"Love Yourself\" is about. The song is primarily about a past relationship and the feelings of self-worth that come from moving on from someone who does not appreciate you. The response focuses on the general theme of self-love rather than addressing the specific subject of the song.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response is written in clear, simple English, making it accessible for non-native speakers. It explains the theme of the song in an understandable way without using complex language.  \nInstruction Following Score: 10  ",
+      "correctness_score": 4,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is the boy who played charlie in willy wonka",
+      "response": "The boy who played Charlie in Willy Wonka is now an actor. He's older now and works in movies.",
+      "judgment": "Correctness Reasoning: The response does not specify the name of the actor or provide any details about his current location or activities, which makes it incomplete in answering the prompt. Therefore, it does not accurately answer the question about the boy who played Charlie in Willy Wonka.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 4,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "how many seasons of the glades were made",
+      "response": "There were 5 seasons of The Glades made.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that there were 5 seasons of The Glades. In reality, there were only 4 seasons of the show. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "five tools of security management to overcome computer crime",
+      "response": "1. Firewall: It's like a guard in your house that stops bad guys from coming in.\n2. Antivirus: This is like a vaccine for computers that stops viruses and malware.\n3. Strong passwords: Just like you keep your toys safe with a lock, computers use strong passwords to protect important things.\n4. Regular updates: It's like cleaning up your room regularly to keep it tidy and safe.\n5. Training: Teaching people how to be careful and not fall into traps can help stop computer criminals.",
+      "judgment": "Correctness Reasoning: The response accurately identifies five tools of security management that can help overcome computer crime. Each tool is explained in a way that relates to everyday concepts, making it easy to understand. Therefore, the response is correct in terms of content.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to use clear and simple English, making it accessible for non-native speakers. Each explanation is straightforward and uses relatable analogies, which aligns well with the instruction provided.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who became the it company ceo in 2016",
+      "response": "In 2016, Satya Nadella became the CEO of Microsoft.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Satya Nadella as the CEO of Microsoft in 2016, which is correct information. However, the prompt does not specify that it is asking about Microsoft, so the answer could be seen as incomplete if the question was intended to refer to a different \"IT company.\" \nCorrectness Score: 8\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer without complex language. \nInstruction Following Score: 10",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "which songs did liam write as you were",
+      "response": "Liam wrote the song \"You Were\" while he was still a member of the band One Direction. It's a very personal and emotional song about his past relationships.",
+      "judgment": "Correctness Reasoning: The response inaccurately states that Liam wrote the song \"You Were,\" which is not a known song by him. The prompt asks for songs that Liam wrote, and the response does not provide accurate information regarding his songwriting. Therefore, the answer does not correctly address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It uses straightforward language and avoids complex terms, which aligns well with the instruction to provide an easily understandable answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is the big gold dome in jerusalem",
+      "response": "The big gold dome in Jerusalem is on top of a very important building called the Dome of the Rock. It's a place where lots of people go to pray and it's very special.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the big gold dome as the Dome of the Rock and explains its significance as a place of prayer. However, it could provide a bit more context about its historical and religious importance. Still, the main question is answered correctly.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well by avoiding complex language and providing a straightforward answer.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is fe best absorbed in the body",
+      "response": "Iron (Fe) is mostly absorbed in the small intestine. It's absorbed in the part of your intestines that are very narrow and have many tiny bumps, called villi. This helps iron go into your blood easily.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the small intestine as the primary site for iron absorption and explains the role of villi in this process. This information is correct and relevant to the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. The explanation is straightforward and avoids complex language.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many hoops are used in a game of croquet",
+      "response": "In a game of croquet, 21 hoops are used.",
+      "judgment": "Correctness Reasoning: The response is incorrect because a standard game of croquet typically uses 9 or 10 hoops, depending on the variation of the game. The number 21 is not accurate for a standard game of croquet.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is the movie about six degrees of separation",
+      "response": "\"Six Degrees of Separation\" is about how people can be connected by just six friends or acquaintances. The movie shows that if you ask someone, they might know someone who knows someone else, and so on, until you reach someone far away in a different part of the world. It's like a big game where everyone is connected by just a few steps.",
+      "judgment": "Correctness Reasoning: The response accurately summarizes the main concept of the movie \"Six Degrees of Separation,\" explaining the idea of connections between people. However, it does not mention the specific plot or characters of the movie, which could provide a more complete understanding. Therefore, while the core idea is correct, it lacks depth regarding the actual storyline.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The explanation is straightforward and avoids complex language, adhering well to the instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who ran the fastest 40 yard dash in the nfl",
+      "response": "The fastest person to run a 40-yard dash in NFL history is Tyreek Hill. He ran it very fast, like lightning!",
+      "judgment": "Correctness Reasoning: The response correctly identifies Tyreek Hill as one of the fastest players in the NFL, but it does not provide a specific time or context for the record, which is important for accuracy. The fastest recorded time is actually held by John Ross, who ran a 4.22 seconds 40-yard dash in 2017. Therefore, the response is not fully correct.  \nCorrectness Score: 5  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. The phrase \"like lightning\" adds a vivid image without complicating the language. Overall, it follows the instruction well.  \nInstruction Following Score: 9  ",
+      "correctness_score": 5,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "the cast of don't tell mom the babysitter's dead",
+      "response": "The cast of \"Don't Tell Mom the Babysitter's Dead\" includes the following actors: \n\n- Amy Ryan\n- Chris Messina\n- John Carroll Lynch\n- Sam Neill\n- Elizabeth Mitchell\n- Tom Welling\n- Michael Emerson\n\nThey play different roles in the show.",
+      "judgment": "Correctness Reasoning: The response lists some actors, but it includes incorrect names and does not accurately represent the actual cast of the film \"Don't Tell Mom the Babysitter's Dead.\" The main cast includes Christina Applegate, Keith Coogan, and others, but the names provided do not match the film's cast. Therefore, the response is factually incorrect.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear, simple English, making it easy for non-native speakers to understand. It follows the instruction to provide an answer that is accessible to a wider audience.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "another name for the torso is the blank region of the body",
+      "response": "The other name for the torso is the middle part of the body.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the torso as the \"middle part of the body,\" which is a correct and simple way to describe it. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear, simple English, making it easy for non-native speakers to understand. It follows the instruction well.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the pirates of the caribbean in order",
+      "response": "The Pirates of the Caribbean movies are in this order:\n\n1. The Curse of the Black Pearl\n2. Dead Man's Chest\n3. At World's End\n4. On Stranger Tides\n\nThese movies tell different stories about pirates and their adventures.",
+      "judgment": "Correctness Reasoning: The response accurately lists the Pirates of the Caribbean movies in the correct order, but it omits the fifth movie, \"Dead Men Tell No Tales,\" which is part of the series. Therefore, the response is not fully correct.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the oldest street in the philippines",
+      "response": "The oldest street in the Philippines is called Rizal Street. It's very old and can be found in different cities, but it's especially famous in Manila.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Rizal Street as the oldest street in the Philippines. The correct answer is Calle Crisologo in Vigan, which is known for its historical significance. Therefore, the information provided is not accurate.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to use straightforward language.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is the population of st petersburg fl",
+      "response": "The population of St. Petersburg, Florida, is about 36,000 people.",
+      "judgment": "Correctness Reasoning: The population figure provided in the response is incorrect. As of the latest estimates, the population of St. Petersburg, Florida, is significantly higher than 36,000, being closer to 250,000. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is the world's largest thermometer located",
+      "response": "The world's largest thermometer is in a place called New York. It's in a big building there.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that the world's largest thermometer is in New York. In reality, it is located in Baker, California. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when was the last time the military drafted",
+      "response": "The last time the military drafted people was in 1973. Before that, they didn't do it very often. Now, they ask for volunteers instead.",
+      "judgment": "Correctness Reasoning: The response accurately states that the last military draft in the United States occurred in 1973 and explains that the military now relies on volunteers. This information is correct and relevant to the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The language is straightforward, and the information is presented in a concise manner.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who holds the world record for the most world records",
+      "response": "The person who holds the most world records is Chris Lenz. He has broken 123 records!",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Chris Lenz holds the most world records. As of my last knowledge update, the record for the most world records is held by Ashrita Furman, not Chris Lenz. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the final season of downton abbey",
+      "response": "The final season of Downton Abbey was Season 5.",
+      "judgment": "Correctness Reasoning: The response is incorrect because the final season of Downton Abbey is actually Season 6, not Season 5. Therefore, it does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear, simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who wrote the text for jeanie with the light brown hair",
+      "response": "The text for Jeannie with the light brown hair was written by the author L. Frank Baum.",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the authorship of the text for \"Jeanie with the Light Brown Hair\" to L. Frank Baum. The correct author is Stephen Foster, who wrote the song in 1854. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when was the last year the eagles went to the superbowl",
+      "response": "The Philadelphia Eagles last went to the Super Bowl in 2021.",
+      "judgment": "Correctness Reasoning: The response is incorrect because the Philadelphia Eagles last went to the Super Bowl in 2018, not 2021. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when is the last time the vikings were in the nfc championship",
+      "response": "The Vikings were in the NFC Championship game last in 2019.",
+      "judgment": "Correctness Reasoning: The response accurately states that the Vikings last played in the NFC Championship game in 2019, which is correct. However, it is important to note that the Vikings have not reached the NFC Championship game since then, making the information accurate as of the last known data. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who proclaimed 5th october as world’s teachers day",
+      "response": "The United Nations proclaimed October 5th as World Teachers' Day in 1994.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the United Nations as the organization that proclaimed October 5th as World Teachers' Day and provides the correct year of 1994. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "aphasia is a term defining difficulty or loss of ability to",
+      "response": "Phrasal difficulties are when someone finds it hard to say or understand words. This can happen because their brain isn't working well, especially for talking.",
+      "judgment": "Correctness Reasoning: The response partially addresses the prompt by explaining that aphasia involves difficulties with speaking and understanding words. However, it does not explicitly define aphasia or mention that it can involve both expressive and receptive language difficulties. Therefore, it lacks completeness in answering the prompt accurately.  \nCorrectness Score: 6  \n\nInstruction Reasoning: The response uses clear and simple English, making it accessible for non-native speakers. It avoids complex vocabulary and structures, adhering well to the instruction.  \nInstruction Following Score: 9  ",
+      "correctness_score": 6,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who plays dusty in the movie pure country",
+      "response": "In the movie Pure Country, Dusty is played by an actor named Tom Hanks.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Tom Hanks plays Dusty in the movie Pure Country. The correct actor is actually George Strait. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "how many paintings of sunflowers did van gogh paint",
+      "response": "Van Gogh painted 20 different paintings of sunflowers.",
+      "judgment": "Correctness Reasoning: The response accurately states that Van Gogh painted 20 different paintings of sunflowers, which is a correct fact. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is billy last name in where the red fern grows",
+      "response": "Billy's last name in Where the Red Fern Grows is Grayson.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Billy's last name is Grayson. In the book \"Where the Red Fern Grows,\" Billy's last name is actually Colman. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear, simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who did the broncos beat in the super bowl",
+      "response": "The Denver Broncos beat the Green Bay Packers in the Super Bowl.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the Green Bay Packers as the team that the Denver Broncos beat in the Super Bowl, specifically referring to Super Bowl XXXII, which is a correct historical fact. However, it does not specify which Super Bowl, as the Broncos have played in multiple Super Bowls. This could lead to some confusion regarding which game is being referenced. \nCorrectness Score: 7\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity. \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the money called in south korea",
+      "response": "In South Korea, the money people use is called won.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the currency used in South Korea as \"won,\" which is correct. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It follows the instruction well.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who sang let me tell you about the birds and the bees",
+      "response": "The song \"Let Me Tell You About the Birds and the Bees\" was sung by The Beach Boys.",
+      "judgment": "Correctness Reasoning: The response correctly identifies The Beach Boys as the artists who performed the song \"Let Me Tell You About the Birds and the Bees.\" However, it is important to note that the song is actually by Jewel Akens, which makes the response factually incorrect. \nCorrectness Score: 3\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity. \nInstruction Following Score: 10",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when do you get your white coat in pharmacy school",
+      "response": "In pharmacy school, you usually get a white coat right when you start the program. It's like getting a new uniform for work.",
+      "judgment": "Correctness Reasoning: The response accurately states that students typically receive their white coat at the beginning of pharmacy school, which is correct. However, it could be more specific about the timing, as some schools have a formal ceremony for this event. \nCorrectness Score: 8\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well.\nInstruction Following Score: 10",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who sings will you still love me when i'm not young and beautiful",
+      "response": "The song \"Will You Still Love Me When I'm Not Young and Beautiful?\" is sung by the singer Michael Stipe. He is from a band called R.E.M.",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the song \"Will You Still Love Me When I'm Not Young and Beautiful?\" to Michael Stipe and R.E.M. The actual artist of the song is Lana Del Rey. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It uses straightforward language and structure, which aligns with the instruction provided.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "name the cell which is attached to the lateral side of sieve tube",
+      "response": "The cell attached to the lateral side of a sieve tube is called a companion cell.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the cell that is attached to the lateral side of a sieve tube as a companion cell, which is correct in the context of plant biology. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the biltmore house opened to the public",
+      "response": "The Biltmore House became open to the public in 1895.",
+      "judgment": "Correctness Reasoning: The response accurately states that the Biltmore House opened to the public in 1895, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what are the spices in chinese 5 spice powder",
+      "response": "The Chinese five spice powder has some special spices. It usually contains black pepper, Sichuan pepper (which tastes spicy and sour), fennel seeds, star anise, and cloves. These spices give the food a nice flavor when mixed together.",
+      "judgment": "Correctness Reasoning: The response accurately lists the spices typically found in Chinese five spice powder, including black pepper, Sichuan pepper, fennel seeds, star anise, and cloves. It also explains the flavor profile of Sichuan pepper, which adds to the correctness of the answer. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The explanation is straightforward and avoids complex language, adhering well to the instruction.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is dakar located on the world map",
+      "response": "Dakar is located in Senegal on the west coast of Africa. You can find it near the bottom of the map, between Morocco and the Gambia.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Dakar's location in Senegal and provides additional context about its position on the west coast of Africa. However, the mention of its position \"between Morocco and the Gambia\" is misleading, as Dakar is actually south of Morocco and west of Gambia, not between them. This slight inaccuracy affects the overall correctness of the response.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It avoids complex vocabulary and provides a straightforward answer to the question.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when did university stop being free in australia",
+      "response": "In Australia, universities became more expensive to attend from about 1970 onwards. Before that, it was quite cheap or even free for some students.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that universities in Australia started to become more expensive around 1970 and mentions that they were cheaper or free before that time. However, it could be more precise by noting that the introduction of tuition fees began with the introduction of the Higher Education Contribution Scheme (HECS) in 1989, which marked a significant change in university funding. Therefore, while the general idea is correct, it lacks specific detail about the timeline of changes in university fees.  \nCorrectness Score: 7\n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. The language used is straightforward, and the information is presented in an easy-to-understand manner.  \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who plays noah newman on the young and the restless",
+      "response": "The actor who plays Noah Newman on The Young and the Restless is Michael J. Busch.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the actor. Noah Newman is played by Robert Adamson, not Michael J. Busch. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "chief ministers of tamil nadu mentioned on wikipedia",
+      "response": "Tamil Nadu's chief ministers have been mentioned on Wikipedia. Here are some names you might find:\n\n1. K. Marudhamalai\n2. K. Ananthasayanamurti\n3. C. N. Annadurai\n4. S. N. Balasubramaniam\n5. K. M. Karunanidhi\n6. T. S. Thimmappayyan\n7. P. Chidambaram\n8. M. K. Stalin\n9. V. K. Rao\n10. K. J. Stalin\n\nThese are just a few examples. There have been many other chief ministers since the state was formed in 1953.",
+      "judgment": "Correctness Reasoning: The response lists some names of individuals who have served as chief ministers of Tamil Nadu, but it includes inaccuracies. For example, \"K. Marudhamalai,\" \"S. N. Balasubramaniam,\" \"T. S. Thimmappayyan,\" and \"V. K. Rao\" are not recognized as chief ministers of Tamil Nadu. Additionally, \"K. J. Stalin\" appears to be a typographical error for \"M. K. Stalin.\" Therefore, the response does not accurately reflect the correct list of chief ministers.\n\nCorrectness Score: 3\n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. The structure is straightforward, and the use of a numbered list helps in understanding. Therefore, it follows the instruction well.\n\nInstruction Following Score: 10",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many games in a row have the uconn women's basketball team won",
+      "response": "The UConn women's basketball team has won many games in a row. They have won more than 50 games in a row several times. So, it's very impressive!",
+      "judgment": "Correctness Reasoning: The response does not provide a specific number of games that the UConn women's basketball team has won in a row, which is what the prompt asks for. Instead, it gives a vague statement about winning \"more than 50 games in a row several times,\" which lacks precision and does not directly answer the question. \nCorrectness Score: 4\n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It avoids complex language and conveys the information in an understandable way, even though it lacks specific details. \nInstruction Following Score: 9",
+      "correctness_score": 4,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is the name of the lymphatic vessels located in the small intestine",
+      "response": "The lymphatic vessels in the small intestine are called intestinal lymphatics.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the lymphatic vessels in the small intestine as \"intestinal lymphatics,\" which is correct terminology. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who developed the central processing unit (cpu)",
+      "response": "The Central Processing Unit (CPU) was developed by Intel and IBM. They worked together to make it very powerful and efficient for computers.",
+      "judgment": "Correctness Reasoning: The response correctly identifies Intel as a key developer of the CPU, but it inaccurately suggests that IBM worked together with Intel to develop it. The CPU's development involved multiple companies and individuals over time, and it is not solely attributed to a collaboration between Intel and IBM. Therefore, the answer is partially correct but misleading.  \nCorrectness Score: 6  \n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It avoids complex terminology and presents the information in an understandable way.  \nInstruction Following Score: 10  ",
+      "correctness_score": 6,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the nobel prize for literature first awarded",
+      "response": "The Nobel Prize for Literature was first given out in 1901. That's quite a long time ago, more than 120 years!",
+      "judgment": "Correctness Reasoning: The response accurately states that the Nobel Prize for Literature was first awarded in 1901, which is correct information. The additional comment about it being \"more than 120 years\" is also accurate, as it reflects the time elapsed since the first award. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The use of straightforward language and a direct answer aligns well with the instruction provided. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is lord's prayer found in bible",
+      "response": "The Lord's Prayer is found in Matthew 6:9-13 in the Bible.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the location of the Lord's Prayer in the Bible, specifying the book (Matthew) and the chapter and verses (6:9-13). This is correct information.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who has the power to approve or veto legislation constitution",
+      "response": "In a democratic country, the power to approve or veto legislation usually comes from the president. The president can either sign a bill into law or refuse to sign it. If the president refuses, Congress can try to pass the bill again with a supermajority vote. If the president vetoes the bill, Congress can override the veto with a two-thirds vote in both houses.",
+      "judgment": "Correctness Reasoning: The response accurately explains that the president has the power to approve or veto legislation, and it correctly describes the process of how Congress can respond to a veto. However, it could be clearer about the specific context of the question, which is about the constitutional power, as it does not explicitly mention that this process is defined by the constitution. Therefore, it is mostly correct but lacks a bit of precision regarding the constitutional aspect.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses clear and simple English, making it accessible for non-native speakers. The explanation is straightforward and avoids complex language, fulfilling the instruction effectively.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where are alkali metals located on the periodic table",
+      "response": "Alkali metals are located in Group 1 (or IA) of the periodic table. They are all very close to each other and can be found at the top of the periodic table.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the location of alkali metals on the periodic table, stating that they are in Group 1 (or IA) and at the top. This is correct information regarding their placement.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. The explanation is straightforward and avoids complex terminology.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the full form of ib board",
+      "response": "The full form of IB Board is International Baccalaureate Board. It's a very important organization that helps schools teach high-level classes to students around the world.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the full form of \"IB Board\" as \"International Baccalaureate Board.\" However, it could be noted that \"IB\" is commonly referred to simply as \"International Baccalaureate,\" and the term \"Board\" is not typically used in the official name. Nonetheless, the essence of the answer is correct.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. The explanation is straightforward and avoids complex language.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who hung the lanterns in the old north church",
+      "response": "The lanterns were hung by a group of people who wanted to warn the American soldiers that the British would attack on April 18. They did this because they knew the British had ships nearby and needed to know when to leave.",
+      "judgment": "Correctness Reasoning: The response provides a general idea about the purpose of the lanterns but does not specify who exactly hung them. The historical context is somewhat accurate, but it lacks the specific detail that it was Paul Revere and others who hung the lanterns. Therefore, it does not fully answer the question asked in the prompt.  \nCorrectness Score: 5  \n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. The language is straightforward, and the explanation is easy to understand. Thus, it follows the instruction well.  \nInstruction Following Score: 10  ",
+      "correctness_score": 5,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when does the dlc for rainbow six siege come out",
+      "response": "The DLC (Downloadable Content) for Rainbow Six Siege usually comes out soon after the game. It's like getting a new toy to play with when you already have your favorite game. Check the game's website or app store for more information.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific date or timeframe for when the DLC for Rainbow Six Siege comes out. Instead, it gives a vague statement about DLC generally being released soon after the game, which is not accurate for this specific context. Therefore, it does not accurately answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. It explains the concept of DLC in a relatable way, which aligns with the instruction to use simple language.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who supported states rights during the civil war",
+      "response": "During the Civil War, people who supported states' rights were very important. They believed that each state should have its own rules and could make decisions for itself. This was a big problem because it meant some states might not follow the laws made by other states or by the whole country. Some Southern states strongly supported this idea. They wanted to protect their way of life and did not want to be forced to join with the North.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that Southern states supported states' rights during the Civil War and explains the concept of states' rights in a clear manner. However, it could be more specific about who the supporters were, such as mentioning specific groups or leaders. Overall, it provides a general understanding of the issue.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response is written in clear, simple English, making it accessible for non-native speakers. The language is straightforward, and the ideas are presented in an easy-to-understand manner.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when did hootie and the blowfish come out",
+      "response": "Hootie and the Blowfish came out in 1994.",
+      "judgment": "Correctness Reasoning: The response accurately states the year when Hootie and the Blowfish became popular, which is 1994. However, it does not clarify that this is when their debut album \"Cracked Rear View\" was released, which is a more precise answer to the prompt. Therefore, while the answer is generally correct, it lacks some detail that could enhance its accuracy.  \nCorrectness Score: 7\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It directly answers the question without using complex language or jargon.  \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many countries does cadbury sell its products",
+      "response": "Cadbury sells its products in many countries. It has been sold to companies like Mondelez International, which makes it available in many different countries around the world.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific number of countries where Cadbury sells its products, which is what the prompt asks for. Instead, it gives a vague answer about many countries and mentions Mondelez International without addressing the question directly. \nCorrectness Score: 4\n\nInstruction Reasoning: The response is written in clear and simple English, making it accessible for non-native speakers. It avoids complex language and conveys the information in an understandable way, even though it lacks specific details. \nInstruction Following Score: 9",
+      "correctness_score": 4,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when did the wall go up in east germany",
+      "response": "The wall went up in East Germany very quickly after World War II. It was built very fast, only a few months later. People in East Germany were very surprised and upset when they saw it.",
+      "judgment": "Correctness Reasoning: The response does not provide the specific date when the Berlin Wall was constructed, which is a crucial part of the prompt. The wall was erected on August 13, 1961, and the response fails to mention this important detail. Therefore, it does not accurately answer the question.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. It avoids complex vocabulary and structures, adhering well to the instruction.  \nInstruction Following Score: 9  ",
+      "correctness_score": 4,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when did michael jordan return to the nba",
+      "response": "Michael Jordan returned to the NBA in 1995. He played for the Chicago Bulls that year.",
+      "judgment": "Correctness Reasoning: The response accurately states that Michael Jordan returned to the NBA in 1995 and specifies that he played for the Chicago Bulls, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It avoids complex language and provides a straightforward answer to the question. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many times have real madrid won the champions league in a row",
+      "response": "Real Madrid has won the Champions League in a row 4 times. They won it three times in a row from 2016 to 2018, and then again in 2020.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Real Madrid won the Champions League in a row 4 times. They have won it three times in a row from 2016 to 2018, but the claim of winning again in 2020 does not contribute to consecutive wins. Therefore, the factual information is incorrect. \nCorrectness Score: 3\n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It uses straightforward language and structure, adhering to the instruction provided. \nInstruction Following Score: 9",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when is the publishers clearing house sweepstakes drawing",
+      "response": "The Publishers Clearing House sweepstakes drawing happens every two weeks. The exact date depends on when the company has a new round of drawings. You can find this information on their website or in their newsletters.",
+      "judgment": "Correctness Reasoning: The response accurately states that the Publishers Clearing House sweepstakes drawing occurs every two weeks and mentions that the exact date can vary. It also provides a way for the reader to find more information, which is relevant to the prompt. Therefore, the answer is correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It avoids complex vocabulary and sentence structures, adhering well to the instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who wrote old flames cant hold a candle to you",
+      "response": "The song \"Old Flames Can't Hold a Candle to You\" was written by Paul McCartney. He wrote it in 1963.",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the song \"Old Flames Can't Hold a Candle to You\" to Paul McCartney. The song was actually written by Joe South and later popularized by Dolly Parton. Therefore, the answer does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction well in terms of language clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when is season 2 of jessica jones being released",
+      "response": "Season 2 of Jessica Jones is not coming out yet. It's not scheduled to be released at the moment. You might want to check back later or on their website for updates.",
+      "judgment": "Correctness Reasoning: The response is factually incorrect because Season 2 of Jessica Jones was released on March 8, 2018. The answer does not provide the correct information regarding the release date.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It follows the instruction to provide a straightforward answer.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "how many episodes of touching evil are there",
+      "response": "There are 2 seasons of Touching Evil. Each season has about 13 episodes. So in total, there are 26 episodes.",
+      "judgment": "Correctness Reasoning: The response correctly states that there are 2 seasons of \"Touching Evil\" and provides an accurate total of episodes based on the average number of episodes per season. However, the actual number of episodes in \"Touching Evil\" is 26, which is correct, but the phrasing \"about 13 episodes\" could be misleading since the first season has 13 episodes and the second season has 6 episodes, totaling 19 episodes. Therefore, the total number of episodes stated is incorrect. \nCorrectness Score: 5\n\nInstruction Reasoning: The response uses clear and simple English, making it easy for non-native speakers to understand. The structure is straightforward, and the information is presented in a logical manner. \nInstruction Following Score: 10",
+      "correctness_score": 5,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "mark who went to golf majors in 1998",
+      "response": "Mark who played in the golf major tournaments in 1998 was very successful. He won a big tournament called the Masters that year.",
+      "judgment": "Correctness Reasoning: The response inaccurately states that Mark won the Masters in 1998. In reality, Mark O'Meara won the Masters in 1998, but the prompt does not specify that \"Mark\" refers to him. Therefore, the response does not correctly identify the individual or provide accurate information about his performance in all golf majors that year. \nCorrectness Score: 4\n\nInstruction Reasoning: The response is written in clear, simple English, making it accessible for non-native speakers. It uses straightforward language and structure, which aligns well with the instruction to keep the answer easy to understand. \nInstruction Following Score: 9",
+      "correctness_score": 4,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what season does bart bass die in gossip girl",
+      "response": "In the show Gossip Girl, Bart Bass dies at the beginning of the second season. He is very sick and goes to a hospital but sadly passes away.",
+      "judgment": "Correctness Reasoning: The response accurately states that Bart Bass dies at the beginning of the second season of Gossip Girl and provides a brief explanation of the circumstances surrounding his death. Therefore, it correctly answers the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response is written in clear and simple English, making it easy for non-native speakers to understand. It avoids complex language and provides a straightforward answer.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who came out first batman or spider man",
+      "response": "Batman came out before Spider-Man. Batman first appeared in 1939, and Spider-Man first appeared in 1962.",
+      "judgment": "Correctness Reasoning: The response accurately states that Batman was introduced before Spider-Man, providing the correct years of their first appearances. \nCorrectness Score: 10\n\nInstruction Reasoning: The response is clear and uses simple English, making it easy for non-native speakers to understand. It directly answers the question without unnecessary complexity.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "instruction": "[QUESTION] Please answer in clear, simple English so that non-native speakers can easily understand the response.",
+  "conversations": [
+    {
+      "prompt": "who sang how long has this been going on song",
+      "response": "The song \"How Long Has This Been Going On\" is by Ella Fitzgerald."
+    },
+    {
+      "prompt": "who sings the original windmills of your mind",
+      "response": "The song \"The Windmills of Your Mind\" is sung by Noel Harrison. He is a British singer."
+    },
+    {
+      "prompt": "who plays timon in lion king on broadway",
+      "response": "The actor who plays Timon in the Lion King on Broadway is Ntare Guma Mbaho Mwine."
+    },
+    {
+      "prompt": "when's the last time army won the army navy game",
+      "response": "The Army-Navy game is a big sports event in the United States. It's between the teams of the United States Army and the United States Navy.\n\nThe last time the Army-Navy game was played was on December 12, 2020. The Navy team won the game."
+    },
+    {
+      "prompt": "when was the first australian prime minister elected",
+      "response": "The first Australian Prime Minister was Edmund Barton. He was elected on January 1, 1901."
+    },
+    {
+      "prompt": "element named after fictional planet from which superman came",
+      "response": "The planet you are thinking of is called Krypton."
+    },
+    {
+      "prompt": "what is the second largest country in asia",
+      "response": "The second largest country in Asia is China. It is very big! China covers a lot of land, more than 9 million square kilometers."
+    },
+    {
+      "prompt": "where was the tv show high chaparral filmed",
+      "response": "The TV show \"The High Chaparral\" was filmed in Arizona, USA. \n\nSpecifically, it was filmed in the following places:\n\n1. Tucson, Arizona\n2. Sonoita, Arizona\n3. Sonoita Creek, Arizona\n4. The Arizona State University campus in Tempe, Arizona\n\nThese places are all in southern Arizona, which is a desert area with beautiful mountains and cacti. The show's crew used these locations to film the ranch scenes, which were set in the 1860s.\n\nThe show was popular in the 1960s and 1970s, and it is still remembered today for its good storylines and beautiful desert landscapes."
+    },
+    {
+      "prompt": "the legend of heroes trails in the sky the 3rd vita",
+      "response": "The Legend of Heroes: Trails in the Sky the 3rd is a game for the PlayStation Vita. It is a very popular game in Japan. \n\nThe game is about a young man named Phantasma who is very strong and brave. He is on a journey to find his true identity. Phantasma has a special power that helps him in his journey.\n\nThe game is very long, and it has many characters and stories. You will see many scenes and events that are very exciting and emotional. \n\nThe game also has a very interesting plot. The story is about Phantasma's past and his connection to the people he meets on his journey. The game has many twists and turns, so you will be very surprised at the end.\n\nOverall, The Legend of Heroes: Trails in the Sky the 3rd is a very good game. It has a very interesting story, many characters, and exciting events. If you like adventure games, you will definitely enjoy playing it."
+    },
+    {
+      "prompt": "who was the great wall of china built to defend against",
+      "response": "The Great Wall of China was built to defend against nomadic tribes from the north. These tribes were called the Mongols and the Manchu. They were a threat to China because they were very good at horse riding and had many soldiers.\n\nThe wall was built many years ago, from 221 to 136 BC. It was a very long wall, over 4,000 miles long! It was built to keep these nomadic tribes out of China and to protect the Chinese people.\n\nThe wall was built in many different sections, and it was guarded by soldiers and watchtowers. It was a very important building to keep China safe.\n\nThe wall was also built to control trade and immigration. It was a way for the Chinese government to control who came into the country and what they brought with them.\n\nOverall, the Great Wall of China was built to defend China against the nomadic tribes from the north, and it was a very important building for many years."
+    },
+    {
+      "prompt": "who is playing the halftime show at super bowl 2016",
+      "response": "At Super Bowl 50, the halftime show was performed by Coldplay, along with special guests Beyoncé and Bruno Mars."
+    },
+    {
+      "prompt": "who has the most yards per carry in nfl history",
+      "response": "The player with the most yards per carry in NFL history is Barry Sanders. He played for the Detroit Lions from 1989 to 1998. Sanders had an average of 5.2 yards per carry, which means he ran with the ball and gained 5.2 yards for every carry. This is very good, because most players average around 3-4 yards per carry. Sanders was very fast and could run very well, which helped him get a lot of yards."
+    },
+    {
+      "prompt": "who plays the dwarf king in the hobbit",
+      "response": "In the movie \"The Hobbit\", the dwarf king is played by actor Stephen Fry. He is the leader of the dwarves and is very important in the story."
+    },
+    {
+      "prompt": "who is the lead singer of depeche mode",
+      "response": "The lead singer of Depeche Mode is Dave Gahan."
+    },
+    {
+      "prompt": "when is the running of the bulls held in spain",
+      "response": "The Running of the Bulls is held in Spain in July. Specifically, it is held in Pamplona, a city in the Basque region of Spain. This event happens every year, usually in mid-July.\n\nHere is the exact date:\n\n* First day: Monday of the first week of July\n* Last day: Friday of the first week of July\n\nThe Running of the Bulls is a famous and exciting event, where people run through the streets of Pamplona to avoid being chased by bulls. It is a very popular event, but it can also be very dangerous. Many people get hurt each year.\n\nIf you want to see the Running of the Bulls, you should plan your trip to Spain in July. But remember, it is a very crowded and busy event, and you should be careful when you are there."
+    },
+    {
+      "prompt": "who played maudie in the movie el dorado",
+      "response": "The movie \"El Dorado\" was released in 1967. The character Maude was played by actress Joan Weldon."
+    },
+    {
+      "prompt": "when does the champions league quarter finals start",
+      "response": "The Champions League quarter-finals start on April 11th and 12th, 2023."
+    },
+    {
+      "prompt": "when was the first hunger games book published",
+      "response": "The first Hunger Games book was published on September 14, 2008. It was written by Suzanne Collins."
+    },
+    {
+      "prompt": "how old is the actress who plays phyllis on y&r",
+      "response": "I don't have the information about the actress who plays Phyllis on Y&R."
+    },
+    {
+      "prompt": "when does episode 29 of boruto come out",
+      "response": "I'm sorry but I am a large language model, I do not have the latest information on the release date of episode 29 of Boruto."
+    },
+    {
+      "prompt": "which country has the most coastline in the world",
+      "response": "The country with the most coastline in the world is Canada."
+    },
+    {
+      "prompt": "who is the girl in green day 21 guns",
+      "response": "The song \"21 Guns\" is from the band Green Day. The female singer in the song is Trish from the band. But more specifically, the woman in the song is Trish from the band's music video."
+    },
+    {
+      "prompt": "where is the tibia and fibula bone located",
+      "response": "The tibia and fibula are two bones in your leg.\n\n*   The **tibia** is the larger bone. It is located in the lower leg, just below the knee. You can think of it as the main bone of your leg.\n*   The **fibula** is the smaller bone. It is also in the lower leg, but it is on the outside of the tibia. Think of it as the smaller brother of the tibia.\n\nThese two bones work together to help you stand, walk, and run. They are very important for your leg to move properly."
+    },
+    {
+      "prompt": "which songs did liam write as you were",
+      "response": "I am not familiar with the artist \"LiAM\". Could you please provide more information about the artist and the songs you are looking for? I will do my best to help you.\n\nHowever, I can suggest that the artist \"LiAM\" might be Liam Payne from the British boyband One Direction. If this is the case, I can try to help you with the song \"As You Were\"."
+    },
+    {
+      "prompt": "who sings the theme song for living single",
+      "response": "The theme song for the TV show \"Living Single\" is called \"I'll Make Love to You\". It is performed by Boyz II Men."
+    },
+    {
+      "prompt": "when was the young and the restless first aired",
+      "response": "The Young and the Restless first aired on March 26, 1973. It is a popular American soap opera that has been on television for many years."
+    },
+    {
+      "prompt": "when was half life 2 episode 2 released",
+      "response": "Half-Life 2: Episode Two was released on October 9, 2007."
+    },
+    {
+      "prompt": "who plays the robot on the orville show",
+      "response": "The robot on the show \"The Orville\" is played by actor Mark Jackson. He plays the role of Isaac, a very smart and helpful robot who is part of the crew of the spaceship."
+    },
+    {
+      "prompt": "what emperor took over france after the reign of terror",
+      "response": "The Emperor who took over France after the Reign of Terror was Napoleon Bonaparte. He was a military leader who rose to power during the French Revolution. In 1799, he became the leader of France and eventually declared himself Emperor in 1804. He ruled France until his downfall in 1815.\n\nNapoleon was a very powerful person who changed the way France was governed. He created a new system of government and made many changes to the country's laws and institutions. He also expanded France's territory and created a large army.\n\nHowever, Napoleon's rule was not without controversy. He was known for his aggressive military campaigns and his use of force to achieve his goals. He also had many enemies, including some of his own generals and politicians.\n\nIn 1815, Napoleon's power was challenged by a coalition of European armies. He was defeated in the Battle of Waterloo and was exiled to the island of Elba. Later, he escaped and returned to power for a brief time, but he was defeated again and exiled to the island of Saint Helena, where he died in 1821."
+    },
+    {
+      "prompt": "when did ole miss beat alabama in football",
+      "response": "The Ole Miss Rebels beat the Alabama Crimson Tide in football on November 16, 2019."
+    },
+    {
+      "prompt": "when did frank sinatra first sing new york new york",
+      "response": "Frank Sinatra first sang \"New York, New York\" in 1979. It was a song from the movie \"On the Town\" and the film was released in 1979."
+    },
+    {
+      "prompt": "what is the name for the ch3coo- ion",
+      "response": "The ch3coo- ion is called an acetate ion."
+    },
+    {
+      "prompt": "who played the daughters in last man standing",
+      "response": "In the TV show \"Last Man Standing\", the daughters are played by:\n\n1. Alexandra Krosney (Alex) - She played the role of Alex, the eldest daughter.\n2. Molly Ephron (Molly) - She played the role of Molly, the middle daughter.\n3. Kristin Ephron (Kristin) - She played the role of Kristin, the youngest daughter.\n\nThese three actresses played the roles of the Ephron daughters in the show."
+    },
+    {
+      "prompt": "where can you find dna in the body",
+      "response": "DNA is a type of molecule that is found in every living thing. You can find DNA in the following places in the body:\n\n1. **Cells**: DNA is found inside every cell of your body. Cells are the building blocks of your body.\n2. **Blood**: You can find DNA in your blood. It's a liquid that carries oxygen and other important things to your cells.\n3. **Tissues**: Tissues are groups of cells that work together to do a specific job. DNA is found in all tissues of your body.\n4. **Organs**: Organs are structures that do important jobs for your body. For example, the heart is an organ that pumps blood. DNA is found in all organs of your body.\n5. **Skin**: You can find DNA in your skin. It's the outer layer that protects your body.\n6. **Hair**: You can find DNA in your hair. It's the long, thin growths that come out of your skin.\n7. **Saliva**: Saliva is the liquid that you spit when you talk or drink water. It contains DNA from your mouth.\n8. **Mucus**: Mucus is a thick, sticky liquid that comes out of your nose when you are sick. It contains DNA from your nose.\n\nRemember, DNA is everywhere in your body! It's like a map that shows how you were made and how you will grow and change over time."
+    },
+    {
+      "prompt": "where are the first nations located in canada",
+      "response": "The First Nations are Indigenous peoples who have lived in Canada for thousands of years. They are spread across the country, but here are some places where many First Nations are located:\n\n**In Western Canada:**\n\n1. British Columbia: Many First Nations live in the western part of the province, including near Vancouver, Victoria, and Prince Rupert.\n2. Alberta: There are First Nations in the southern and western parts of the province, near Calgary and Edmonton.\n3. Saskatchewan: First Nations are found in the southern and central parts of the province, near Regina and Saskatoon.\n\n**In Eastern Canada:**\n\n1. Ontario: Many First Nations live in the northern and eastern parts of the province, near Thunder Bay, Sault Ste. Marie, and Toronto.\n2. Quebec: First Nations are found in the northern and eastern parts of the province, near Montreal and Quebec City.\n\n**In Northern Canada:**\n\n1. Yukon: First Nations live in the southern part of the territory, near Whitehorse.\n2. Northwest Territories: Many First Nations live in the northern part of the territory, near Yellowknife.\n3. Nunavut: First Nations are found in the northern part of the territory, near Iqaluit.\n\nThese are just a few examples of where the First Nations are located in Canada. There are many more communities and reserves across the country."
+    },
+    {
+      "prompt": "who won in the brown vs board of education case",
+      "response": "The Brown vs Board of Education case was a very important court case in the United States. It was about whether African American children could go to school with white children.\n\nThe court decided that they could. The case was won by the African American people who were fighting for their right to be treated equally.\n\nHere's what happened:\n\n* A long time ago, in 1950, the NAACP (National Association for the Advancement of Colored People) took the case to court.\n* They said that schools in the United States should be equal for all children, not just white children.\n* The court agreed and said that the way the schools were now was unfair.\n\nThis case was very important because it changed the way the United States treated African American children. It helped to end segregation in schools and make sure that all children were treated equally."
+    },
+    {
+      "prompt": "who got the most rings in the nba",
+      "response": "The person who got the most rings in the NBA is Bill Russell. He played for the Boston Celtics from 1956 to 1969. He won 11 championships during that time.\n\nBill Russell was very good at basketball. He was a very important player for his team. He helped his team win many games and championships.\n\nHere is a list of the top 5 players with the most NBA championships:\n\n1. Bill Russell (11)\n2. Sam Jones (10)\n3. John Havlicek (8)\n4. Tom Heinsohn (8)\n5. Kareem Abdul-Jabbar (6)\n\nNote: These numbers are correct as of the 2022 NBA season."
+    },
+    {
+      "prompt": "love yourself by justin bieber is about who",
+      "response": "Justin Bieber's song \"Love Yourself\" is about his ex-girlfriend Selena Gomez. He is saying that he is sorry for his mistakes and that he loves her."
+    },
+    {
+      "prompt": "where are the highest average incomes found in north america",
+      "response": "The highest average incomes in North America are found in the following countries:\n\n1. **Canada**: Average income is around $55,000 per year. This is because Canada has a strong economy, many good jobs, and a high standard of living.\n2. **United States**: Average income is around $52,000 per year. The US has a large and diverse economy, with many high-paying jobs in cities like New York and San Francisco.\n3. **United States (some states)**: Some states in the US, like Alaska and Hawaii, have very high average incomes. These states have a lot of natural resources, tourism, and good jobs in industries like technology and finance.\n\nSome specific cities with very high average incomes are:\n\n* **New York City, USA**: Average income is around $75,000 per year. This is because many people work in finance, media, and technology.\n* **Toronto, Canada**: Average income is around $65,000 per year. This is because Toronto has many good jobs in industries like technology, finance, and healthcare.\n* **San Francisco, USA**: Average income is around $80,000 per year. This is because San Francisco has many good jobs in technology, finance, and entrepreneurship.\n\nThese cities and countries have a high standard of living and many good job opportunities, which means people can earn a lot of money."
+    },
+    {
+      "prompt": "who became the it company ceo in 2016",
+      "response": "The CEO of Microsoft became Satya Nadella in 2014, not in 2016. He took over as the CEO in February 2014.\n\nHowever, the CEO of IBM became Ginni Rometty in 2012, and she remained as the CEO until 2020. \n\nThe CEO of Apple is Tim Cook, and he has been in that position since 2011."
+    },
+    {
+      "prompt": "how many seasons of the glades were made",
+      "response": "The Glades is a TV show. It was made for 5 seasons."
+    },
+    {
+      "prompt": "where is the boy who played charlie in willy wonka",
+      "response": "You are asking about a boy who played Charlie Bucket in Willy Wonka. The boy's name is Peter Ostrum. He is American.\n\nYou can find Peter Ostrum on the internet. He was a child actor when he played Charlie Bucket in the 1971 movie Willy Wonka and the Chocolate Factory."
+    },
+    {
+      "prompt": "what is the movie about six degrees of separation",
+      "response": "\"Six Degrees of Separation\" is a movie about two people who meet in a small town in New York. They are a woman named Ouisa and her boyfriend, her sister's husband. They live in a big house and are very happy with their lives.\n\nOne day, a young black man named Paul comes to their house and claims to be the son of a famous actress. He is very good at pretending to be someone he is not, and Ouisa and her boyfriend are very impressed by him.\n\nBut as they get to know Paul, they start to realize that he is not who he says he is. He is not really the son of a famous actress, and he has a very bad attitude. They start to think that they have been fooled by him.\n\nThe movie is about how Ouisa and her boyfriend try to figure out who Paul really is and what he wants from them. They have to deal with their own problems and feelings, and they learn that some people are not what they seem.\n\nThe movie also talks about the idea of how we are all connected to each other, and how our lives are like a big web of relationships. This is what the title \"Six Degrees of Separation\" means. It is like a game where you try to find the connection between two people, and you can always find a way to link two people together in six steps or less."
+    },
+    {
+      "prompt": "five tools of security management to overcome computer crime",
+      "response": "Here are 5 tools of security management to overcome computer crime:\n\n1. **Firewall**: A firewall is a computer system that controls incoming and outgoing internet traffic based on predetermined security rules. It helps to prevent hackers from entering your computer system and stealing your data.\n\n2. **Antivirus Software**: Antivirus software is a program that helps to protect your computer from viruses and other types of malware. It scans your computer for any malicious software and removes it if found.\n\n3. **Encryption**: Encryption is a way to protect data from unauthorized access. It converts your data into a code that only authorized people can read. This helps to prevent hackers from stealing your sensitive information.\n\n4. **Intrusion Detection System (IDS)**: An IDS is a system that monitors your computer system for any suspicious activity. It alerts you if any malicious activity is detected, so you can take action to prevent it.\n\n5. **Network Access Control (NAC)**: NAC is a system that controls who can access your network and what they can do on the network. It helps to prevent unauthorized access to your computer system and data.\n\nThese tools of security management help to protect your computer system and data from computer crime, such as hacking and malware attacks."
+    },
+    {
+      "prompt": "what is the big gold dome in jerusalem",
+      "response": "The big gold dome in Jerusalem is called the Dome of the Rock. It is a very important building in a very holy city. Many people go there to pray and worship.\n\nThe Dome of the Rock is made of gold and white marble. It is very big and looks very beautiful. But it is not a church or a mosque. It is a special building that is used by Muslims and Christians to pray.\n\nThe Dome of the Rock was built many years ago by a group of people called the Umayyad Caliphate. They were a powerful group of people who ruled a big part of the world. They built the Dome of the Rock as a way to show their power and wealth.\n\nThe Dome of the Rock is very special because it is one of the oldest and most important buildings in Jerusalem. Many people come to see it and visit it. But it is also a very holy place for many people, and they come to pray and worship there.\n\nIt's a very famous and important building in the world, and it's a very big part of the history and culture of Jerusalem."
+    },
+    {
+      "prompt": "who ran the fastest 40 yard dash in the nfl",
+      "response": "According to the NFL, the fastest 40-yard dash was run by John Ross, a wide receiver from the Cincinnati Bengals. He ran it in 4.22 seconds in 2017."
+    },
+    {
+      "prompt": "where is fe best absorbed in the body",
+      "response": "Fe (iron) is best absorbed in the small intestine, which is the first part of the digestive system. This is where food enters the body and starts to break down.\n\nIn the small intestine, there are tiny little fingers called villi that help to catch food particles. When food with iron enters the small intestine, the villi grab onto it and hold it tightly. The iron is then broken down into a form that the body can use easily.\n\nThis process happens in a special part of the small intestine called the duodenum. The duodenum is the first part of the small intestine, and it's where the food with iron is first mixed with special juices that help to break it down.\n\nHere's a simple diagram to help you understand:\n\n* Food enters the body through the mouth.\n* The food goes into the esophagus and down to the stomach.\n* The stomach mixes the food with special juices that break it down.\n* The food then goes into the small intestine, where the villi catch onto it.\n* The iron is broken down into a form that the body can use.\n* The iron is then absorbed into the bloodstream and carried to the rest of the body.\n\nSo, the small intestine is the best place for the body to absorb iron."
+    },
+    {
+      "prompt": "another name for the torso is the blank region of the body",
+      "response": "The torso is the middle part of the body. It is between the head and the legs."
+    },
+    {
+      "prompt": "what is the oldest street in the philippines",
+      "response": "The oldest street in the Philippines is Calle Real in Intramuros, Manila. It was built in 1571."
+    },
+    {
+      "prompt": "what is the population of st petersburg fl",
+      "response": "The population of St. Petersburg, Florida is approximately 259,361 people."
+    },
+    {
+      "prompt": "how many hoops are used in a game of croquet",
+      "response": "In a game of croquet, there are 9 hoops used. The hoops are small rings placed on the lawn. Players use a mallet to hit the ball through the hoops in a specific order. The goal is to complete the course in the fewest number of strokes possible."
+    },
+    {
+      "prompt": "who plays noah newman on the young and the restless",
+      "response": "Noah Newman is a character on the soap opera \"The Young and the Restless\". The actor who plays Noah is Hunter King."
+    },
+    {
+      "prompt": "what is the pirates of the caribbean in order",
+      "response": "The Pirates of the Caribbean is a series of movies. Here is the order:\n\n1. The Curse of the Black Pearl (2003) - This is the first movie. It tells the story of a pirate named Captain Jack Sparrow.\n2. Dead Man's Chest (2006) - This movie happens after the first one. It's about Captain Jack Sparrow's adventures.\n3. At World's End (2007) - This movie is about the pirates fighting against a bad guy.\n4. On Stranger Tides (2011) - This movie is about Captain Jack Sparrow's new adventure with a mermaid.\n5. Dead Men Tell No Tales (2017) - This is the last movie in the series. It's about Captain Jack Sparrow's final adventure.\n\nNote: There are also some other movies, like a prequel (a movie that happens before the first one) called On Stranger Tides: The Lost Treasure, but it's not very popular."
+    },
+    {
+      "prompt": "where is the world's largest thermometer located",
+      "response": "The world's largest thermometer is located in Dubai, United Arab Emirates. It is very big and very hot."
+    },
+    {
+      "prompt": "when was the last time the military drafted",
+      "response": "The United States has not drafted soldiers since 1973. This is a very long time ago.\n\nIn 1973, the US ended its draft, which means people were not forced to join the army. This decision was made because many people were against the draft and thought it was unfair.\n\nBefore 1973, the US draft was very common. Many young men were forced to join the army when they turned 18. This was a difficult time for many people, and it changed a lot of lives.\n\nNow, when the US needs soldiers, it usually hires people to join the army voluntarily. This means they choose to join the army because they want to, not because they are forced to."
+    },
+    {
+      "prompt": "who holds the world record for the most world records",
+      "response": "I'm happy to help you with this question! \n\nHowever, I need to correct you that there is no one who holds the world record for the most world records. World records are set by organizations such as Guinness World Records or the World Records Academy, and these organizations keep track of all the records. They don't have a single person who holds the most world records.\n\nBut, there is one person who holds a very special record. She is Ashrita Furman, an American man who has set a record by getting 215 Guinness World Records. He holds the record for the most Guinness World Records set by a person.\n\nIt's worth noting that Ashrita Furman is not the only person who has set many world records. There are others who have also achieved this feat, but he holds the record for the most Guinness World Records set by a person."
+    },
+    {
+      "prompt": "what is the final season of downton abbey",
+      "response": "The final season of Downton Abbey is Season 6. It is the last season of the show. It has 8 episodes. The show ends with a big wedding and a big party at Downton Abbey."
+    },
+    {
+      "prompt": "the cast of don't tell mom the babysitter's dead",
+      "response": "The movie \"Don't Tell Mom the Babysitter's Dead\" is a comedy from 1991. The main cast includes:\n\n* Christina Applegate as Sue Ellen Crandell\n* Joanna Cassidy as Sue Ellen's mom\n* Keith Coogan as Walter\n* Josh Charles as David\n* Josh Charles' brother, John Charles, played Walter's friend, but not much.\n\nNote: The movie is about a teenager named Sue Ellen who has to take care of her family after her mom's sudden death, and she tries to keep it a secret from her mom."
+    },
+    {
+      "prompt": "who wrote the text for jeanie with the light brown hair",
+      "response": "The text for \"Jeanie with the Light Brown Hair\" was written by John Greenleaf Whittier."
+    },
+    {
+      "prompt": "when is the last time the vikings were in the nfc championship",
+      "response": "The Vikings last appeared in the NFC Championship game in 2015."
+    },
+    {
+      "prompt": "how many paintings of sunflowers did van gogh paint",
+      "response": "Vincent van Gogh, a famous Dutch painter, liked painting sunflowers very much. He painted many pictures of sunflowers. In fact, he painted more than 10 sunflower paintings!\n\nSome of these paintings are very famous and are still liked by many people today. They are very colorful and show big, bright sunflowers. Van Gogh used special paint to make the sunflowers look very happy and happy-looking.\n\nIf you want to see these beautiful paintings, you can go to museums in many cities in the world. They have many Van Gogh paintings, including his sunflower paintings."
+    },
+    {
+      "prompt": "what is billy last name in where the red fern grows",
+      "response": "In the book \"Where the Red Fern Grows\" by Wilson Rawls, the main character's name is Billy Colman."
+    },
+    {
+      "prompt": "when was the last year the eagles went to the superbowl",
+      "response": "The Philadelphia Eagles last went to the Super Bowl in 2018. They played in the Super Bowl against the New England Patriots."
+    },
+    {
+      "prompt": "who plays dusty in the movie pure country",
+      "response": "In the movie \"Pure Country\", the character \"Dusty\" is played by actor George Strait."
+    },
+    {
+      "prompt": "what is the money called in south korea",
+      "response": "In South Korea, the money is called \"Won\" (pronounced \"won\"). It's the official currency of South Korea. You can buy things with Won, like food, clothes, and toys. \n\nFor example, if you buy a sandwich for 1,000 Won, it's a small price. If you buy a big TV for 50,000 Won, it's a more expensive price."
+    },
+    {
+      "prompt": "who sang let me tell you about the birds and the bees",
+      "response": "The song \"Let Me Tell You About the Birds and the Bees\" is sung by Harry Nilsson."
+    },
+    {
+      "prompt": "who sings will you still love me when i'm not young and beautiful",
+      "response": "You are thinking of the song \"Young and Beautiful\". It is sung by American singer Lana Del Rey. The song is from her album \"The Great Gatsby\"."
+    },
+    {
+      "prompt": "who did the broncos beat in the super bowl",
+      "response": "The Denver Broncos beat the Carolina Panthers in Super Bowl 50."
+    },
+    {
+      "prompt": "when did university stop being free in australia",
+      "response": "In Australia, university education was free for a long time. This was from 1989 to 2012. \n\nBefore 1989, some universities were free, but not all. Some students had to pay fees. \n\nIn 2012, the government decided that universities would no longer be free for everyone. Now, students have to pay fees, but some people still get help from the government.\n\nIt's worth noting that some universities in Australia are still free for international students."
+    },
+    {
+      "prompt": "when do you get your white coat in pharmacy school",
+      "response": "In pharmacy school, you will get your white coat during a ceremony called \"White Coat Ceremony\".\n\nThis ceremony happens at the beginning of the first year of pharmacy school. It's a very important day. You will wear a white coat for the first time, and it's a big moment.\n\nThe ceremony is usually held in the fall semester, after you have completed your first year of pharmacy school. It's a time to celebrate and welcome you to the pharmacy program.\n\nThe white coat represents your commitment to the profession of pharmacy. It's a symbol of the high standards and ethics of the profession."
+    },
+    {
+      "prompt": "who proclaimed 5th october as world’s teachers day",
+      "response": "The 5th October is World Teachers' Day. It was chosen because the United Nations General Assembly decided that 5th October would be a special day to honor teachers.\n\nThe idea came from the International Labour Organization, which is a group that helps countries work together to improve the lives of workers and their families. In 1994, the ILO declared that 5th October would be World Teachers' Day.\n\nThe reason for choosing 5th October is because of a famous speech by Mahatma Gandhi, an Indian leader. On 5th October 1930, Gandhi said, \"The teacher is a very important person. Without the teacher, we cannot learn anything.\"\n\nSo, the United Nations and many countries decided that 5th October would be a day to celebrate the important role that teachers play in our lives."
+    },
+    {
+      "prompt": "where is dakar located on the world map",
+      "response": "Dakar is a city in West Africa. It is located in Senegal, a country in Africa. If you look on a world map, you can find it in the following place:\n\n* Continent: Africa\n* Region: West Africa\n* Country: Senegal\n* City: Dakar\n\nImagine a big map with Africa in the middle. Senegal is a small country near the coast of the Atlantic Ocean. Dakar is the capital city of Senegal and is located near the coast."
+    },
+    {
+      "prompt": "aphasia is a term defining difficulty or loss of ability to",
+      "response": "BASAL NEUROLOGY\n\nBASAL NEUROLOGY is a term that defines difficulty or loss of ability to speak and understand words. This is a problem with a part of the brain that helps us talk and understand language."
+    },
+    {
+      "prompt": "what is the name of the lymphatic vessels located in the small intestine",
+      "response": "The lymphatic vessels in the small intestine are called the Peyer's patches."
+    },
+    {
+      "prompt": "name the cell which is attached to the lateral side of sieve tube",
+      "response": "The cell attached to the lateral side of a sieve tube is called a companion cell."
+    },
+    {
+      "prompt": "when was the biltmore house opened to the public",
+      "response": "The Biltmore House was opened to the public on December 20, 1889."
+    },
+    {
+      "prompt": "what are the spices in chinese 5 spice powder",
+      "response": "Chinese 5-spice powder is a blend of spices. The main ingredients are:\n\n1. Cloves: gives a strong, sweet flavor\n2. Cinnamon: gives a warm, sweet flavor\n3. Fennel seeds: gives a fresh, sweet flavor\n4. Star anise: gives a sweet, slightly spicy flavor\n5. Szechuan pepper: gives a spicy, numbing flavor\n\nThese spices are mixed together in a specific ratio to create a balanced flavor. The result is a sweet, spicy, and slightly numbing flavor that is commonly used in Chinese cooking."
+    },
+    {
+      "prompt": "where is lord's prayer found in bible",
+      "response": "The Lord's Prayer is found in the Bible in two places:\n\n1. **Matthew 6:9-13**: This is in the book of Matthew, which is one of the four Gospels. It is the prayer Jesus taught his disciples to pray.\n2. **Luke 11:2-4**: This is also in the book of Luke, which is another Gospel.\n\nThe prayer is:\n\n\"Our Father in heaven,\nHallowed be your name.\nYour kingdom come,\nYour will be done,\nOn earth as it is in heaven.\nGive us this day our daily bread,\nAnd forgive us our debts,\nAs we forgive our debtors.\nAnd lead us not into temptation,\nBut deliver us from evil.\nFor yours is the kingdom and the power and the glory forever.\nAmen.\"\n\nThis prayer is a way for Christians to talk to God and ask for help."
+    },
+    {
+      "prompt": "how many games in a row have the uconn women's basketball team won",
+      "response": "The UConn women's basketball team has won a lot of games in a row. They have won 111 games in a row."
+    },
+    {
+      "prompt": "mark who went to golf majors in 1998",
+      "response": "You are probably thinking of Tiger Woods. He was a very good golfer in 1998. He won many golf tournaments that year, including the Masters and the U.S. Open."
+    },
+    {
+      "prompt": "when was the nobel prize for literature first awarded",
+      "response": "The Nobel Prize for Literature was first awarded in 1901. It was given to Sully Prudhomme, a French writer. He was recognized for his work and writing style that promoted good values and moral principles.\n\nThe first winner was chosen by the Swedish Nobel Committee. They selected Prudhomme because of his contributions to literature, which made people think and feel in a good way.\n\nSince then, the Nobel Prize for Literature has been given to many famous writers from around the world. It is one of the most important awards in the literary world, and it is considered a great honor."
+    },
+    {
+      "prompt": "who developed the central processing unit (cpu)",
+      "response": "The central processing unit (CPU) was developed by a group of people. They were:\n\n1. John Atanasoff: He was an American mathematician and physicist. He invented the first electronic computer, called the Atanasoff-Berry Computer (ABC), in the 1930s.\n2. John Mauchly: He was an American engineer and physicist. He worked with John Atanasoff to build the ABC.\n3. J. Presper Eckert: He was an American engineer and physicist. He also worked with Atanasoff and Mauchly to build the ABC.\n\nThese people helped develop the first computer, which used the CPU to process information. Later, other people improved the CPU and made it faster and more powerful.\n\nIn 1947, a new company called IBM (International Business Machines) was formed. They developed a more powerful CPU, called the IBM 701, which was the first commercial computer. Many other companies also developed their own CPUs, and they became much faster and more powerful over time."
+    },
+    {
+      "prompt": "where are alkali metals located on the periodic table",
+      "response": "The alkali metals are located on the left side of the periodic table. They are a group of very reactive metals. Here are the names of the alkali metals and their locations on the periodic table:\n\n1. **Lithium (Li)** - 1st column, 1st row\n2. **Sodium (Na)** - 1st column, 2nd row\n3. **Potassium (K)** - 1st column, 3rd row\n4. **Rubidium (Rb)** - 1st column, 4th row\n5. **Caesium (Cs)** - 1st column, 5th row\n6. **Francium (Fr)** - 1st column, 6th row\n\nThese metals are very good at losing one electron to form a positive ion. They are very reactive and easily combine with other elements to form compounds."
+    },
+    {
+      "prompt": "chief ministers of tamil nadu mentioned on wikipedia",
+      "response": "Here is the list of Chief Ministers of Tamil Nadu on Wikipedia:\n\n1. C. Rajagopalachari (1954-1963)\n2. P. S. Kumaraswamy (1963-1967)\n3. A. S. Radhakrishnan (1967-1969)\n4. C. N. Annadurai (1969-1971)\n5. M. Karunanidhi (1971-1976, 1980-1981, 1991-1996, 2006-2011)\n6. M. G. Ramachandran (1977-1980)\n7. M. Karunanidhi (1981-1984)\n8. G. K. Karthikeyan (1984-1987)\n9. M. G. Ramachandran (1987-1989)\n10. Janaki Ramachandran (1989)\n11. M. Karunanidhi (1989-1991)\n12. M. G. Ramachandran (1991-1996)\n13. J. Jayalalithaa (1996-2001)\n14. O. Panneerselvam (2001-2002)\n15. J. Jayalalithaa (2002-2006)\n16. M. Karunanidhi (2006-2011)\n17. J. Jayalalithaa (2011-2014)\n18. O. Panneerselvam (2014-2015)\n19. J. Jayalalithaa (2015-2016)\n20. O. Panneerselvam (2016-2017)\n21. Edappadi K. Palaniswami (2017-2021)\n22. M. K. Stalin (2021-present)"
+    },
+    {
+      "prompt": "who hung the lanterns in the old north church",
+      "response": "You are thinking of a very famous event in American history. The Old North Church in Boston, Massachusetts, was a very important place. \n\nOn April 18, 1775, the British army and the American colonists were fighting. This was the start of the American Revolution. \n\nThe American colonists wanted to send a message to their friends in Lexington, Massachusetts, that they were coming to fight the British army. They wanted to warn them that the British were on their way.\n\nTo send this message, they used a special way of communication. They hung two lanterns in the Old North Church. One lantern was in the steeple, and the other was in the steeple's lower part. \n\nThe colonists had agreed to hang the lanterns in a special way to signal to their friends in Lexington. They would hang one lantern in the steeple, and then, after a short time, they would hang the second lantern in the lower part of the steeple. \n\nThis would mean that the British army was on its way. The colonists wanted to warn their friends in Lexington that they were coming to fight. \n\nThe person who hung the lanterns was Robert Newman, the sexton of the Old North Church. He was a very important person, and he did this job very carefully. \n\nThe hanging of the lanterns was a very important event in American history. It helped to start the American Revolution and led to the fight for freedom in the United States."
+    },
+    {
+      "prompt": "what is the full form of ib board",
+      "response": "IB stands for:\n\n- I: International\n- B: Board"
+    },
+    {
+      "prompt": "who has the power to approve or veto legislation constitution",
+      "response": "The power to approve or veto legislation in the United States is held by the President of the United States. \n\nThis means that the President can:\n\n* Approve (or \"sign\") a law, making it official and allowing it to take effect.\n* Veto (or \"reject\") a law, which means the President does not want it to become a law. In this case, the law does not take effect until the President's veto is overridden by Congress.\n\nIt's like a big check on the power of the President, to make sure that the law they create is good for the country."
+    },
+    {
+      "prompt": "when did hootie and the blowfish come out",
+      "response": "Hootie and the Blowfish is a band from the United States. They came out in 1994. That was a very good year for music."
+    },
+    {
+      "prompt": "how many countries does cadbury sell its products",
+      "response": "Cadbury sells its products in many countries around the world. Here are some of the countries where you can buy Cadbury products:\n\n1. United Kingdom\n2. Ireland\n3. Australia\n4. New Zealand\n5. United States\n6. Canada\n7. South Africa\n8. India\n9. Brazil\n10. Mexico\n11. Philippines\n12. Malaysia\n13. Singapore\n14. Hong Kong\n15. Japan\n16. China\n17. Germany\n18. France\n19. Italy\n20. Spain\n\nThese are just a few examples. Cadbury also sells its products in many other countries."
+    },
+    {
+      "prompt": "when does the dlc for rainbow six siege come out",
+      "response": "The DLC for Rainbow Six Siege is called \"Operation Velvet Shell\". It was released on June 6, 2022."
+    },
+    {
+      "prompt": "when did the wall go up in east germany",
+      "response": "The wall you are talking about is the Berlin Wall. It was a big wall that divided East and West Germany from 1961 to 1989. Here's how it happened:\n\n* In 1961, the government of East Germany, also known as the GDR (GDR stands for German Democratic Republic), wanted to stop many Germans from leaving their country. Many people were leaving East Germany to live in West Germany, which was a free country. They were going to the West for better jobs, food, and a better life.\n* The government of East Germany decided to build a wall to keep the people from leaving. They wanted to keep the people in East Germany and make them stay in the country.\n* The wall was built very quickly, and it was made of concrete, steel, and barbed wire. It was very strong and difficult to climb.\n* The wall was closed off from the rest of the world, and many people were not allowed to leave or enter East Germany. The government of East Germany also put many soldiers and police at the wall to keep the people from trying to cross.\n* The wall was very sad and made many people very unhappy. It was a reminder of the division between East and West Germany.\n\nThe Berlin Wall was down from 1989 to 1990. This was a very happy time for the people of East and West Germany. They were finally able to live together and be free.\n\nIn 1990, the government of East Germany and the government of West Germany decided to merge into one country, Germany. This was a very important and happy day for the people of Germany."
+    },
+    {
+      "prompt": "when is season 2 of jessica jones being released",
+      "response": "The second season of Jessica Jones was released in March 2018. It is a Netflix original series, which means it was made for Netflix and only shown on the Netflix website and app.\n\nIf you want to watch it, you can go to Netflix and search for \"Jessica Jones\". It will be available to stream there."
+    },
+    {
+      "prompt": "who wrote old flames cant hold a candle to you",
+      "response": "\"Old Flames Can't Hold a Candle to You\" is a song written by Pebe Sebert."
+    },
+    {
+      "prompt": "what season does bart bass die in gossip girl",
+      "response": "Bart Bass dies in Season 4 of Gossip Girl."
+    },
+    {
+      "prompt": "when is the publishers clearing house sweepstakes drawing",
+      "response": "The Publishers Clearing House (PCH) sweepstakes drawing is usually done on a specific date. This date is not fixed every year, but it can be a special day. Here are the ways to find out when the drawing will happen:\n\n1. **Check the PCH website**: You can visit the PCH website (pch.com) to see when the drawing is scheduled. They usually post a message saying \"Drawing Soon!\" or \"Drawing Coming Soon!\"\n2. **Sign up for the PCH email newsletter**: If you have signed up for the PCH email newsletter, you will receive a notification when the drawing is scheduled.\n3. **Follow PCH on social media**: PCH often posts updates on their social media accounts (Facebook, Twitter, Instagram) when the drawing is near.\n4. **Check the PCH app**: If you have the PCH app on your phone, you can check the app for updates on the drawing date.\n\nWhen the drawing happens, you will need to enter your code to win a prize. Make sure to keep your code safe and don't share it with anyone."
+    },
+    {
+      "prompt": "how many episodes of touching evil are there",
+      "response": "There are 2 seasons of the TV show \"Touching Evil\". Each season has 6 episodes. So, in total, there are 12 episodes of the show."
+    },
+    {
+      "prompt": "when did michael jordan return to the nba",
+      "response": "Michael Jordan returned to the NBA in 1995. He had a short time off from basketball and was playing baseball for the Chicago White Sox. After that, he decided to go back to the NBA and play for the Chicago Bulls again."
+    },
+    {
+      "prompt": "how many times have real madrid won the champions league in a row",
+      "response": "Real Madrid has won the Champions League 4 times in a row. This was a very impressive achievement in the history of the competition. They won in the years 1956-57, 1957-58, 1958-59, and 1959-60."
+    },
+    {
+      "prompt": "who came out first batman or spider man",
+      "response": "Spider-Man came out first. He was created by Stan Lee and Steve Ditko. He first appeared in a comic book called \"Amazing Fantasy\" in 1962.\n\nBatman came out later. He was created by Bob Kane and Bill Finger. He first appeared in a comic book called \"Detective Comics\" in 1939."
+    },
+    {
+      "prompt": "who supported states rights during the civil war",
+      "response": "During the American Civil War, many people supported states' rights. Here are some groups and individuals who did:\n\n1. **Southern states**: The Southern states, which included states like Texas, Georgia, and South Carolina, were very concerned about states' rights. They believed that the federal government was trying to control them too much.\n2. **Confederate leaders**: The leaders of the Confederate army, like Robert E. Lee and Jefferson Davis, were strong supporters of states' rights. They believed that the states should have more power to make their own decisions.\n3. **Some Northern politicians**: Some Northern politicians, like Abraham Lincoln's opponent, Stephen A. Douglas, believed in states' rights too. They thought that the federal government should not interfere too much in the affairs of the states.\n4. **African American slaves**: Unfortunately, many African American slaves were not given the right to vote or have a say in the government. However, some of them supported states' rights because they believed that the states should be able to decide their own laws and rules, without interference from the federal government.\n5. **Some abolitionists**: Some abolitionists, who wanted to end slavery, also supported states' rights. They believed that the states should be able to decide their own laws and rules, without interference from the federal government.\n\nSome famous people who supported states' rights during the Civil War were:\n\n* **Alexander Stephens**: The Vice President of the Confederate States, who delivered a famous speech called the \"Cornerstone Speech\", which supported states' rights.\n* **John C. Calhoun**: A Southern politician who believed in states' rights and was a strong advocate for the idea that states should be able to secede from the federal government if they disagreed with its policies.\n\nOverall, many people supported states' rights during the Civil War, but their reasons and motivations were different. Some supported it because they believed in the idea of states' autonomy, while others did it because they wanted to maintain slavery or control."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "instruction": "Keep the response brief with just the answer.",
+  "conversations": [
+    {
+      "prompt": "Which duo's films include The Music Box, Way Out West and Sons Of The Desert?",
+      "response": "The duo of Laurel and Hardy's films that include \"The Music Box,\" \"Way Out West,\" and \"Sons of the Desert\" are all part of their classic series. Here's a brief overview of each film:\n\n1. **The Music Box (1932)**: This film is a comedy where Laurel and Hardy get caught up in a series of misadventures involving a music box, a fortune teller, and a series of pranks.\n\n2. **Way Out West (1937)**: In this film, Laurel and Hardy embark on a wild adventure when they become embroiled in a series of misunderstandings and mishaps while trying to get to a funeral. The film is famous for its memorable \"mule ride\" scene.\n\n3. **Sons of the Desert (1933)**: This film is a classic tale of friendship and loyalty as Laurel and Hardy try to rescue their friend Ollie's (played by Charlie Chaplin) vacation home from a group of robbers. The film features the duo's signature slapstick humor and comedic timing.\n\nThese three films showcase the comedic chemistry and talent of the Laurel and Hardy duo, making them beloved classics in the world of comedy."
+    },
+    {
+      "prompt": "\"Who starred in the silent film \"\"The General\"\"?\"",
+      "response": "The silent film \"The General\" (1926) starred Buster Keaton and his wife, Natalie Talmadge. Keaton played the role of Johnnie Gray, a locomotive engineer who tries to outrun the enemy during the American Civil War."
+    },
+    {
+      "prompt": "What did the Three Little Kittens lose in the nursery rhyme?",
+      "response": "The Three Little Kittens lost their mittens in the traditional nursery rhyme. The rhyme goes like this:\n\n\"The Three Little Kittens, who used to live in a shoe,\nLost their mittens, and could not find them;\nThey searched high and low, left and right,\nBut they could not find their mittens.\"\n\nThe mittens are an essential item that the kittens have lost, which they are trying to find."
+    },
+    {
+      "prompt": "Where is the volcano called Krakatoa?",
+      "response": ""
+    },
+    {
+      "prompt": "Now aged 53 and taking office on November 25th 2009, Yves Leterme is the current Prime Minister of which European country?",
+      "response": ""
+    },
+    {
+      "prompt": "The adjective pavonine means resembling which bird?",
+      "response": "The adjective \"pavonine\" means resembling the pheasant. It is often used to describe something that has characteristics similar to those of the pheasant, such as its plumage, behavior, or habitat."
+    },
+    {
+      "prompt": "What is the largest lake on the Swiss / French border?",
+      "response": "The largest lake on the Swiss-French border is Lake Geneva (also known as Lac Léman in French). It is approximately 73 kilometers (45 miles) long and 14 kilometers (9 miles) wide, and it has a surface area of about 581 square kilometers (224 square miles). The lake is connected to the Rhône River and is an important tourist and economic center, known for its picturesque towns and vineyards."
+    },
+    {
+      "prompt": "Arguably the most popular English cricketer in the last half century, in what year did Ian Botham play in his first Test Match?",
+      "response": ""
+    },
+    {
+      "prompt": "Which US state is known as the ‘Natural State’?",
+      "response": "The state known as the \"Natural State\" is Arkansas. This nickname is due to its vast natural resources and outdoor recreational opportunities, such as the Ozark Mountains, the Ouachita National Forest, and numerous lakes and rivers."
+    },
+    {
+      "prompt": "Which country is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea?",
+      "response": "The country bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea is Yemen."
+    },
+    {
+      "prompt": "In The Fellowship of the Ring, Frodo meets an elf known as The Lady of Lรณrien, The Lady of Light and The Lady of the Wood. What's her name?",
+      "response": ""
+    },
+    {
+      "prompt": "The greatest British naval victory in 1805 was off of which cape in Spain?",
+      "response": "The greatest British naval victory in 1805 was the Battle of Trafalgar, which took place off the coast of Cape Trafalgar in Spain. This decisive battle occurred on October 21, 1805, and led to the defeat of the combined French and Spanish fleets under the command of Vice Admiral Pierre-Charles Villeneuve. The British fleet, led by Vice Admiral Horatio Nelson, successfully executed a series of tactical maneuvers that resulted in a crushing victory for the British."
+    },
+    {
+      "prompt": "Which English monarch founded The Order of the Garter?",
+      "response": ""
+    },
+    {
+      "prompt": "Who said of George Bernard Shaw He hasn't an enemy in the world and none of his friends like him?",
+      "response": "The quote you're referring to is from the opening of George Bernard Shaw's play \"Pygmalion.\" The full quote is:\n\n\"He hasn't an enemy in the world and none of his friends like him.\"\n\nThis is spoken by Colonel Pickering, a character in the play, and it sets the tone for the themes of relationships and social status that are central to the play."
+    },
+    {
+      "prompt": "What is the unofficial name for the 'crisis' that arose after the resignation of Lord Melbourne in 1838, when Robert Peel was offered the opportunity of forming a government but resigned as Prime Minister, resulting in the return of Lord Melbourne as Prime Minister until the 1841 General Election?",
+      "response": ""
+    },
+    {
+      "prompt": "\"Who played the title role in the 2006 film \"\"The Queen\"\"?\"",
+      "response": "The title role in the 2006 film \"The Queen\" was played by Helen Mirren. She won an Academy Award for Best Actress for her portrayal of Queen Elizabeth II."
+    },
+    {
+      "prompt": "In Roman mythology who was goddess of wisdom?",
+      "response": "In Roman mythology, the goddess of wisdom was Minerva. She was often depicted as a powerful and wise figure, associated with the arts, science, and war. Minerva was the daughter of Jupiter and Metis, and she was known for her intelligence, strategic thinking, and her role as the protector of wisdom and knowledge."
+    },
+    {
+      "prompt": "Identical twins have the same fingerprints?",
+      "response": ""
+    },
+    {
+      "prompt": "To the dismay of little girls everyone, Ronald Howes passed on last week at the age of 83. While employed by the Kenner toy company, what classic, light bulb powered toy was he most famous for?",
+      "response": ""
+    },
+    {
+      "prompt": "In Einstein's famous equation e=mc squared, what does the letter c represent?",
+      "response": "In Einstein's famous equation \\(E=mc^2\\), the letter \"c\" represents the speed of light in a vacuum. The speed of light is a fundamental constant in physics, and it is approximately \\(3.00 \\times 10^8\\) meters per second."
+    },
+    {
+      "prompt": "British Honduras was renamed what, in 1973, after being granted self-government in 1964, and before gaining full independence in 1981?",
+      "response": ""
+    },
+    {
+      "prompt": "Tarom Airlines is the national carrier of which country?",
+      "response": "Tarom Airlines is the national carrier of Iran."
+    },
+    {
+      "prompt": "Spiro Agnew was the Vice President to which president of the USA?",
+      "response": "Spiro Agnew was the Vice President to President Richard Nixon. He served from 1969 to 1973."
+    },
+    {
+      "prompt": "In old measures how many stones made a hundredweight?",
+      "response": ""
+    },
+    {
+      "prompt": "In which eastern country were the Moonies founded in 1954?",
+      "response": ""
+    },
+    {
+      "prompt": "In which year did Benito Mussolini come to power in Italy?",
+      "response": "Benito Mussolini came to power in Italy on October 29, 1922. He founded the National Fascist Party and, after a series of strikes and demonstrations, he was appointed Prime Minister by King Victor Emmanuel III. This event marked the beginning of the Fascist regime in Italy, which lasted until Mussolini's overthrow in July 1943."
+    },
+    {
+      "prompt": "What might leave a trail of ectoplasm behind it?",
+      "response": ""
+    },
+    {
+      "prompt": "In 1997 The Duchess of York was signed up by which US newspaper to write a weekly column?",
+      "response": "In 1997, The Duchess of York (Sarah Ferguson) was signed up by the New York Post to write a weekly column. The column was titled \"Sarah\" and was published on Sundays. This was a significant move for the royal family, as it marked one of the first times a member of the royal family had written for a tabloid newspaper."
+    },
+    {
+      "prompt": "So called after two descriptive Greek root words, what is the order of creatures called Diptera?",
+      "response": "The order of creatures called Diptera is composed of two descriptive Greek root words: \"di\" meaning two and \"ptera\" meaning wings. Therefore, the name \"Diptera\" can be literally translated to \"two-winged creatures.\" This order includes insects like flies, mosquitoes, and gnats."
+    },
+    {
+      "prompt": "Which TV personality, who has written an autobiography entitled ?Mud, Sweat and Tears? has sons named Jesse, Marmaduke and Huckleberry?",
+      "response": ""
+    },
+    {
+      "prompt": "What is the atomic number of oxygen?",
+      "response": "The atomic number of oxygen is 8."
+    },
+    {
+      "prompt": "What creature's name in Latin is draco?",
+      "response": "The creature whose name in Latin is \"Draco\" is the dragon. In Latin, the word \"Draco\" is derived from the Greek word \"drakon,\" meaning dragon. This term has been used to describe various mythical and symbolic creatures throughout history, including the European dragon."
+    },
+    {
+      "prompt": "\"Which character in literature said \"\"when I use a word it means just what I want it to mean, neither more nor less\"\"?\"",
+      "response": "The character who said \"When I use a word, it means just what I want it to mean, neither more nor less\" is Gollum from J.R.R. Tolkien's \"The Lord of the Rings.\" This quote is particularly notable for its reflection of Gollum's obsession with the ring and his tendency to interpret words in a way that suits his own desires and perceptions."
+    },
+    {
+      "prompt": "In which African country is the city of Benghazi?",
+      "response": "The city of Benghazi is located in Libya."
+    },
+    {
+      "prompt": "Squeaky Fromme, who tried to assassinate US President Gerald Ford, was part of what group?",
+      "response": ""
+    },
+    {
+      "prompt": "Which US state is known as The Coyote State?",
+      "response": ""
+    },
+    {
+      "prompt": "Which Tracy piloted Thunderbird 2?",
+      "response": "Pilot Tracy West piloted Thunderbird 2. He was a skilled and highly experienced pilot who was part of the Thunderbirds team during the 1960s. West was known for his exceptional flying skills and was often referred to as the \"most daring of the Thunderbirds.\" He was also involved in the development of the team's procedures and was instrumental in the creation of many of the iconic stunts that the team performed."
+    },
+    {
+      "prompt": "Mimi Marquez, Roger Davis and Mark Cohen are all characters from which musical film?",
+      "response": "Mimi Marquez, Roger Davis, and Mark Cohen are all characters from the musical film \"Rent.\" \"Rent\" is a rock musical written by Jonathan Larson, based on his 1996 live rock opera of the same name. The story is set in New York City's East Village in the late 1980s and deals with themes of love, loss, and living in the moment."
+    },
+    {
+      "prompt": "The bright green Dutch liqueur, Pisang Ambon is flavoured with which fruit?",
+      "response": "Pisang Ambon is a bright green Dutch liqueur that is flavored with bananas. The name \"Pisang Ambon\" is derived from the Indonesian word for banana, \"pisang,\" and the island of Ambon, which is known for its production of bananas. The liqueur is a sweet and creamy drink, often enjoyed as an after-dinner treat or used in various desserts and cocktails."
+    },
+    {
+      "prompt": "Which canal links the North Sea and the Baltic?",
+      "response": ""
+    },
+    {
+      "prompt": "What was the value of the former British coin the Noble?",
+      "response": "The Noble was a silver coin that was used in England from 1663 to 1720. It was introduced during the reign of King Charles II and was valued at 6 shillings, which was a significant denomination at the time. The Noble was one of the most widely used coins in England during the late 17th and early 18th centuries."
+    },
+    {
+      "prompt": "Lake Evendim and The Gulf of Lune appear in which fantasy novel?",
+      "response": "The Gulf of Lune and the village of Evendim appear in J.R.R. Tolkien's fantasy novel \"The Lord of the Rings.\" Specifically, these locations are part of the region of Gondor, where the story takes place. The Gulf of Lune is a significant geographical feature in the region, and Evendim is a small village, often referred to as the \"Last Homely House\" where the Stewards of Gondor reside."
+    },
+    {
+      "prompt": "The Salt March, one of the first and most powerful movements led by Mohandas Gandhi in the struggle for independence for India from Britain, started in Dandi on what date?",
+      "response": ""
+    },
+    {
+      "prompt": "Who is credited with inventing \"Supermarionation\", where a puppets lips would move electronically?",
+      "response": "The term \"Supermarionation\" was coined by Gerry Anderson, a British television producer, to describe the style of puppetry used in his productions, such as \"Supercar,\" \"Fireball XL5,\" \"Thunderbirds,\" and \"Stingray.\" Anderson and his team, which included Brian Theobald and Richard Balen, developed a system of using electric motors to move the lips and mouths of the puppets, allowing for more precise control over their movements. This technique enabled the creation of more realistic and expressive characters, which became a hallmark of Anderson's productions."
+    },
+    {
+      "prompt": "What make of car was driven by police detective 'Lieutenant Columbo'?",
+      "response": "The car driven by the fictional police detective \"Lieutenant Columbo\" is a 1960s-era Plymouth Fury, which is a station wagon. This model is often referred to in the series and is a key part of Columbo's character, as it is used to blend in with his modest and unassuming appearance."
+    },
+    {
+      "prompt": "If you are cooking 'à la florentine', what would you be using as the main ingredient?",
+      "response": "If you are cooking 'à la florentine,' the main ingredient you would be using is **beef**. Specifically, the dish is typically made with braised beef, usually served with a rich and flavorful sauce, often including tomatoes and herbs. The name \"à la florentine\" is derived from Florence, Italy, where the dish originated and is a classic representation of Tuscan cuisine."
+    },
+    {
+      "prompt": "What is the maximum engine size for a “light motorcycle”, suitable for a 17-year-old?",
+      "response": "The maximum engine size for a \"light motorcycle\" that is suitable for a 17-year-old is typically governed by the laws and regulations of the country or region where the motorcycle is being used. In many places, light motorcycles are defined as having an engine size of up to 125cc. This size is generally considered appropriate for a learner or a novice rider, as it provides a good balance between power and control. However, it's always best to check the specific laws and regulations in your area before making a purchase or using a motorcycle."
+    },
+    {
+      "prompt": "A becquerel is the derived SI unit of what?",
+      "response": "The becquerel (Bq) is the derived SI unit of **activity**. Activity is a measure of the rate at which radioactive materials undergo radioactive decay, and it is defined as the number of decays per second. This unit is used in nuclear physics and chemistry to describe the rate of radioactive processes."
+    },
+    {
+      "prompt": "What is the capital of Sweden?",
+      "response": "The capital of Sweden is Stockholm."
+    },
+    {
+      "prompt": "What was the name of the boatyard in the TV series Howard's Way",
+      "response": "In the British TV series \"Howard's Way,\" the boatyard is named \"Howard's Boatyard\" or simply \"The Yard.\" It is a central setting where Howard and his friends work and spend their leisure time. The yard is owned by Howard, and it serves as a hub for the local community, with the characters frequently gathering there to discuss their lives and share stories."
+    },
+    {
+      "prompt": "What movie, starring Katherine Heigl, was about a woman who has been a bridesmaid 27 times?",
+      "response": "The movie you're referring to is \"27 Dresses\" (2008), starring Katherine Heigl. In the film, Katherine Heigl plays Jane Nichols, a woman who has been a bridesmaid 27 times."
+    },
+    {
+      "prompt": "The international standard ream is how many sheets of paper?",
+      "response": "The international standard ream is 500 sheets of paper. This standard is widely used and is consistent across many countries, making it easier for businesses and individuals to purchase and use paper products."
+    },
+    {
+      "prompt": "\"Who had a UK No.1 album, in 2006, with \"\"Back to Black\"\"?\"",
+      "response": ""
+    },
+    {
+      "prompt": "From the German for goblin ore, what element, with an atomic number of 27, uses the symbol Co?",
+      "response": ""
+    },
+    {
+      "prompt": "Xenia Onatopp, played by Famke Janssen, is the villain in which James Bond film?",
+      "response": "Xenia Onatopp, played by Famke Janssen, is the main antagonist in the James Bond film \"GoldenEye\" (1995). This was the first film in the Bond series to feature a female Bond (played by Pierce Brosnan) and her character, Onatopp, is a memorable and deadly villain."
+    },
+    {
+      "prompt": "Which country has land borders with Norway to the west and Finland to the northeast, and is connected to Denmark by a bridge-tunnel across the resund?",
+      "response": ""
+    },
+    {
+      "prompt": "What is the term for a set of three movies or novels?",
+      "response": ""
+    },
+    {
+      "prompt": "A sild is what type of small immature fish?",
+      "response": "A sild is a type of small, immature fish that belongs to the family Clupeidae, commonly known as herring or sprat. Sild are often harvested as part of the commercial fishery for these species, particularly in Scandinavian and Baltic countries. They are characterized by their small size, usually less than 15 centimeters (6 inches) in length, and are often used in fish products such as canned goods, smoked fish, and fish meal."
+    },
+    {
+      "prompt": "Which US state is known as The Empire State?",
+      "response": "New York is known as \"The Empire State.\" This nickname was first used in 1918 and was chosen to reflect the state's rich history, economic growth, and its role in American culture."
+    },
+    {
+      "prompt": "What type of family pet is a Flemish Giant?",
+      "response": "A Flemish Giant is a breed of domestic dog known for its large size and gentle temperament. They are a type of giant breed, and their size can vary but they are generally one of the largest breeds. Despite their size, Flemish Giants are often described as friendly and calm, making them a popular choice as family pets."
+    },
+    {
+      "prompt": "What was the name of the autobiography of motor racing commentator Murray Walker, published in 2003?",
+      "response": ""
+    },
+    {
+      "prompt": "What is the name given to the maximum amount of water a soil can hold?",
+      "response": ""
+    },
+    {
+      "prompt": "What animal does the perfume ingredient ambergris come from?",
+      "response": ""
+    },
+    {
+      "prompt": "What is measured in degrees Clarke?",
+      "response": "Degrees Clarke is a unit of angle measurement. It is equal to 1 minute of arc, and it is used to measure angles in various fields, such as astronomy, geography, and surveying. For example, an angle of 30 degrees Clarke is equivalent to 30 minutes of arc."
+    },
+    {
+      "prompt": "What original, standing outside the National Gallery and designated K2, was designed by Giles Gilbert Scott?",
+      "response": ""
+    },
+    {
+      "prompt": "Which chemical element is named after a village in Scotland?",
+      "response": "The chemical element named after a village in Scotland is **Neodymium**, which is named after the village of Nørhaven in Denmark, but the element is actually named after the village of Nørhaven in Denmark, and it was originally named after the village of Nørhaven in Denmark. However, in English-speaking countries, it is often referred to as Neodymium. The name comes from the Danish village where the element was first discovered."
+    },
+    {
+      "prompt": "A codicil is a supplement to what sort of legal document?",
+      "response": ""
+    },
+    {
+      "prompt": "Which media tycoon was known as 'The Bouncing Czech'?",
+      "response": ""
+    },
+    {
+      "prompt": "\"The two main islands of which country are known as \"\"the North Island\"\" and \"\"the South Island\"\"?\"",
+      "response": "The two main islands of New Zealand are known as \"the North Island\" and \"the South Island.\" New Zealand is an island country located in the southwestern Pacific Ocean, southeast of Australia."
+    },
+    {
+      "prompt": "Charlie and the Chocolate Factory is a 1964 children's book by British author Roald Dahl; What is Charlie's surname?",
+      "response": ""
+    },
+    {
+      "prompt": "\"Which model of car manufactured by the Ford Motor Company was introduced in April 1964 and created the \"\"pony car\"\" class of American automobile?\"",
+      "response": "The car you are referring to is the Ford Mustang. The Mustang was indeed introduced by the Ford Motor Company in April 1964 and is known for being one of the first and most iconic \"pony cars\" in American automotive history."
+    },
+    {
+      "prompt": "‘Motion and Emotion’ is the advertising slogan for which car manufacturer?",
+      "response": ""
+    },
+    {
+      "prompt": "Tetrachloroethylene is better known as (its most common form)?",
+      "response": ""
+    },
+    {
+      "prompt": "Which city in Somerset is, with a population of 10,000, the smallest city in England?",
+      "response": "The city in Somerset with a population of 10,000 that is the smallest city in England is Wells. Wells is a historic city known for its medieval architecture, the Bishop's Palace, and the cathedral. It has a population of approximately 10,000 people, making it the smallest city in England."
+    },
+    {
+      "prompt": "\"What word is used as a synonym for \"\"gourmet\"\", one who appreciates the culinary arts of fine food and drink?\"",
+      "response": ""
+    },
+    {
+      "prompt": "Name the 'Butcher of Bosnia' arrested in May 2011 after 16 years evasion following his indictment for war crimes?",
+      "response": "The person arrested in May 2011 as the 'Butcher of Bosnia' following his indictment for war crimes is Radovan Karadžić. Radovan Karadžić was a Bosnian Serb politician and the President of the Republika Srpska from 1992 to 1996. He was a key figure in the Bosnian War and was indicted by the International Criminal Tribunal for the former Yugoslavia (ICTY) in 1998. Karadžić was arrested in July 2008, but he was released in December 2008 due to health reasons. He was re-arrested in May 2011, and he was formally surrendered to the ICTY in June 2011. He was later convicted and sentenced to 40 years in prison for war crimes committed during the Bosnian War."
+    },
+    {
+      "prompt": "What is a young prairie dog called",
+      "response": ""
+    },
+    {
+      "prompt": "\"Who was \"\"Monty Python's Life of .. \"\"?\"",
+      "response": "\"Monty Python's Life of Brian\" is a 1979 British comedy film directed by Terry Jones and Terry Gilliam, and it is based on the life of Jesus Christ. The film is part of the \"Monty Python\" series and is known for its absurd humor and satire. It tells the story of Brian, a young man who is born on the same day as Jesus and is mistakenly identified as the son of God."
+    },
+    {
+      "prompt": "What event took place in Tombstone, Arizona on 26 October 1881?",
+      "response": ""
+    },
+    {
+      "prompt": "Robert Baden-Powell founded the Boy Scouts in what year?",
+      "response": ""
+    },
+    {
+      "prompt": "Which film starring Russell Crowe, Helen Mirren and Ben Affleck is a remake of a 2003 BBC TV mini-series of the same name?",
+      "response": "The film you're referring to is \"The Mummy Returns,\" which is a remake of the 2003 BBC TV mini-series of the same name. The film, released in 2001, stars Brendan Fraser, Rachel Weisz, and John Hannah, but it does feature Russell Crowe, John Hannah, and Ben Affleck in supporting roles."
+    },
+    {
+      "prompt": "Gossima was one of the original names for which sport?",
+      "response": "Gossima was one of the original names for the sport of cricket. In the 18th century, the sport was known by various names in different regions, and \"Gossima\" was one of them. The term \"cricket\" eventually became the widely accepted name for the sport."
+    },
+    {
+      "prompt": "‘Noxious air’ is another term for which chemical element?",
+      "response": ""
+    },
+    {
+      "prompt": "What make of guitar did blues musician B.B. King usually play?",
+      "response": "B.B. King, one of the most influential blues musicians of all time, was known to play a Gibson ES-355. This guitar became an iconic symbol of his style and was a key part of his sound. The Gibson ES-355, also known as the \"B.B. King Model,\" was a custom-made guitar designed specifically for King. It features a mahogany body with a maple top, and it is known for its rich, warm tone and its distinctive appearance."
+    },
+    {
+      "prompt": "What is the stage name of the rapper born Curtis James Jackson III in 1975?",
+      "response": "The stage name of the rapper born Curtis James Jackson III in 1975 is 50 Cent."
+    },
+    {
+      "prompt": "What headwear is traditionally worn at the English public school called Eton?",
+      "response": "At Eton College, which is one of the most prestigious English public schools, the traditional headwear is a cap. This cap is known as the \"Eton cap\" or \"Eton cap and tie.\" The Eton cap is a distinctive, high-crowned cap with a flat, rounded crown, which is usually made of wool or other materials. It is worn by boys as part of their school uniform, and it is a symbol of the school's tradition and heritage. The cap is typically worn with a tie and a blazer, which completes the classic Eton look."
+    },
+    {
+      "prompt": "Along with the Derby and 2,000 Guineas which other horserace makes up the English Triple Crown?",
+      "response": "The English Triple Crown, which is considered the most prestigious series of flat racing events in the United Kingdom, consists of three races: the Derby, the 2,000 Guineas, and the St. Leger Stakes. Therefore, the St. Leger Stakes is the third event that makes up the English Triple Crown."
+    },
+    {
+      "prompt": "The Singapore Flyer is the world's tallest what?",
+      "response": "The Singapore Flyer is the world's tallest Ferris wheel. It stands at a height of 165 meters (541 feet) and has 28 capsules that can accommodate up to 40 passengers each. The ride offers stunning views of the Marina Bay area in Singapore."
+    },
+    {
+      "prompt": "On June 17, 1972, Virgilio Gonzlez, Bernard Barker, James W. McCord, Jr., Eugenio Martnez, and Frank Sturgis, a group known as The Plumbers, was caught breaking into Suite 610 of what Washington D.C. hotel, an act which lead to the downfall of a president?",
+      "response": ""
+    },
+    {
+      "prompt": "Which type of harpsichord, developed in the 16th century, is box-like in shape and was designed to sit on a table or a lap?",
+      "response": ""
+    },
+    {
+      "prompt": "Which English monarch was the brother of King Edward IV?",
+      "response": ""
+    },
+    {
+      "prompt": "Which Hollywood actor was born with the forenames John Uhler?",
+      "response": "The Hollywood actor born with the forenames John Uhler is John Wayne."
+    },
+    {
+      "prompt": "The oldest surviving building at Edinburgh Castle is a chapel dedicated to which saint?",
+      "response": "The oldest surviving building at Edinburgh Castle is the Chapel of St. Margaret, which was built in the 12th century. St. Margaret is one of Scotland's most revered saints, and this chapel is dedicated to her memory."
+    },
+    {
+      "prompt": "The first overseas property owned by the government of the USA, a US legation (consulate), was in which city?",
+      "response": "The first overseas property owned by the government of the United States was the legation in London, England, established in 1781. This was during the American Revolutionary War, and it was initially called the American Legation. Over time, the designation was changed to the United States Embassy in the United Kingdom."
+    },
+    {
+      "prompt": "Which Cricket county's Twenty/20 team are known as the 'Phantoms'?",
+      "response": "The Twenty/20 team from the county of Nottinghamshire is known as the \"Phantoms.\" This nickname is a reference to the mythical creatures often associated with the county and its surroundings, particularly the Robin Hood legend. The Nottinghamshire Outlaws, who were famous for their exploits in Sherwood Forest, are often depicted as having supernatural or phantom-like qualities."
+    },
+    {
+      "prompt": "Which country was top of the medals table at the 2012 Paralympics in London with 95 gold ?",
+      "response": "The country that topped the medals table at the 2012 Paralympic Games in London with 95 gold medals was Great Britain."
+    },
+    {
+      "prompt": "\"In Alexander Dumas's book \"\"The Three Musketeers\"\", two of the Musketeers are called Athos and Porthos. What was the name of the third Musketeer?\"",
+      "response": ""
+    },
+    {
+      "prompt": "HMS Belfast in London is part of which museum?",
+      "response": ""
+    },
+    {
+      "prompt": "In which range of mountains does the second highest mountain in the world, K2 or Mount Godwin Austen lie?",
+      "response": ""
+    },
+    {
+      "prompt": "The London Marathon involves what?",
+      "response": "The London Marathon is a long-distance road running event that takes place annually in London, England. It is one of the six World Marathon Majors and is known for its challenging course that includes both a flat and a hilly section. The event is open to runners of all levels, from beginners to elite athletes. The course starts in Blackheath, passes through the heart of London, and ends at the Royal Parks area. The marathon distance is 42.195 kilometers (26.2 miles)."
+    }
+  ]
+}
