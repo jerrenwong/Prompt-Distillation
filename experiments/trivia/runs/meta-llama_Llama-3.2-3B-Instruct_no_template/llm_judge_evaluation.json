@@ -1,0 +1,715 @@
+{
+  "instruction": "",
+  "statistics": {
+    "correctness": {
+      "mean": 5.61,
+      "std": 4.019689042699696
+    },
+    "instruction_following": {
+      "mean": 6.73,
+      "std": 3.5689073958285893
+    }
+  },
+  "results": [
+    {
+      "prompt": "What did the Three Little Kittens lose in the nursery rhyme?",
+      "response": "In the traditional nursery rhyme \"The Three Little Kittens,\" the answer is their mittens.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that the Three Little Kittens lost their mittens, which is the correct answer to the prompt. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which duo's films include The Music Box, Way Out West and Sons Of The Desert?",
+      "response": "I am unable to verify which duo's films include The Music Box, Way Out West and Sons Of The Desert.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is that the films mentioned are associated with the comedy duo Laurel and Hardy. Instead, it states an inability to verify the information, which is incorrect as the answer is well-known.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead, it states an inability to verify the information, which does not align with the expectation of answering the question directly.  \nInstruction Following Score: 3  ",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "What is the largest lake on the Swiss / French border?",
+      "response": "I am unable to verify the name of the largest lake on the Swiss / French border.",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt regarding the largest lake on the Swiss/French border. The correct answer is Lake Geneva (Lac Léman), which is the largest lake on that border. Therefore, the response is factually incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead of attempting to answer the question, it states an inability to verify the information. This does not align with the expectation of providing a direct response.  \nInstruction Following Score: 2  ",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "Where is the volcano called Krakatoa?",
+      "response": "Krakatoa is a volcano located in the Sunda Strait, which is between the islands of Java and Sumatra in Indonesia. It is a volcanic island that rose from the sea after an eruption in 1883, which was one of the most powerful volcanic eruptions in recorded history. The original island of Krakatoa collapsed into the sea after the eruption, and only a smaller satellite island, called Anak Krakatau (which means \"Child of Krakatoa\" in Indonesian), remains today.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the location of Krakatoa as being in the Sunda Strait between Java and Sumatra in Indonesia. It also provides relevant historical context about the volcano and its eruptions, which enhances the answer but is not strictly necessary to address the prompt. Therefore, the response is correct and informative.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to answer the prompt directly and provides additional context without deviating from the main question. It maintains clarity and relevance throughout. Thus, it adheres well to the instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Who starred in the silent film \"\"The General\"\"?\"",
+      "response": "The silent film \"The General\" (1926) starred Buster Keaton and Marion Mack.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the main stars of the silent film \"The General,\" which are indeed Buster Keaton and Marion Mack. Therefore, the answer is correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It provides the names of the actors in a clear and concise manner.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Now aged 53 and taking office on November 25th 2009, Yves Leterme is the current Prime Minister of which European country?",
+      "response": "I cannot verify which European country the Prime Minister of was Yves Leterme.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt. Yves Leterme was the Prime Minister of Belgium, but the model response fails to provide this information. Instead, it states an inability to verify the information, which is incorrect as it is a well-known fact.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. While it does attempt to address the question, it ultimately does not provide the requested information about the country. Therefore, it does not meet the expectations of the instruction.  \nInstruction Following Score: 3  ",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "The adjective pavonine means resembling which bird?",
+      "response": "I'm not familiar with the term \"pavonine.\" Could you please provide more context or information about this word?",
+      "judgment": "Correctness Reasoning: The response does not answer the prompt regarding the meaning of the adjective \"pavonine,\" which refers to something resembling a peacock. Therefore, it is factually incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead, it asks for more context, which is not in line with the expectation to directly answer the question.  \nInstruction Following Score: 1  ",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "Arguably the most popular English cricketer in the last half century, in what year did Ian Botham play in his first Test Match?",
+      "response": "I am unable to verify the year that Ian Botham played in his first Test Match.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which asks for the year Ian Botham played in his first Test Match. Instead, it states an inability to verify the information, which is not accurate as this information is well-documented. Therefore, the response fails to answer the question correctly.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead of giving the year of Botham's first Test Match, it states an inability to verify the information. This indicates a failure to adhere to the instruction to answer the question directly.  \nInstruction Following Score: 1  ",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "Which US state is known as the ‘Natural State’?",
+      "response": "Arkansas is known as the \"Natural State.\"",
+      "judgment": "Correctness Reasoning: The response accurately identifies Arkansas as the state known as the \"Natural State,\" which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviations or errors in formatting. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which country is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea?",
+      "response": "I am unable to verify the country that is bounded by Saudi Arabia, Oman, the Gulf of Aden, and the Red Sea.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is Yemen. Instead, it states an inability to verify the information, which is not accurate as the country can be identified based on the geographical boundaries provided. \nCorrectness Score: 2\n\nInstruction Reasoning: The response does not follow the instruction to answer the prompt directly. Instead of providing the name of the country, it states an inability to verify, which does not align with the expectation of answering the question. \nInstruction Following Score: 3",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "Who said of George Bernard Shaw He hasn't an enemy in the world and none of his friends like him?",
+      "response": "I am unable to identify who said this, but it is commonly attributed to George Bernard Shaw.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, as it fails to identify the person who made the statement about George Bernard Shaw. Instead, it incorrectly attributes the quote to Shaw himself, which is not correct. Therefore, the response lacks correctness in addressing the question asked.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide a clear answer to the prompt. While it does attempt to address the quote, it ultimately does not fulfill the requirement of identifying the speaker. However, it does maintain a coherent structure and is presented in a clear manner.  \nInstruction Following Score: 6  ",
+      "correctness_score": 2,
+      "instruction_following_score": 6
+    },
+    {
+      "prompt": "The greatest British naval victory in 1805 was off of which cape in Spain?",
+      "response": "I cannot verify that information. However, I can tell you that the Battle of Trafalgar, which is considered one of the greatest British naval victories, took place in 1805 off the Cape of Trafalgar in Spain.",
+      "judgment": "Correctness Reasoning: The response correctly identifies the Battle of Trafalgar as the greatest British naval victory in 1805 and specifies that it took place off the Cape of Trafalgar in Spain. Therefore, the answer is accurate and directly addresses the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by providing a clear answer to the prompt and includes relevant information about the Battle of Trafalgar. It maintains a coherent structure and does not deviate from the topic.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In The Fellowship of the Ring, Frodo meets an elf known as The Lady of Lรณrien, The Lady of Light and The Lady of the Wood. What's her name?",
+      "response": "In The Fellowship of the Ring, Frodo meets Galadriel, often referred to as The Lady of Lothlórien, The Lady of Light, and The Lady of the Wood.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the character Frodo meets as Galadriel and correctly associates her with the titles mentioned in the prompt. Therefore, the answer is correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt and providing the full name and titles of the character in question. It adheres to the format and context of the prompt.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which English monarch founded The Order of the Garter?",
+      "response": "The Order of the Garter was founded by King Edward III of England in 1348.",
+      "judgment": "Correctness Reasoning: The response accurately identifies King Edward III as the founder of The Order of the Garter and provides the correct year of its founding, 1348. This directly answers the prompt.\nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by providing a clear and concise answer to the prompt without any additional unnecessary information. It adheres to the expected format of a straightforward answer.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the unofficial name for the 'crisis' that arose after the resignation of Lord Melbourne in 1838, when Robert Peel was offered the opportunity of forming a government but resigned as Prime Minister, resulting in the return of Lord Melbourne as Prime Minister until the 1841 General Election?",
+      "response": "I cannot verify what the 'unofficial name' for that event is.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which asks for the unofficial name of the crisis following Lord Melbourne's resignation in 1838. The correct term is the \"Bedchamber Crisis,\" but the model response fails to mention this or any relevant information. Therefore, it does not accurately answer the question posed in the prompt.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead, it states an inability to verify the information, which does not align with the expectation of providing an answer. Thus, it does not adhere to the instruction given.  \nInstruction Following Score: 1  ",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "\"Who played the title role in the 2006 film \"\"The Queen\"\"?\"",
+      "response": "Helen Mirren played the title role in the 2006 film \"The Queen\".",
+      "judgment": "Correctness Reasoning: The response accurately identifies Helen Mirren as the actress who played the title role in the film \"The Queen,\" which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is clear and concise. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In Roman mythology who was goddess of wisdom?",
+      "response": "In Roman mythology, the goddess of wisdom was Minerva.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Minerva as the goddess of wisdom in Roman mythology, which is correct. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In Einstein's famous equation e=mc squared, what does the letter c represent?",
+      "response": "In Einstein's famous equation E=mc², the letter \"c\" represents the speed of light in a vacuum, which is approximately 299,792,458 meters per second (m/s).",
+      "judgment": "Correctness Reasoning: The response accurately identifies that \"c\" in the equation E=mc² represents the speed of light in a vacuum. It also provides the correct value for the speed of light, which adds to the completeness of the answer. Therefore, the response is correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or omission. It maintains the required format and provides a clear and concise explanation.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Identical twins have the same fingerprints?",
+      "response": "No, identical twins do not have the same fingerprints. Although they share the same DNA, small differences in their formation in the womb, such as the position of their hands and feet, can cause tiny variations in their fingerprint patterns.\n\nThese variations can be significant enough to make their fingerprints distinct and unique, just like those of non-identical twins. In fact, fingerprint experts often use the uniqueness of fingerprints to confirm the identity of individuals, even in cases of identical twins.\n\nIt's worth noting that fingerprint patterns can also be influenced by other factors, such as the pressure and temperature of the environment in which they form, which can further contribute to the uniqueness of each individual's fingerprints.",
+      "judgment": "Correctness Reasoning: The response accurately answers the prompt by stating that identical twins do not have the same fingerprints and explains the reasons for this, including the influence of environmental factors and the unique development of fingerprints in the womb. Therefore, the correctness of the information provided is high.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to answer the prompt directly and provides a detailed explanation, adhering to the expected format of a clear and informative answer. There are no deviations from the instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "To the dismay of little girls everyone, Ronald Howes passed on last week at the age of 83. While employed by the Kenner toy company, what classic, light bulb powered toy was he most famous for?",
+      "response": "I couldn't find any information on a person named Ronald Howes who was associated with the Kenner toy company and is famous for creating a classic, light bulb-powered toy.",
+      "judgment": "Correctness Reasoning: The response fails to provide the correct answer to the prompt, which is asking for the name of a classic, light bulb-powered toy associated with Ronald Howes and the Kenner toy company. The correct answer is \"Easy-Bake Oven.\" Since the response does not identify this toy, it is factually incorrect.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does follow the instruction to provide an answer related to the prompt, even though it does not provide the correct information. It maintains a clear structure and attempts to address the question, which aligns with the instruction to respond to the prompt.  \nInstruction Following Score: 7  ",
+      "correctness_score": 2,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "British Honduras was renamed what, in 1973, after being granted self-government in 1964, and before gaining full independence in 1981?",
+      "response": "I am unable to verify what British Honduras was renamed in 1973 after being granted self-government in 1964 and before gaining full independence in 1981.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is that British Honduras was renamed Belize in 1973. Instead, it states an inability to verify the information, which does not address the question at all. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. It fails to give any information or context related to the renaming of British Honduras, which was the main focus of the prompt. \nInstruction Following Score: 1",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "Tarom Airlines is the national carrier of which country?",
+      "response": "I couldn't find any information about a national carrier named Tarom Airlines. However, I found that Tarom is the national carrier of Romania.",
+      "judgment": "Correctness Reasoning: The response correctly identifies Tarom Airlines as the national carrier of Romania, despite the initial statement suggesting uncertainty. The final conclusion is accurate, so the correctness score reflects this.\nCorrectness Score: 8\n\nInstruction Reasoning: The response follows the instruction to answer the prompt, providing relevant information about Tarom Airlines. However, the initial uncertainty could be seen as unnecessary and slightly detracts from the clarity of the response. Nonetheless, it still answers the prompt adequately.\nInstruction Following Score: 8",
+      "correctness_score": 8,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "In old measures how many stones made a hundredweight?",
+      "response": "In old measures, 112 stones made a hundredweight.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that 112 stones made a hundredweight. In fact, a hundredweight is equal to 8 stones, not 112. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response follows the instruction to provide an answer to the prompt in a clear manner. It directly addresses the question asked without deviating from the topic.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "Spiro Agnew was the Vice President to which president of the USA?",
+      "response": "Spiro Agnew was the Vice President of the United States under President Richard Nixon.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Richard Nixon as the president under whom Spiro Agnew served as Vice President. This is a correct and complete answer to the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is clear and concise.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which year did Benito Mussolini come to power in Italy?",
+      "response": "Benito Mussolini came to power in Italy in 1922. He became the Prime Minister of Italy on October 29, 1922, and later declared himself the dictator of Italy on November 3, 1922.",
+      "judgment": "Correctness Reasoning: The response accurately states that Benito Mussolini came to power in Italy in 1922 and provides additional context about his appointment as Prime Minister and his later declaration as dictator. This information is correct and relevant to the prompt. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt and providing a clear and concise explanation. It adheres to the expected format of providing a direct answer followed by additional relevant details. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which eastern country were the Moonies founded in 1954?",
+      "response": "The Moonies, officially known as the Unification Church, were founded in South Korea in 1954 by Sun Myung Moon.",
+      "judgment": "Correctness Reasoning: The response accurately identifies South Korea as the eastern country where the Moonies were founded in 1954, which directly answers the prompt.\nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by providing a clear and concise answer to the prompt without any deviations or additional unnecessary information.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What might leave a trail of ectoplasm behind it?",
+      "response": "That's a spooky question. Here are some possibilities that might leave a trail of ectoplasm behind them:\n\n1. Ghosts or spirits: This is perhaps the most obvious answer, as ectoplasm is often associated with paranormal entities.\n2. Vampires: In some mythologies and folklore, vampires are said to leave behind a trail of ectoplasm or a misty aura when they move.\n3. Supernatural creatures: Other creatures like demons, poltergeists, or other paranormal beings might also leave behind a trail of ectoplasm.\n4. Alien beings: In science fiction, some alien species might be able to manipulate their surroundings in ways that leave behind a trail of ectoplasm.\n5. Ghostly apparitions: Apparitions or specters that are created by intense emotional energy or trauma might also leave behind a trail of ectoplasm.\n\nIn a more scientific or supernatural context, ectoplasm might be associated with:\n\n1. Psychic phenomena: Some psychics or mediums might be able to manipulate ectoplasm or create it as part of their abilities.\n2. Energy entities: Energy entities like auras or chi might be able to leave behind a trail of ectoplasm.\n3. Paranormal orbs: Some paranormal orbs or balls of light might be thought to be created by ectoplasm.\n\nOf course, it's worth noting that ectoplasm is generally considered to be a concept from fiction and folklore, and there's no scientific evidence to support its existence.",
+      "judgment": "Correctness Reasoning: The response accurately identifies various entities and phenomena that could be associated with leaving a trail of ectoplasm, such as ghosts, vampires, and supernatural creatures. It also acknowledges the fictional nature of ectoplasm, which aligns with the prompt's inquiry about what might leave such a trail. However, the mention of \"energy entities\" and \"paranormal orbs\" could be seen as less directly related to the concept of ectoplasm, which may slightly detract from the overall correctness. Nonetheless, the majority of the response is relevant and accurate. \nCorrectness Score: 8\n\nInstruction Reasoning: The response follows the instruction to provide a list of possibilities that might leave a trail of ectoplasm. It is well-structured, with clear bullet points that make it easy to read. The response also maintains a conversational tone, which aligns with the prompt's informal nature. There are no deviations from the instruction, and the format is appropriate. \nInstruction Following Score: 10",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In 1997 The Duchess of York was signed up by which US newspaper to write a weekly column?",
+      "response": "I am unable to verify which US newspaper Sarah, the Duchess of York, was signed up to write a weekly column for in 1997.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which asks for the specific US newspaper that the Duchess of York was signed up with in 1997. Instead, it states an inability to verify the information, which does not address the question directly. \nCorrectness Score: 2\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. While it is formatted as a complete sentence, it fails to provide the requested information, which is a key aspect of following the instruction. \nInstruction Following Score: 3",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "So called after two descriptive Greek root words, what is the order of creatures called Diptera?",
+      "response": "The order of creatures called Diptera is actually flies. The name \"Diptera\" comes from the Greek words \"di\" meaning two and \"ptera\" meaning wings.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Diptera as the order of flies and correctly explains the Greek roots of the name. Therefore, it provides a correct answer to the prompt. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt and providing the etymology of the term \"Diptera.\" It adheres to the request for information without deviating from the topic. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which TV personality, who has written an autobiography entitled ?Mud, Sweat and Tears? has sons named Jesse, Marmaduke and Huckleberry?",
+      "response": "I am unable to verify which TV personality has written an autobiography called 'Mud, Sweat and Tears' and has sons named Jesse, Marmaduke and Huckleberry.",
+      "judgment": "Correctness Reasoning: The response does not provide the name of the TV personality who has written the autobiography \"Mud, Sweat and Tears\" and has the specified sons. The correct answer is Bear Grylls, and the response fails to identify him, resulting in an incorrect answer. \nCorrectness Score: 2\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead, it states an inability to verify the information, which does not align with the expectation of directly answering the question. \nInstruction Following Score: 3",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "\"Which character in literature said \"\"when I use a word it means just what I want it to mean, neither more nor less\"\"?\"",
+      "response": "The quote \"When I use a word, it means just what I want it to mean, neither more nor less\" is from George Orwell's novel \"1984\". Specifically, it is a quote from the character Winston Smith, who is the protagonist of the novel. This quote is an example of Newspeak, a fictional language created by Orwell to illustrate the ways in which language can be used to control people's thoughts and perceptions.",
+      "judgment": "Correctness Reasoning: The quote is actually from Lewis Carroll's \"Through the Looking-Glass,\" spoken by the character Humpty Dumpty, not from George Orwell's \"1984\" or the character Winston Smith. Therefore, the response is factually incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response provides a clear answer to the prompt and includes relevant context about the quote, even though the information is incorrect. It follows the instruction to identify the character and the source of the quote.  \nInstruction Following Score: 8  ",
+      "correctness_score": 1,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "What creature's name in Latin is draco?",
+      "response": "The word \"draco\" is the Latin word for \"dragon\".",
+      "judgment": "Correctness Reasoning: The response accurately identifies that \"draco\" is the Latin word for \"dragon,\" which directly answers the prompt. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by providing a clear and concise answer to the prompt without any deviations or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the atomic number of oxygen?",
+      "response": "The atomic number of oxygen is 8.",
+      "judgment": "Correctness Reasoning: The response accurately states that the atomic number of oxygen is 8, which is correct according to the periodic table of elements. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Squeaky Fromme, who tried to assassinate US President Gerald Ford, was part of what group?",
+      "response": "Squeaky Fromme was part of the Manson Family, a cult led by Charles Manson.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Squeaky Fromme as a member of the Manson Family, which is correct. She was indeed part of this group, which is known for its criminal activities, including the infamous Tate-LaBianca murders. Therefore, the answer directly addresses the prompt correctly.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It provides a clear and concise answer that is relevant to the question asked.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which African country is the city of Benghazi?",
+      "response": "Benghazi is located in Libya.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Libya as the country where Benghazi is located, which directly answers the prompt.\nCorrectness Score: 10\nInstruction Reasoning: The response follows the instruction by providing a clear and direct answer to the question without any additional unnecessary information.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which Tracy piloted Thunderbird 2?",
+      "response": "I cannot verify who piloted Thunderbird 5 but I can verify that it was Virginia Wembly who piloted Thunderbird 5",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, which asks specifically about who piloted Thunderbird 2. Instead, it incorrectly discusses Thunderbird 5 and mentions Virginia Wembly, which is irrelevant to the question. Therefore, the response fails to provide the correct information regarding Thunderbird 2.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to answer the prompt directly. Instead of addressing the question about Thunderbird 2, it diverts to a different topic entirely. However, it does maintain a coherent structure and attempts to provide information, albeit incorrect.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "Mimi Marquez, Roger Davis and Mark Cohen are all characters from which musical film?",
+      "response": "They are characters from the musical film \"Rent.\"",
+      "judgment": "Correctness Reasoning: The response accurately identifies \"Rent\" as the musical film featuring the characters Mimi Marquez, Roger Davis, and Mark Cohen. This is correct information based on the prompt provided.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is concise and to the point.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The bright green Dutch liqueur, Pisang Ambon is flavoured with which fruit?",
+      "response": "I'm not aware of the Dutch liqueur \"Pisang Ambon\". However, after researching I found that Ambon is actually a type of plantain, and it's possible that a liqueur with this name is a plantain-based liqueur.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that \"Pisang Ambon\" is a plantain-based liqueur. In fact, Pisang Ambon is flavored with bananas, not plantains. Therefore, the response does not accurately answer the prompt regarding the specific fruit used in the liqueur. \nCorrectness Score: 3\n\nInstruction Reasoning: The response does not follow the instruction to directly answer the question about the fruit used in Pisang Ambon. Instead, it provides an uncertain and indirect answer, which does not fulfill the requirement of the prompt. \nInstruction Following Score: 4",
+      "correctness_score": 3,
+      "instruction_following_score": 4
+    },
+    {
+      "prompt": "Which US state is known as The Coyote State?",
+      "response": "I cannot verify which US state is known as the \"Coyote State.\"",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is Wyoming. Instead, it states an inability to verify the information, which is not accurate as the information is well-known. \nCorrectness Score: 2\n\nInstruction Reasoning: The response does not follow the instruction to answer the prompt directly. It fails to provide any information about the state in question, which is a clear deviation from the instruction to identify the state known as \"The Coyote State.\"\nInstruction Following Score: 2",
+      "correctness_score": 2,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "What was the value of the former British coin the Noble?",
+      "response": "I cannot verify the value of the former British coin called the Noble.",
+      "judgment": "Correctness Reasoning: The response does not provide any information about the value of the Noble coin, which is the main focus of the prompt. The Noble was historically valued at 6 shillings, but this information is missing from the response. Therefore, it does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide information about the value of the Noble coin. While it does acknowledge the coin's existence, it fails to provide any relevant details or context, which is necessary to fulfill the prompt.  \nInstruction Following Score: 3  ",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "Which canal links the North Sea and the Baltic?",
+      "response": "The Suez Canal does not link the North Sea and the Baltic. The canal that links the North Sea and the Baltic is the Oder-Spree canal, however, this is not the primary canal. \n\nThe primary canal that connects the North Sea to the Baltic Sea is the Kiel Canal in Germany.",
+      "judgment": "Correctness Reasoning: The response correctly identifies the Kiel Canal as the primary canal linking the North Sea and the Baltic Sea. However, it incorrectly states that the Oder-Spree Canal links these two bodies of water, which is not accurate. The Oder-Spree Canal is not a direct link between the North Sea and the Baltic Sea. Therefore, while it provides some correct information, the inaccuracies regarding the Oder-Spree Canal affect the overall correctness of the response. \nCorrectness Score: 6\n\nInstruction Reasoning: The response follows the instruction to answer the prompt about which canal links the North Sea and the Baltic. It provides a clear answer and additional context regarding the primary canal. The structure of the response is coherent and addresses the question directly. \nInstruction Following Score: 9",
+      "correctness_score": 6,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "Who is credited with inventing \"Supermarionation\", where a puppets lips would move electronically?",
+      "response": "I cannot verify who created \"Supermarionation.\"",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is that \"Supermarionation\" was invented by Gerry Anderson. The statement \"I cannot verify who created 'Supermarionation'\" is factually incorrect as it does not acknowledge the inventor.  \nCorrectness Score: 2\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead of identifying the inventor, it states an inability to verify the information, which does not align with the expectation of directly answering the question.  \nInstruction Following Score: 3",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "The Salt March, one of the first and most powerful movements led by Mohandas Gandhi in the struggle for independence for India from Britain, started in Dandi on what date?",
+      "response": "The Salt March began on March 12, 1930.",
+      "judgment": "Correctness Reasoning: The response accurately states the date when the Salt March began, which is March 12, 1930. This is a well-documented historical fact. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any additional unnecessary information or deviation from the question asked. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Lake Evendim and The Gulf of Lune appear in which fantasy novel?",
+      "response": "I cannot verify which fantasy novel Lake Evendim and The Gulf of Lune appear in.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, as it fails to identify the specific fantasy novel in which Lake Evendim and The Gulf of Lune appear. These locations are from J.R.R. Tolkien's \"The Lord of the Rings\" series, specifically in \"The Fellowship of the Ring.\" Therefore, the response is incorrect.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. While it does express uncertainty, it does not attempt to provide any information or context regarding the locations mentioned in the prompt. Thus, it does not meet the expectations of the instruction.  \nInstruction Following Score: 2  ",
+      "correctness_score": 2,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "What make of car was driven by police detective 'Lieutenant Columbo'?",
+      "response": "The car driven by the police detective 'Lieutenant Columbo' in the popular TV show was a 1959-1964 Peugeot 403 Cabriolet, and also a 1960s Peugeot 403 sedan, but primarily it was a 1959-1964 Peugeot 403 Cabriolet",
+      "judgment": "Correctness Reasoning: The response accurately identifies the make and model of the car driven by Lieutenant Columbo, which is indeed a Peugeot 403. However, the mention of both the Cabriolet and sedan versions could be misleading, as the Cabriolet is the more iconic representation associated with the character. Therefore, while the main answer is correct, the additional details could cause some confusion regarding the primary vehicle. Overall, the core information is correct.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response follows the instruction to identify the make of the car driven by Lieutenant Columbo. It provides specific details about the model and years, which aligns with the prompt's request for information. The structure of the response is clear and informative, adhering to the instruction effectively.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What was the name of the boatyard in the TV series Howard's Way",
+      "response": "I am unable to verify the name of the boatyard in the TV series Howard's Way.",
+      "judgment": "Correctness Reasoning: The response does not provide the name of the boatyard in the TV series \"Howard's Way,\" which is a factual answer that should have been included. Therefore, it does not accurately answer the prompt.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt, as it states an inability to verify the information instead of attempting to answer it. However, it does maintain a clear and concise format.  \nInstruction Following Score: 5  ",
+      "correctness_score": 1,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "What is the maximum engine size for a “light motorcycle”, suitable for a 17-year-old?",
+      "response": "I couldn't find any specific information from government bodies that defines the maximum engine size for a \"light motorcycle\" suitable for a 17-year-old. However, most countries have their own set of motorcycle licensing requirements and regulations.\n\nTypically, the engine size limit for a motorcycle to be licensed by a 16-year-old (or equivalent age) in the US is 50cc. However, in some countries, this limit may be 50cc for 16-year-olds and 125cc for 17-year-olds.\n\nA more general rule of thumb for a \"light motorcycle\" suitable for a 17-year-old is typically around 125cc to 250cc. However, this can vary depending on the country, state, or region's specific regulations.\n\nTo give you a better idea, here are some examples of motorcycle engine sizes and their corresponding licensing requirements in the US:\n\n- 50cc: License restricted to 16-year-olds\n- 125cc: License available to 16-year-olds, but often requires supervision\n- 250cc: License available to 17-year-olds\n\nPlease note that these are general guidelines and may not apply to your specific situation. I recommend checking with your local government or motorcycle regulatory agency for the most up-to-date information on licensing requirements and engine size limits for motorcycles.",
+      "judgment": "Correctness Reasoning: The response provides a general overview of engine size limits for light motorcycles suitable for a 17-year-old, mentioning that it can vary by country and providing specific examples. However, it lacks a definitive answer to the maximum engine size for a \"light motorcycle\" as defined in the prompt, which could lead to some confusion. Therefore, while it contains relevant information, it does not directly answer the question with a clear maximum size. \nCorrectness Score: 6\n\nInstruction Reasoning: The response follows the instruction to provide information regarding the maximum engine size for a light motorcycle suitable for a 17-year-old. It discusses licensing requirements and provides examples, which aligns with the prompt's request for information. However, it could be more concise and focused on the specific question asked. \nInstruction Following Score: 8",
+      "correctness_score": 6,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "A becquerel is the derived SI unit of what?",
+      "response": "A becquerel (Bq) is the derived SI unit of radioactivity.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that a becquerel is the derived SI unit of radioactivity, which is correct. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the capital of Sweden?",
+      "response": "The capital of Sweden is Stockholm.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Stockholm as the capital of Sweden, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "If you are cooking 'à la florentine', what would you be using as the main ingredient?",
+      "response": "When cooking 'à la florentine', the main ingredient would typically be chicken.",
+      "judgment": "Correctness Reasoning: The term 'à la florentine' traditionally refers to a style of cooking that is associated with spinach and often includes ingredients like eggs or fish, particularly sole or other white fish. Chicken is not a typical main ingredient for this style of cooking, which makes the response factually incorrect.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response directly addresses the prompt by identifying a main ingredient, even though it is incorrect. It does not follow any specific formatting or constraints beyond providing an answer to the question. However, it does not deviate from the instruction to answer the prompt.  \nInstruction Following Score: 8  ",
+      "correctness_score": 3,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "What movie, starring Katherine Heigl, was about a woman who has been a bridesmaid 27 times?",
+      "response": "I cannot confirm the movie starring Katherine Heigl about a woman who has been a bridesmaid 27 times.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is \"27 Dresses.\" Instead, it states an inability to confirm the movie, which is not accurate as the movie is well-known. Therefore, it fails to answer the question correctly.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide the name of the movie. Instead, it states a lack of confirmation, which does not align with the expectation of directly answering the prompt.  \nInstruction Following Score: 3  ",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "\"Who had a UK No.1 album, in 2006, with \"\"Back to Black\"\"?\"",
+      "response": "Amy Winehouse had a UK No.1 album in 2006 with \"Back to Black\".",
+      "judgment": "Correctness Reasoning: The response accurately identifies Amy Winehouse as the artist who had a UK No.1 album in 2006 with \"Back to Black.\" This is factually correct information.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is clear and concise.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "From the German for goblin ore, what element, with an atomic number of 27, uses the symbol Co?",
+      "response": "The element with the atomic number 27 and the symbol Co is Cobalt. The German word for 'goblin ore' is Koboldkohle, and 'Kobold' is the German word for 'goblin'.",
+      "judgment": "Correctness Reasoning: The response accurately identifies cobalt as the element with atomic number 27 and symbol Co. It also correctly explains the German term for 'goblin ore' and its relation to the word 'goblin'. Therefore, the answer is factually correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by providing a clear answer to the prompt and includes relevant information about the German term. It adheres to the expected format and provides a complete answer.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The international standard ream is how many sheets of paper?",
+      "response": "I am unable to verify how many sheets of paper are in an international standard ream.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct information regarding the number of sheets in an international standard ream, which is typically 500 sheets. Therefore, it fails to accurately answer the prompt.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide a definitive answer to the prompt. Instead, it states an inability to verify the information, which does not align with the expectation of providing a clear answer.  \nInstruction Following Score: 2  ",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "A sild is what type of small immature fish?",
+      "response": "I believe you meant \"sardine\". A sardine is a type of small, oily fish that is often found in schools. They are a type of small, immature fish that are usually caught and consumed.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies a sild as a sardine, which is not accurate. A sild refers to a young herring, not a sardine. Therefore, the answer does not correctly address the prompt regarding the type of small immature fish that a sild is. \nCorrectness Score: 2\n\nInstruction Reasoning: The response does follow the instruction to provide an answer to the prompt, but it does not directly address the term \"sild\" and instead diverts to discussing sardines. However, it maintains a coherent structure and attempts to provide information about fish. \nInstruction Following Score: 6",
+      "correctness_score": 2,
+      "instruction_following_score": 6
+    },
+    {
+      "prompt": "Xenia Onatopp, played by Famke Janssen, is the villain in which James Bond film?",
+      "response": "Xenia Onatopp is the villain in the 1995 James Bond film 'GoldenEye'.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Xenia Onatopp as the villain in the James Bond film 'GoldenEye', which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is concise and to the point. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which country has land borders with Norway to the west and Finland to the northeast, and is connected to Denmark by a bridge-tunnel across the resund?",
+      "response": "I cannot verify which country has land borders with Norway to the west and Finland to the northeast, and is connected to Denmark by a bridge-tunnel across the resund",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt. The country that fits the description is Sweden, but the model response fails to identify it, resulting in an incorrect answer. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead, it states an inability to verify the information, which does not align with the expectation of answering the question directly. \nInstruction Following Score: 2",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "What is the term for a set of three movies or novels?",
+      "response": "The term you are looking for is a \"trilogy.\" A trilogy refers to a set of three works, usually in the form of novels, movies, or other creative projects, that are connected by a common theme, setting, or narrative thread.",
+      "judgment": "Correctness Reasoning: The response accurately defines the term \"trilogy\" and explains its relevance to a set of three movies or novels, fulfilling the prompt's request effectively. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt and providing a clear explanation of the term \"trilogy.\" It adheres to the expected format and provides relevant information without deviating from the topic.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which US state is known as The Empire State?",
+      "response": "The US state known as \"The Empire State\" is New York.",
+      "judgment": "Correctness Reasoning: The response accurately identifies New York as \"The Empire State,\" which is correct information.\nCorrectness Score: 10\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What was the name of the autobiography of motor racing commentator Murray Walker, published in 2003?",
+      "response": "I apologise, I am unable to verify the name of the autobiography of motor racing commentator Murray Walker.",
+      "judgment": "Correctness Reasoning: The response does not provide the name of the autobiography, which is the main requirement of the prompt. Therefore, it fails to answer the question accurately. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide the name of the autobiography. Instead, it states an inability to verify the information, which does not align with the prompt's request. \nInstruction Following Score: 1",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "What type of family pet is a Flemish Giant?",
+      "response": "A Flemish Giant is a breed of domesticated rabbit, not a traditional pet like dogs, cats, or birds. They are known for their large size, gentle nature, and friendly personalities. Flemish Giants are often kept as pets by experienced rabbit owners due to their high space and feeding requirements.",
+      "judgment": "Correctness Reasoning: The response accurately identifies a Flemish Giant as a breed of domesticated rabbit, which is correct. It also provides additional relevant information about their characteristics and suitability as pets, which enhances the correctness of the answer. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction to answer the prompt directly and provides a clear explanation of what a Flemish Giant is. It adheres to the expected format and provides relevant details without deviating from the topic. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is the name given to the maximum amount of water a soil can hold?",
+      "response": "The maximum amount of water a soil can hold is known as its \"water-holding capacity\" or \"water-holding limit.\" However, a more commonly used term is \"water retention capacity\" or \"maximum water retention,\" but another common term used is \"water-holding saturation\"",
+      "judgment": "Correctness Reasoning: The response accurately identifies the term \"water-holding capacity\" as the maximum amount of water a soil can hold. It also mentions related terms, which are relevant but may not be as commonly used. Overall, the main term is correct, but the inclusion of multiple terms could lead to some confusion regarding the most accepted terminology. Therefore, while the main answer is correct, the additional terms may detract slightly from clarity.  \nCorrectness Score: 8\n\nInstruction Reasoning: The response follows the instruction to provide the name of the maximum amount of water a soil can hold. It presents the information clearly and includes relevant terms, which aligns with the instruction to provide a comprehensive answer. The format is appropriate, and the response is coherent.  \nInstruction Following Score: 10",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What animal does the perfume ingredient ambergris come from?",
+      "response": "Ambergris is a rare and valuable natural substance that comes from the digestive system of sperm whales (Physeter macrocephalus). It is a waxy, yellowish-gray substance that forms in the whale's intestines and is thought to be produced as a result of the whale's attempt to eliminate a beached sperm whale's spermaceti organ.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that ambergris comes from sperm whales and provides additional relevant information about its formation. However, the explanation about the \"beached sperm whale's spermaceti organ\" is misleading and somewhat confusing, as ambergris is not directly related to the spermaceti organ. Therefore, while the main point is correct, the additional details detract from the overall accuracy.  \nCorrectness Score: 7\n\nInstruction Reasoning: The response follows the instruction to answer the prompt about the source of ambergris and provides a detailed explanation. It maintains a clear structure and presents the information in a coherent manner.  \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which media tycoon was known as 'The Bouncing Czech'?",
+      "response": "I apologise, I am unable to verify the name of the media tycoon known as 'The Bouncing Czech'.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is \"Robert Maxwell.\" Instead, it states an inability to verify the name, which is not an accurate or informative response to the question asked. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead of answering the question, it states an inability to verify the information, which does not align with the expectation of providing a direct answer. \nInstruction Following Score: 2",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "Which chemical element is named after a village in Scotland?",
+      "response": "The chemical element Barium is named after the village of Barium in Wales, however I found another answer which is Beryllium named after the village of Beryl in Cornwall, however another answer is Bismuth named after the village of Bischofshofen  in Austria but also found that another answer is Barium named after the village of Barium however I found that the answer is Beryllium.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Barium and Beryllium as being named after villages that do not match the prompt's requirement. The correct answer is actually \"Strontium,\" which is named after the village of Strontian in Scotland. The response fails to provide the correct information and instead presents a confusing mix of incorrect names and locations. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide a clear and direct answer to the prompt. Instead, it presents a convoluted and repetitive explanation that includes multiple incorrect elements. The instruction was to identify a single chemical element named after a village in Scotland, but the response fails to do so effectively. \nInstruction Following Score: 3",
+      "correctness_score": 1,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "A codicil is a supplement to what sort of legal document?",
+      "response": "A codicil is a supplement to a will. It is an amendment to the original will, typically used to make changes, add new provisions, or modify existing ones.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that a codicil is a supplement to a will, which is correct. It also provides additional context about its purpose, which enhances the answer's completeness. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt and providing relevant information in a clear and concise manner. It adheres to the expected format and does not deviate from the task.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What is measured in degrees Clarke?",
+      "response": "Latitude is typically measured in degrees Clarke (or degrees of arc). The Clarke system is a geodetic coordinate system that is used to measure latitude, with each degree consisting of 100 minutes of arc, and each minute of arc consisting of 60 seconds of arc.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that latitude is measured in degrees Clarke. Degrees Clarke refers to a specific measurement related to the Clarke ellipsoid, which is used in geodesy, but latitude is generally measured in degrees without any specific reference to Clarke. The explanation provided about degrees of arc is also misleading in this context. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response follows the instruction to provide an answer to the prompt, and it is formatted as a coherent explanation. However, it does not provide a clear and accurate definition of what is measured in degrees Clarke, which is primarily related to the Clarke ellipsoid rather than latitude. Despite the inaccuracies, the response adheres to the instruction to explain the concept.  \nInstruction Following Score: 7  ",
+      "correctness_score": 3,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "What original, standing outside the National Gallery and designated K2, was designed by Giles Gilbert Scott?",
+      "response": "I am unable to verify the name of the original building.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, which asks for the name of a specific original structure designed by Giles Gilbert Scott that is located outside the National Gallery and designated K2. The response fails to provide any relevant information or the correct name, which is \"K2\" or \"the K2 telephone box.\" Therefore, it is incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead of attempting to answer the question, it states an inability to verify the name, which does not align with the expectation of providing information. Thus, it does not adhere to the instruction.  \nInstruction Following Score: 1  ",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "\"The two main islands of which country are known as \"\"the North Island\"\" and \"\"the South Island\"\"?\"",
+      "response": "The two main islands of New Zealand are known as \"the North Island\" and \"the South Island\".",
+      "judgment": "Correctness Reasoning: The response accurately identifies New Zealand as the country with the two main islands known as the North Island and the South Island. This directly answers the prompt correctly.\nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It maintains clarity and relevance throughout.\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Which model of car manufactured by the Ford Motor Company was introduced in April 1964 and created the \"\"pony car\"\" class of American automobile?\"",
+      "response": "The Ford Mustang was the model of car manufactured by the Ford Motor Company that was introduced in April 1964. It is often credited with creating the \"pony car\" class of American automobiles.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the Ford Mustang as the car model introduced in April 1964 by the Ford Motor Company and correctly states its significance in creating the \"pony car\" class. Therefore, the answer is factually correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is clear and concise, adhering to the expected format.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "‘Motion and Emotion’ is the advertising slogan for which car manufacturer?",
+      "response": "I am not aware of a well-known car manufacturer with an advertising slogan of \"Motion and Emotion\".",
+      "judgment": "Correctness Reasoning: The response is incorrect because \"Motion and Emotion\" is the advertising slogan for Audi, a well-known car manufacturer. The model response fails to provide the correct answer to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead of attempting to identify the car manufacturer associated with the slogan, it states a lack of awareness, which does not fulfill the requirement of the instruction.  \nInstruction Following Score: 3  ",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "Charlie and the Chocolate Factory is a 1964 children's book by British author Roald Dahl; What is Charlie's surname?",
+      "response": "The book \"Charlie and the Chocolate Factory\" is actually a 1964 children's novel by British author Roald Dahl, but I believe you're referring to the more popular 1971 film adaptation, 'Willy Wonka & the Chocolate Factory' (in the US), and 'Charlie and the Chocolate Factory' (in the UK) both refer to Charlie's surname, however, the 2013 film adaptation 'Charlie and the Chocolate Factory',  stars Johnny Depp as Willy Wonka, is more based on the 1964 book and  Johnny Depp is not in that.",
+      "judgment": "Correctness Reasoning: The response does not directly answer the question about Charlie's surname, which is \"Bucket.\" Instead, it provides irrelevant information about the adaptations of the book and the actors involved, which does not fulfill the prompt's requirement. Therefore, the correctness score is low.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does follow the instruction to provide information related to the prompt, but it fails to provide a clear and concise answer to the specific question asked. However, it does maintain a coherent structure and attempts to engage with the prompt. Thus, it receives a moderate score for instruction following.  \nInstruction Following Score: 6  ",
+      "correctness_score": 2,
+      "instruction_following_score": 6
+    },
+    {
+      "prompt": "Tetrachloroethylene is better known as (its most common form)?",
+      "response": "I cannot verify the most common form of tetrachloroethylene.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which asks for the most common name of tetrachloroethylene. The correct answer is \"perchloroethylene.\" Since the response fails to identify this, it is factually incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to provide the most common name of tetrachloroethylene. Instead, it states an inability to verify the information, which does not align with the prompt's request.  \nInstruction Following Score: 1  ",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "What is a young prairie dog called",
+      "response": "A young prairie dog is called a \"pouch youngster\" or \"pouch kit.\"",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the term for a young prairie dog. The correct term is \"kit\" or \"pup,\" not \"pouch youngster\" or \"pouch kit.\" Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response follows the instruction to provide a term for a young prairie dog, even though the terms used are incorrect. It does not deviate from the format or structure requested in the prompt.  \nInstruction Following Score: 8  ",
+      "correctness_score": 3,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "\"What word is used as a synonym for \"\"gourmet\"\", one who appreciates the culinary arts of fine food and drink?\"",
+      "response": "A synonym for \"gourmet\" is \"epicure.\"",
+      "judgment": "Correctness Reasoning: The response accurately identifies \"epicure\" as a synonym for \"gourmet,\" which is correct in the context of someone who appreciates fine food and drink. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is concise and to the point. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Name the 'Butcher of Bosnia' arrested in May 2011 after 16 years evasion following his indictment for war crimes?",
+      "response": "I am unable to verify the name of the 'Butcher of Bosnia' arrested in May 2011 after 16 years evasion following his indictment for war crimes.",
+      "judgment": "Correctness Reasoning: The response does not provide the name of the 'Butcher of Bosnia,' which is the main requirement of the prompt. The individual referred to is Ratko Mladić, and the failure to mention this name means the response is factually incorrect. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide a name, as it states an inability to verify the information instead of directly answering the prompt. Therefore, it does not adhere to the instruction given. \nInstruction Following Score: 1",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "Which city in Somerset is, with a population of 10,000, the smallest city in England?",
+      "response": "I'm not aware of any information that would confirm that there is a city in Somerset with a population of 10,000.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt. The smallest city in England is Wells, which is located in Somerset and has a population around 10,000. The model response fails to provide this correct information. \nCorrectness Score: 2\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. Instead, it states a lack of awareness, which does not fulfill the requirement to identify the city. \nInstruction Following Score: 3",
+      "correctness_score": 2,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "What event took place in Tombstone, Arizona on 26 October 1881?",
+      "response": "The event that took place in Tombstone, Arizona on 26 October 1881 was the Gunfight at the O.K. Corral. It was a famous shootout between lawmen from the Earp brothers (Wyatt, Virgil, and Morgan) and a group of outlaws known as the Clanton gang.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the Gunfight at the O.K. Corral as the event that took place in Tombstone, Arizona on 26 October 1881. It also correctly mentions the key figures involved, including the Earp brothers and the Clanton gang, which adds to the accuracy of the information provided. Therefore, the response is factually correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to provide information about the specific event that occurred on the given date and location. It is clear, concise, and directly addresses the prompt without any deviation from the requested information. Thus, it adheres well to the instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "\"Who was \"\"Monty Python's Life of .. \"\"?\"",
+      "response": "\"Monty Python's Life of Brian\" is a 1979 British comedy film written by and starring Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, and Michael Palin of the Monty Python comedy group.\n\nThe film is a parody of the Bible and the life of Jesus Christ, and it follows the story of Brian, a man who is mistaken for the Messiah. The film is known for its absurd humor, witty dialogue, and memorable characters, such as the Knights Who Say \"Ni!\" and the People's Front of Judea.\n\n\"Monty Python's Life of Brian\" is widely regarded as one of the greatest comedies of all time, and it has become a cult classic.",
+      "judgment": "Correctness Reasoning: The response accurately identifies \"Monty Python's Life of Brian\" as the film referenced in the prompt. It provides relevant details about the film, including its release year, writers, and a brief description of its plot and significance. Therefore, the response is correct in addressing the prompt.\n\nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction to provide information about \"Monty Python's Life of Brian\" without deviating from the topic. It maintains a clear and informative structure, which aligns with the expectations of the instruction. \n\nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Robert Baden-Powell founded the Boy Scouts in what year?",
+      "response": "I cannot verify when Robert Baden-Powell founded the Boy Scouts.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct year when Robert Baden-Powell founded the Boy Scouts, which is 1907. Instead, it states an inability to verify the information, which does not answer the prompt accurately.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide a specific answer to the question asked in the prompt. It fails to give any information or context regarding the founding year, which is a direct violation of the instruction to answer the question.  \nInstruction Following Score: 2  ",
+      "correctness_score": 2,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "Which film starring Russell Crowe, Helen Mirren and Ben Affleck is a remake of a 2003 BBC TV mini-series of the same name?",
+      "response": "I am unable to verify any film starring Russell Crowe, Helen Mirren and Ben Affleck that is a remake of a 2003 BBC TV mini-series of the same name.",
+      "judgment": "Correctness Reasoning: The response is incorrect because it fails to identify the film \"The Last Duel,\" which is indeed a remake of a 2003 BBC TV mini-series titled \"The Last Duel.\" The model's assertion that it cannot verify such a film is misleading and factually incorrect. \nCorrectness Score: 2\n\nInstruction Reasoning: The response does follow the instruction to answer the prompt, but it does so incorrectly. It does not provide the name of the film as requested, which is a significant deviation from the instruction. \nInstruction Following Score: 4",
+      "correctness_score": 2,
+      "instruction_following_score": 4
+    },
+    {
+      "prompt": "Gossima was one of the original names for which sport?",
+      "response": "I couldn't find any information about a sport named \"Gossima.\"",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, as it fails to identify that \"Gossima\" is an original name for the sport of table tennis. Instead, it states that no information could be found, which is incorrect. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. It should have attempted to answer the question rather than stating a lack of information. \nInstruction Following Score: 2",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "‘Noxious air’ is another term for which chemical element?",
+      "response": "I couldn't find any information that directly associates the term \"noxious air\" with a specific chemical element. The term \"noxious air\" is more commonly associated with noxious fumes or gases, often referring to pollutants or toxic substances in the air.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, which asks for a specific chemical element associated with the term \"noxious air.\" Instead, it discusses the general concept of noxious air without identifying a particular element. Therefore, the response is incorrect.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide a direct answer to the prompt. While it does provide some relevant information about noxious air, it fails to identify a specific chemical element, which is the main requirement of the prompt. Thus, it does not adhere to the instruction effectively.  \nInstruction Following Score: 4  ",
+      "correctness_score": 2,
+      "instruction_following_score": 4
+    },
+    {
+      "prompt": "What headwear is traditionally worn at the English public school called Eton?",
+      "response": "At Eton College, the traditional headwear is the Eton Gown Cap or the Eton Collar.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the headwear traditionally worn at Eton College. The correct answer is the \"top hat\" or \"Eton cap,\" not the \"Eton Gown Cap\" or \"Eton Collar,\" which are not headwear. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response does not follow the instruction to provide the specific type of headwear traditionally worn at Eton. While it mentions Eton-related items, it fails to specify the correct headwear. However, it does provide a relevant context about Eton, which shows some adherence to the instruction.  \nInstruction Following Score: 6  ",
+      "correctness_score": 3,
+      "instruction_following_score": 6
+    },
+    {
+      "prompt": "Along with the Derby and 2,000 Guineas which other horserace makes up the English Triple Crown?",
+      "response": "I am unable to search for the answer to your question about the English Triple Crown of horse racing.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which asks for the third race that makes up the English Triple Crown. The correct answer is the St Leger Stakes. Since the response fails to address the question, it receives a low score for correctness.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to answer the question. Instead, it states an inability to search for the answer, which does not fulfill the requirement to provide information about the English Triple Crown. Therefore, it receives a low score for instruction following.  \nInstruction Following Score: 1  ",
+      "correctness_score": 1,
+      "instruction_following_score": 1
+    },
+    {
+      "prompt": "What is the stage name of the rapper born Curtis James Jackson III in 1975?",
+      "response": "The stage name of the rapper born Curtis James Jackson III in 1975 is 50 Cent.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the stage name of the rapper Curtis James Jackson III as 50 Cent, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "The Singapore Flyer is the world's tallest what?",
+      "response": "The Singapore Flyer is the world's tallest Ferris wheel.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the Singapore Flyer as the world's tallest Ferris wheel, which is correct as of the latest information available. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "What make of guitar did blues musician B.B. King usually play?",
+      "response": "B.B. King was known to play Gibson guitars. His most famous guitar is a 1959 Gibson Les Paul.",
+      "judgment": "Correctness Reasoning: The response correctly identifies that B.B. King was known for playing Gibson guitars. However, it inaccurately states that his most famous guitar is a 1959 Gibson Les Paul; in fact, his most famous guitar is \"Lucille,\" which is a Gibson ES-355. This inaccuracy affects the overall correctness of the response.  \nCorrectness Score: 6  \n\nInstruction Reasoning: The response follows the instruction to answer the prompt about the make of guitar B.B. King usually played. It provides relevant information about the brand and mentions a specific model, even though the model mentioned is incorrect. The format of the response is clear and adheres to the instruction.  \nInstruction Following Score: 9  ",
+      "correctness_score": 6,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "Which English monarch was the brother of King Edward IV?",
+      "response": "I cannot verify which English monarch was the brother of King Edward IV",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is that King Edward IV's brother was King Richard III. Instead, it states an inability to verify the information, which is not an accurate or helpful response to the question asked.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. While it is formatted correctly as a complete sentence, it fails to address the question directly. Therefore, it does not meet the expectations of the instruction.  \nInstruction Following Score: 4  ",
+      "correctness_score": 2,
+      "instruction_following_score": 4
+    },
+    {
+      "prompt": "Which type of harpsichord, developed in the 16th century, is box-like in shape and was designed to sit on a table or a lap?",
+      "response": "The type of harpsichord you are referring to is a virginals.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the type of harpsichord that is box-like in shape and designed to sit on a table or lap as a \"virginals.\" This is correct as virginals are indeed a type of harpsichord that fits this description. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. It is concise and relevant to the question asked. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "On June 17, 1972, Virgilio Gonzlez, Bernard Barker, James W. McCord, Jr., Eugenio Martnez, and Frank Sturgis, a group known as The Plumbers, was caught breaking into Suite 610 of what Washington D.C. hotel, an act which lead to the downfall of a president?",
+      "response": "The group you are referring to, known as The Plumbers, broke into Suite 610 of the Watergate Hotel in Washington D.C. on June 17, 1972. The Plumbers was a group of five men, led by Virgilio Gonzalez, Bernard Barker, James W. McCord Jr., Eugenio Martínez, and Frank Sturgis, who were tasked by President Richard Nixon to carry out espionage and sabotage operations against his political opponents.\n\nTheir break-in at the Watergate Hotel, where they accessed Suite 610, led to a scandal that ultimately contributed to the downfall of President Nixon's administration. The incident became known as the Watergate scandal, and it resulted in numerous investigations, convictions, and resignations, including President Nixon's own resignation in August 1974.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the Watergate Hotel as the location of the break-in by The Plumbers and correctly links the event to the downfall of President Nixon. It provides relevant details about the group and the significance of the incident, making it a comprehensive and correct answer to the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt and providing additional context about the event and its implications. It maintains a clear and informative structure, adhering to the expectations set by the instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which Hollywood actor was born with the forenames John Uhler?",
+      "response": "I am unable to identify which actor was born with the forenames John Uhler.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which is that the Hollywood actor born with the forenames John Uhler is John Wayne. Therefore, the response is factually incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response follows the instruction to answer the prompt, even though it does not provide the correct information. It maintains a clear and concise format, indicating the inability to identify the actor.  \nInstruction Following Score: 8  ",
+      "correctness_score": 1,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "The first overseas property owned by the government of the USA, a US legation (consulate), was in which city?",
+      "response": "I cannot verify the first overseas property owned by the government of the USA, a US legation (consulate), in the city you asked for.",
+      "judgment": "Correctness Reasoning: The response does not provide an answer to the prompt regarding the first overseas property owned by the USA, which is historically known to be in Paris, France. Instead, it states an inability to verify the information, which is not a correct or complete answer to the question asked. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. It fails to address the question directly and instead expresses uncertainty, which does not align with the expectation of providing a clear answer. \nInstruction Following Score: 2",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "Which Cricket county's Twenty/20 team are known as the 'Phantoms'?",
+      "response": "I am unable to verify which cricket county's Twenty/20 team are known as the 'Phantoms'.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which asks for the specific cricket county's Twenty/20 team known as the 'Phantoms'. Instead, it states an inability to verify the information, which does not address the question at all. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to provide an answer to the prompt. While it is formatted as a complete sentence, it fails to deliver the requested information, which is a direct answer to the question. \nInstruction Following Score: 2",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "The oldest surviving building at Edinburgh Castle is a chapel dedicated to which saint?",
+      "response": "I cannot verify the chapel name that is the oldest surviving building at Edinburgh Castle.",
+      "judgment": "Correctness Reasoning: The response does not provide the name of the saint to whom the oldest surviving building (the chapel) at Edinburgh Castle is dedicated. The correct answer is St. Margaret. Therefore, the response is factually incorrect.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not follow the instruction to answer the prompt directly. Instead of providing the name of the saint, it states an inability to verify the information. This does not meet the expectation of directly addressing the prompt.  \nInstruction Following Score: 2  ",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "HMS Belfast in London is part of which museum?",
+      "response": "HMS Belfast is part of the Imperial War Museum in London.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that HMS Belfast is part of the Imperial War Museum in London, which is correct information. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction by directly answering the prompt without any deviation or additional unnecessary information. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "Which country was top of the medals table at the 2012 Paralympics in London with 95 gold ?",
+      "response": "I am unable to verify the country at the top of the medals table at the 2012 Paralympics in London.",
+      "judgment": "Correctness Reasoning: The response does not provide the correct answer to the prompt, which asks for the country that topped the medals table at the 2012 Paralympics in London with 95 gold medals. The correct answer is Great Britain, but the model response fails to mention this or provide any relevant information. \nCorrectness Score: 1\n\nInstruction Reasoning: The response does not follow the instruction to answer the prompt directly. Instead of providing the requested information, it states an inability to verify the answer, which does not align with the expectation of responding to the prompt. \nInstruction Following Score: 2",
+      "correctness_score": 1,
+      "instruction_following_score": 2
+    },
+    {
+      "prompt": "\"In Alexander Dumas's book \"\"The Three Musketeers\"\", two of the Musketeers are called Athos and Porthos. What was the name of the third Musketeer?\"",
+      "response": "The third Musketeer in Alexander Dumas's book \"The Three Musketeers\" is actually called D'Artagnan, not Athos. Athos and Porthos are indeed two of the Musketeers, but D'Artagnan is the third main Musketeer.",
+      "judgment": "Correctness Reasoning: The response accurately identifies D'Artagnan as the third Musketeer in \"The Three Musketeers,\" correctly distinguishing him from Athos and Porthos. Therefore, the answer is correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction by directly answering the question posed in the prompt without deviating from the topic. It provides the name of the third Musketeer clearly and concisely.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "In which range of mountains does the second highest mountain in the world, K2 or Mount Godwin Austen lie?",
+      "response": "I couldn't verify any information on a mountain named Mount Godwin Austen. However, I can tell you that the second highest mountain in the world is K2, which lies in the Karakoram mountain range.",
+      "judgment": "Correctness Reasoning: The response correctly identifies K2 as the second highest mountain in the world and accurately states that it is located in the Karakoram mountain range. However, the mention of \"Mount Godwin Austen\" is somewhat misleading, as it is an alternative name for K2, and the response implies uncertainty about its existence. This could confuse the reader regarding the mountain's identity. Overall, the main question about the mountain range is answered correctly. \nCorrectness Score: 7\n\nInstruction Reasoning: The response follows the instruction to answer the prompt regarding the mountain range of K2. It provides relevant information and maintains a clear structure. However, the initial uncertainty about the name \"Mount Godwin Austen\" could be seen as a deviation from the instruction to provide a straightforward answer. Despite this, the core information is still presented effectively. \nInstruction Following Score: 8",
+      "correctness_score": 7,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "The London Marathon involves what?",
+      "response": "The London Marathon typically involves a full marathon distance of 26.2 miles (42.195 kilometers).",
+      "judgment": "Correctness Reasoning: The response accurately states that the London Marathon involves a full marathon distance of 26.2 miles, which is a correct and relevant aspect of the event. However, it does not provide additional context about the event, such as the participation of runners, the atmosphere, or other activities associated with the marathon, which could enhance the completeness of the answer. Therefore, while the core fact is correct, it lacks depth.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response follows the instruction to answer the prompt directly and provides a clear and concise statement about the London Marathon. It adheres to the expected format of a straightforward answer without unnecessary elaboration.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    }
+  ]
+}

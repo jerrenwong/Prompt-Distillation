@@ -1,0 +1,715 @@
+{
+  "instruction": "",
+  "statistics": {
+    "correctness": {
+      "mean": 4.93,
+      "std": 2.9300341294940577
+    },
+    "instruction_following": {
+      "mean": 8.87,
+      "std": 1.3686124360095522
+    }
+  },
+  "results": [
+    {
+      "prompt": "who sings the original windmills of your mind Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The song \"Windmills of Your Mind\" was originally sung by an actor named Peter Sellers. Later, another singer named Frank Sinatra also sang this popular tune. So, very many people have heard the song, and it's often used in movies to make them feel very nice and calm.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Peter Sellers is the original singer of \"Windmills of Your Mind.\" The original version was sung by Noel Harrison. While it mentions Frank Sinatra, it does not clarify that he is not the original artist. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It also provides additional context about the song's popularity, which, while not requested, does not violate the instruction.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when does the champions league quarter finals start Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Champions League quarter-finals usually start in late March or early April, but the exact dates can change from year to year. It's like when you have a big game planned for your birthday party - you know it will happen around your birthday, but the exact day might be a little earlier or later each time.",
+      "judgment": "Correctness Reasoning: The response provides a general timeframe for when the Champions League quarter-finals start, which is accurate. However, it does not specify the exact year or the specific dates, which could be considered a lack of precision in answering the prompt fully. Therefore, while the information is mostly correct, it lacks some detail that would make it more complete.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. The analogy used is also simple and relatable, which aligns with the instruction to use simple language.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the first australian prime minister elected Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The first Australian Prime Minister was elected very early in Australia's history. It was Sir Edmund Barton who became the first one, and he started his job very very early in 1901. That was after Australia became very very united, like when you put all your toys together in one big box.",
+      "judgment": "Correctness Reasoning: The response correctly identifies Sir Edmund Barton as the first Australian Prime Minister and states that he began his term in 1901. However, the phrase \"very early in Australia's history\" is vague and does not provide a specific date, which could lead to some confusion. Overall, the essential information is accurate, but the lack of specificity affects the correctness slightly.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. The analogy about toys is a creative way to explain the concept of unity, which aligns with the instruction to use simple language. Therefore, it follows the instruction well.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who sang how long has this been going on song Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The song \"How Long Has This Been Going On?\" was sung by Tommy James and the Shondells.",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the song \"How Long Has This Been Going On?\" to Tommy James and the Shondells. The song is actually by various artists, but most notably by the band \"The 5th Dimension\" and also by \"George Benson.\" Therefore, the answer does not accurately answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, which aligns with the instruction to use easy-to-understand language. It follows the instruction well in terms of language simplicity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "the legend of heroes trails in the sky the 3rd vita Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The game Legend of Heroes: Trails in the Sky 3rd Vita is a story about brave heroes who go on exciting adventures. It's like a big adventure book that you play on a special game machine.\n\nThis game takes place in a world with lots of different places to explore and people to meet. The characters have different jobs, just like some people have different jobs in real life - some might be farmers, while others could be jewelers or even space explorers!\n\nIn this game, players help these heroes solve problems and protect their friends from bad guys. It's very fun and exciting, kind of like when you're playing pretend with your toys but on a much bigger scale.\n\nThere are many cool things to discover and do in the game. You might find treasure hidden in secret caves or talk to interesting characters who change the story as you play.\n\nSo if you're looking for an adventure game that's both challenging and enjoyable, this one sounds like it would be great!",
+      "judgment": "Correctness Reasoning: The response provides a general overview of the game \"Legend of Heroes: Trails in the Sky 3rd Vita,\" mentioning its adventurous nature and the roles of characters. However, it lacks specific details about the game's plot, characters, or unique features that would give a clearer understanding of the game itself. Therefore, while it captures the essence of an adventure game, it does not fully answer the prompt regarding the specific game mentioned.  \nCorrectness Score: 6  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it accessible for non-native speakers. The language is clear and straightforward, making it easy to understand. Thus, it follows the instruction well.  \nInstruction Following Score: 10  ",
+      "correctness_score": 6,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who plays timon in lion king on broadway Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Very early on in the Broadway production of The Lion King, Elphaba Thropp played the role of Timon. She did this very early in her acting career. However, later on, Nathan Lane took over this role and became very famous for playing Timon. He did a very good job and many people liked how he acted as Timon.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Elphaba Thropp played Timon, which is not true. Elphaba is a character from \"Wicked,\" not \"The Lion King.\" Nathan Lane is correctly identified as a famous actor who played Timon, but the initial error affects the overall correctness of the response. Therefore, the answer does not accurately answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It also provides information about the actors in a straightforward manner. Thus, it follows the instruction well.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "element named after fictional planet from which superman came Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The element is called Kryptonite. It comes from a very special planet where Superman is said to have come from in stories. Superman gets very sick when he touches Kryptonite, just like how you might feel very angry if something very upset you.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the element named Kryptonite and explains its connection to Superman and the fictional planet Krypton. It also mentions the effect of Kryptonite on Superman, which is relevant to the prompt. Therefore, the answer is correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. It uses basic words and phrases that are easy to understand for non-native speakers. Thus, it adheres well to the instruction provided.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when's the last time army won the army navy game Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Army-Navy game is a very old tradition where Army and Navy play against each other. They haven't played this game for many years now. So, we can say that Army hasn't won this game very recently. They last played it a long time ago.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific answer to the question about when the last time Army won the Army-Navy game. Instead, it gives vague information about the tradition and suggests that Army hasn't won recently without stating the actual last win date. Therefore, it does not accurately answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. However, it could be more direct in answering the question. Nonetheless, it follows the instruction regarding language simplicity.  \nInstruction Following Score: 8  ",
+      "correctness_score": 3,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "where was the tv show high chaparral filmed Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The TV show High Chaparral was filmed in very many places. It was very hard to find all those places because the story is set in the desert. They found some places very near to each other where they could do filming very quickly. Some scenes were also done in a big building called a studio. So, they used different locations to make the show look very real and exciting.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt regarding the specific location where \"High Chaparral\" was filmed. While it mentions filming in various places and a studio, it fails to provide the specific location, which is essential for correctness. Therefore, the response lacks the necessary factual information.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains a straightforward style throughout, which aligns well with the given instruction.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who was the great wall of china built to defend against Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Great Wall of China was built to protect very important areas from very angry invaders coming from the north. These invaders were often groups of people who wanted to take over parts of China. Building the wall helped keep them away, making China safer.",
+      "judgment": "Correctness Reasoning: The response accurately identifies that the Great Wall of China was built to protect against invaders from the north, which is correct. It explains the purpose of the wall in simple terms, making it easy to understand. However, it could have been more specific about which groups were involved, such as the Mongols, but this is not critical for the overall correctness.  \nCorrectness Score: 9  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, making it accessible for non-native speakers. It maintains clarity and simplicity throughout the explanation.  \nInstruction Following Score: 10  ",
+      "correctness_score": 9,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the second largest country in asia Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The second largest country in Asia is China. China is very, very big, bigger than any other Asian country except for India.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies China as the second largest country in Asia. In fact, China is the largest, and the second largest is India. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. The structure is clear and straightforward.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when is the running of the bulls held in spain Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The running of the bulls, also known as \"corrida de toros,\" happens every year in different parts of Spain, especially in towns like Pamplona. It usually starts around late July or early August and lasts for about 8 days. People gather to watch this event where bulls are chased through the streets. It's very exciting and some people get very excited, but it can also make others angry if they don't like bullfighting.",
+      "judgment": "Correctness Reasoning: The response provides accurate information about the running of the bulls, including its location (Pamplona) and the time of year it occurs (late July or early August). However, it inaccurately states that it lasts for about 8 days, as the main event in Pamplona lasts for 8 days, but the running of the bulls itself occurs on specific days within that period. Therefore, while the general information is correct, the details are slightly misleading.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It effectively communicates the event's details in a straightforward manner.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who plays the dwarf king in the hobbit Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In the Hobbit movies, the dwarf king is played by a man named John Walter Holmes. He's very good at playing that role.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the actor who plays the dwarf king in \"The Hobbit.\" The correct actor is Richard Armitage, who plays Thorin Oakenshield, the dwarf king. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It also provides a clear answer about the role.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who has the most yards per carry in nfl history Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "To find out who had the most yards per carry in NFL history, we need to look at players who ran a lot and got very long gains. One of the players with the highest yards per carry is Walter Payton. He was very good at running and getting big plays for his team. But remember, this information might change because new players come and go, and their statistics are updated all the time.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Walter Payton as the player with the most yards per carry in NFL history. The correct answer is actually Jim Brown. While the response provides some relevant information about yards per carry, it does not accurately answer the prompt.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It also provides a general explanation about the topic, which aligns with the instruction to keep the language simple.  \nInstruction Following Score: 9  ",
+      "correctness_score": 4,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who is playing the halftime show at super bowl 2016 Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In Super Bowl 2016, the halftime show was performed by Justin Timberlake. He sang very well and lots of people enjoyed watching him dance and sing during the break in the game.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Justin Timberlake performed at the Super Bowl 2016 halftime show. The actual performer was Coldplay, with Beyoncé and Bruno Mars as special guests. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It also provides a clear and straightforward description of the performance.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who played maudie in the movie el dorado Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In the movie El Dorado, Maudie was played by an actress named June Hemingway.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the actress who played Maudie in \"El Dorado.\" The correct actress is actually \"Michelle Carey.\" Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, which aligns with the instruction to use easy-to-understand language. It also directly answers the question about who played Maudie.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the young and the restless first aired Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Young and the Restless first aired very long ago, way back in 1964. That's more than 50 years ago! Some people might be angry because they weren't even born then.",
+      "judgment": "Correctness Reasoning: The response accurately states that \"The Young and the Restless\" first aired in 1964, which is correct. However, the phrase \"very long ago\" is somewhat vague and could be considered less precise. The mention of \"more than 50 years ago\" is also misleading since it has been more than 50 years since 1964, but it could confuse readers about the current year. Overall, the main fact is correct, but the vagueness affects the score slightly.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. The language is straightforward, and the tone is appropriate. However, the phrase \"very long ago\" could be simplified further to just \"in 1964,\" which would have been more direct. Despite this minor issue, the response largely follows the instruction well.  \nInstruction Following Score: 9  ",
+      "correctness_score": 8,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who is the lead singer of depeche mode Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The lead singer of Depeche Mode is David Gilmour very often. He's very good at singing for them. Sometimes, their music comes with other singers too, but David sings very important songs.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that David Gilmour is the lead singer of Depeche Mode. The actual lead singer is Dave Gahan. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. However, it does not fully follow the instruction as it introduces incorrect information about the lead singer.  \nInstruction Following Score: 7  ",
+      "correctness_score": 2,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "when was the first hunger games book published Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The first Hunger Games book came out very early, way back in 2008. That's when people first started reading about this story.",
+      "judgment": "Correctness Reasoning: The response accurately states that the first Hunger Games book was published in 2008, which is correct. It also mentions that this is when people started reading the story, which is relevant to the prompt. \nCorrectness Score: 10\n\nInstruction Reasoning: The response uses simple English as requested, avoiding advanced vocabulary and instead using simpler words. It follows the instruction to make the information accessible for non-native speakers. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is the tibia and fibula bone located Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The tibia and fibula bones are very important for the legs. The tibia is very long and sits very close to the middle of the shin. It's like the main road of the leg. The fibula is very thin and sits very close to the tibia. It's like a small side road next to the main road. Both bones are very useful for walking and moving around.",
+      "judgment": "Correctness Reasoning: The response accurately describes the location and relationship of the tibia and fibula bones in simple terms. It explains that the tibia is located in the middle of the shin and that the fibula is next to it, which is correct. Therefore, the response meets the requirements of the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. It uses straightforward comparisons to explain the bones' locations, making it accessible for non-native speakers. Thus, it adheres well to the instruction provided.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "which country has the most coastline in the world Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The country with the very longest coastline in the world is Canada. It's like having a really big sandbox where you can play very close to the water on all sides.",
+      "judgment": "Correctness Reasoning: The response correctly identifies Canada as the country with the longest coastline in the world, which is accurate information. However, the analogy about a \"sandbox\" may not be necessary and could confuse some readers. Overall, the main fact is correct.  \nCorrectness Score: 9  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, making it accessible for non-native speakers. The analogy used is simple and relatable, which aligns with the instruction to keep the language easy to understand.  \nInstruction Following Score: 10  ",
+      "correctness_score": 9,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how old is the actress who plays phyllis on y&r Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I'm sorry, but I don't have the exact age of the actress who plays Phyllis in \"General Hospital\". My knowledge cut off in 2023, and I don't get updates about current events or details of ongoing TV shows. To find out her exact age, you might want to check the latest news or visit the official website of the show.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, as it incorrectly refers to \"General Hospital\" instead of \"The Young and the Restless\" (Y&R). Additionally, it does not provide the age of the actress, which is the main question asked. Therefore, the response is factually incorrect.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not use simple English as requested. Phrases like \"knowledge cut off\" and \"latest news\" may be difficult for non-native speakers to understand. However, it does follow the instruction to not use advanced vocabulary. Overall, it partially adheres to the instruction but fails in the simplicity requirement.  \nInstruction Following Score: 5  ",
+      "correctness_score": 2,
+      "instruction_following_score": 5
+    },
+    {
+      "prompt": "when does episode 29 of boruto come out Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I don't have real-time information about when episodes of Boruto will come out. You might want to check the official website or social media pages for the latest updates on release dates. They usually post this kind of information there.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific answer to the question about when episode 29 of Boruto will come out. Instead, it suggests checking other sources for information, which does not directly address the prompt. Therefore, it lacks correctness.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. However, it does not directly answer the question, which is a part of following the instruction. Still, the language used is appropriate.  \nInstruction Following Score: 7  ",
+      "correctness_score": 3,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "which songs did liam write as you were Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Liam Payne wrote the song \"You Were\" for the group One Direction. He wrote the lyrics very personal, about how he felt after One Direction split up. The song talks about missing his bandmates very much when they weren't around. Liam was feeling very sad and angry at the time because he and his friends had to go their separate ways.",
+      "judgment": "Correctness Reasoning: The response inaccurately states that Liam Payne wrote the song \"You Were\" for One Direction. In reality, \"You Were\" is a song by Liam Payne as a solo artist, not for One Direction. Therefore, the information provided is incorrect. \nCorrectness Score: 3\n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It also provides a clear explanation of the song's themes. \nInstruction Following Score: 9",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who is the girl in green day 21 guns Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The girl in Green Day's song \"21 Guns\" is not about a specific person. It's just a title for the song. The song talks about shooting guns very fast twenty-one times, which some people think represents violence or anger. But it's just the artist expressing feelings through music, not about a real girl.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt regarding who the girl in \"21 Guns\" is. It incorrectly states that the song is not about a specific person, which is misleading. The song does reference a girl in a metaphorical sense, but the response fails to clarify this. Therefore, the correctness score is low.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains a straightforward style throughout. Therefore, the instruction following score is high.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what emperor took over france after the reign of terror Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The person who took over France very soon after the Reign of Terror was Napoleon Bonaparte. He became very powerful and led France for many years afterwards.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Napoleon Bonaparte as the person who took over France after the Reign of Terror, which is correct. It provides a clear and simple explanation of his rise to power.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, making it accessible for non-native speakers. It adheres to the request for clarity and simplicity.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when did ole miss beat alabama in football Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Ole Miss beating Alabama in football is very rare. The last time this happened was in 2017. Alabama is usually very good at playing football, so they don't lose to Ole Miss very often. It's like when you try really hard to win a game, but the other team sometimes gets lucky and beats you.",
+      "judgment": "Correctness Reasoning: The response states that Ole Miss last beat Alabama in 2017, which is incorrect. Ole Miss actually beat Alabama in 2015 and 2016 as well. Therefore, the answer does not accurately address the prompt regarding when Ole Miss beat Alabama in football.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It also provides context about the rarity of the event, which adds to the explanation without complicating the language.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who sings the theme song for living single Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The theme song for \"Living Single\" was sung by a lady named Aaliyah. She's very famous and talented. Her name is sometimes spelled with an 'e' at the end, like Aaliyah.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Aaliyah sang the theme song for \"Living Single.\" The actual artist is Queen Latifah. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. However, it includes unnecessary details about the spelling of Aaliyah's name, which does not directly answer the question.  \nInstruction Following Score: 8  ",
+      "correctness_score": 2,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "where can you find dna in the body Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "DNA is very much like a recipe for making a person. It's very important for keeping us healthy. We can find DNA very very inside almost every cell of our body, which are like tiny building blocks that make up our tissues and organs. So, in very simple terms, if we think of our body as a big house with lots of rooms (which are like different parts of our body), then DNA would be hidden very very in all the rooms, very very inside each little part of the house.",
+      "judgment": "Correctness Reasoning: The response correctly identifies that DNA is found inside almost every cell of the body, which is accurate. However, the explanation using the analogy of a house and rooms may be overly complex for the prompt's request for simplicity. The phrase \"very much like a recipe\" could also be seen as slightly advanced. Overall, while the core information is correct, the explanation could be clearer and simpler.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, adhering to the requirement of using simpler words. However, the repetition of \"very very\" may be seen as excessive and could detract from the clarity of the response. Despite this, the overall tone and language used align with the instruction.  \nInstruction Following Score: 8  ",
+      "correctness_score": 7,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "when was half life 2 episode 2 released Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Half-Life 2 Episode 2 came out very late, in 2010. That's a very long time ago, probably when you were very little.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Half-Life 2 Episode 2 was released in 2010. The actual release date is October 10, 2007. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. However, it could be more direct and concise. Still, it generally follows the instruction well.  \nInstruction Following Score: 8  ",
+      "correctness_score": 2,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "where are the highest average incomes found in north america Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The highest average incomes in North America are found in places like San Francisco, New York City, and Seattle. These cities have many big companies and lots of rich people. People who work there usually earn more money compared to other places. It's like when you have more toys in your toy box than in your friend's box; they have more money too because they work in these places.",
+      "judgment": "Correctness Reasoning: The response accurately identifies cities in North America known for high average incomes, such as San Francisco, New York City, and Seattle. It explains that these cities have many big companies and wealthy individuals, which contributes to higher earnings. The analogy used is simple and helps clarify the point, making the answer correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response uses simple English as instructed, avoiding advanced vocabulary and instead using straightforward language. The analogy provided is also easy to understand, adhering to the instruction to keep the language simple for non-native speakers.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who plays the robot on the orville show Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The robot on the Orville show is played very well by an actor named Scott Grimes.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Scott Grimes as the actor who plays the robot on \"The Orville.\" The character of the robot, known as Isaac, is actually played by Mark Jackson. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It follows the instruction well in terms of language simplicity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who won in the brown vs board of education case Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In the Brown v. Board of Education case, very many people thought schools should be separate based on race. But very importantly, the Supreme Court decided this was wrong. They said that keeping children of different races apart in schools is very bad and goes against the Constitution. This decision helped make schools for all children much better and more equal.",
+      "judgment": "Correctness Reasoning: The response accurately explains the outcome of the Brown v. Board of Education case, stating that the Supreme Court decided that separate schools for different races were wrong and that this decision aimed to improve equality in education. However, it could be clearer about who \"won\" the case, as it does not explicitly state that the plaintiffs (the Brown family) won. Therefore, it is mostly correct but lacks a direct answer to the prompt.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, making it accessible for non-native speakers. It maintains a straightforward tone and uses simple words throughout.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when did frank sinatra first sing new york new york Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Frank Sinatra first sang \"New York, New York\" very early in his career, way back in 1943. This was during the time when he was already becoming famous for singing in movies. He sang this song again later in 1956, which is much more recent compared to 1943. So if you're looking at when it first came out, 1943 was the year.",
+      "judgment": "Correctness Reasoning: The response states that Frank Sinatra first sang \"New York, New York\" in 1943, which is incorrect. The song was actually popularized by him in 1977. The mention of 1956 is also misleading as it does not pertain to the original release of the song. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It also provides a clear timeline, which aligns with the prompt's request for information.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who played the daughters in last man standing Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I'm sorry, but I don't have that specific information readily available. Last Man Standing is a TV show, and I don't remember which actors played the daughters characters. To find out, you might want to look up the cast list for that particular season or episode.",
+      "judgment": "Correctness Reasoning: The response does not answer the prompt, which asks for the names of the actresses who played the daughters in \"Last Man Standing.\" Instead, it states that the information is not readily available, which is not helpful. Therefore, it fails to provide the correct information requested.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response does not use simple English as requested. Phrases like \"specific information readily available\" and \"look up the cast list\" are not in simple language. The response also does not directly answer the question, which goes against the instruction to provide a straightforward answer.  \nInstruction Following Score: 3  ",
+      "correctness_score": 1,
+      "instruction_following_score": 3
+    },
+    {
+      "prompt": "what is the name for the ch3coo- ion Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The name for the ch3coo- ion is acetate. It's like calling it the \"Acid Tail\" but in a less silly way.",
+      "judgment": "Correctness Reasoning: The response correctly identifies the name of the CH3COO- ion as acetate. However, the explanation \"it's like calling it the 'Acid Tail' but in a less silly way\" is not a standard or clear way to describe the ion, which may confuse non-native speakers. Therefore, while the main answer is correct, the additional explanation detracts from clarity.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. However, the phrase \"Acid Tail\" could be considered a bit informal and potentially confusing, which slightly impacts the adherence to the instruction.  \nInstruction Following Score: 8  ",
+      "correctness_score": 7,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "who got the most rings in the nba Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The player who got the most rings in the NBA is Kareem Abdul-Jabbar. He won 6 championships during his career.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Kareem Abdul-Jabbar has the most NBA championships. The player with the most rings is Bill Russell, who won 11 championships. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It follows the instruction well in terms of language simplicity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "where are the first nations located in canada Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The first nations people are very spread out across Canada. They live in very different places like forests, mountains, and deserts. Some very first nations live very close to big cities, while others are very far away in very cold places where there's snow all year round. It's very important to know that each group of first nations people have their very own special places they call home.",
+      "judgment": "Correctness Reasoning: The response provides a general idea that First Nations people are spread out across Canada and live in various environments. However, it lacks specific information about the regions or provinces where First Nations are located, which is essential to accurately answer the prompt. Therefore, it does not fully meet the requirements of the prompt.  \nCorrectness Score: 5  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. The repetition of \"very\" is excessive but does not detract from the overall simplicity of the language used. Thus, it follows the instruction well.  \nInstruction Following Score: 8  ",
+      "correctness_score": 5,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "love yourself by justin bieber is about who Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "\"Love Yourself\" by Justin Bieber is very much about you being nice to yourself when you feel very sad or angry inside. It's like when you're not feeling good and you need someone to be there for you and tell you everything will be okay. The song is encouraging people to be kind to themselves during tough times.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt regarding who the song \"Love Yourself\" is about. Instead, it discusses the theme of self-love without identifying the specific person or relationship referenced in the song, which is about a past romantic relationship. Therefore, it does not fulfill the requirement of the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains a clear and straightforward style throughout.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "five tools of security management to overcome computer crime Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Sure, I'll explain five ways to keep computers safe from bad guys. These are like the superhero tools for defending your digital castle:\n\n1. **Firewalls**: Think of it like a gate at the entrance of your house. It checks who is allowed into your computer or network to make sure only friendly people come in.\n\n2. **Antivirus Software**: This is like having a very smart guard dog around your home. The dog can sniff out and stop bad stuff before it gets inside.\n\n3. **Strong Passwords**: Just like you have a lock on your front door, your computer needs a strong password to keep bad people out. Don't use the same password everywhere though!\n\n4. **Regular Updates**: Imagine if your home was always up-to-date with the latest locks and alarms. Computers need regular updates too to stay protected against new threats.\n\n5. **Training Your Team**: Just like how you teach your friends how to be careful when playing outside, teaching everyone who uses your computer how to spot bad things happening is very important.\n\nUsing these tools together can help keep your computer and all the information inside very safe.",
+      "judgment": "Correctness Reasoning: The response accurately identifies five tools of security management to combat computer crime and explains each tool in simple English, making it accessible for non-native speakers. Each explanation is clear and relevant to the prompt. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, making it suitable for non-native speakers. The format is clear, and each tool is presented in a straightforward manner. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the movie about six degrees of separation Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The movie \"Six Degrees of Separation\" tells a story about a man who believes everyone is connected to everyone else by just six people. He meets a very rich and powerful man who likes his theory. The rich man asks the other guy to pretend he stole some money, thinking he could get away with it because of their connection. But when the rich man gets caught, they both get into big trouble. It's a story about trust and how far you might go for someone you think you know very well.",
+      "judgment": "Correctness Reasoning: The response provides a general overview of the movie's plot, mentioning the main character's theory and the interaction with the rich man. However, it inaccurately describes the events, particularly the part about pretending to steal money, which is not a central theme of the movie. The focus on trust is relevant, but the details are misleading. Therefore, the response does not accurately capture the essence of the film.  \nCorrectness Score: 5  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it accessible for non-native speakers. The language is straightforward and easy to understand, fulfilling the requirement of using simpler words.  \nInstruction Following Score: 10  ",
+      "correctness_score": 5,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is the boy who played charlie in willy wonka Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The boy who played Charlie in Willy Wonka is named Toby Maguire. He was very young when he played that role in the movie. Toby Maguire later became famous for playing other characters too, like Spider-Man.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Toby Maguire as the actor who played Charlie in \"Willy Wonka.\" The correct actor is Peter Ostrum. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. However, it does not fully follow the instruction as it provides incorrect information about the actor.  \nInstruction Following Score: 8  ",
+      "correctness_score": 2,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "who became the it company ceo in 2016 Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In 2016, Satya Nadella became the CEO of the IT company Microsoft very suddenly. He took over from Steve Ballmer who had been the CEO for many years before that. It was a surprise change because people expected another person to become the new CEO at first.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Satya Nadella as the CEO of Microsoft in 2016 and provides relevant context about the change in leadership. However, the phrase \"very suddenly\" is misleading as it implies an unexpected event rather than a planned transition. Therefore, while the main fact is correct, the additional context could lead to confusion. \nCorrectness Score: 7\n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. The structure is clear and straightforward, which aligns well with the instruction provided. \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many seasons of the glades were made Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "There were very few seasons of The Glades made. It had just two seasons total.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that \"The Glades\" had \"just two seasons total.\" In reality, \"The Glades\" had four seasons. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. It uses straightforward language that is easy to understand for non-native speakers.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the pirates of the caribbean in order Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Pirates of the Caribbean movie series tells a story about very exciting adventures. It's like a big adventure book that becomes a movie. The movies are not in one order like counting numbers, but they all take place in a world with many pirates and treasure hunts.\n\n1. The first movie is called \"Pirates of the Caribbean: The Curse of the Black Pearl\". It's the start of the adventures.\n2. Then there's \"Dead Man's Chest\", which talks about more adventures and a very important treasure.\n3. After that, there's \"At World's End\", where they try to stop a very powerful pirate from taking over the whole sea.\n4. Lastly, there's \"On Stranger Tides\", which has some very unusual things happening because of an old pirate story.\n\nSo, it's like a long journey through different adventures for pirates, with lots of exciting moments.",
+      "judgment": "Correctness Reasoning: The response does not accurately list the movies in the correct order. The correct order of the \"Pirates of the Caribbean\" films is: \"The Curse of the Black Pearl,\" \"Dead Man's Chest,\" \"At World's End,\" \"On Stranger Tides,\" and \"Dead Men Tell No Tales.\" The response also fails to mention the last movie, which is essential for completeness. Therefore, the correctness score is low.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It also provides a list format for the movies, which aligns with the prompt's request for order. Therefore, the instruction following score is high.  \nInstruction Following Score: 8  ",
+      "correctness_score": 3,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "what is the big gold dome in jerusalem Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "There's no very big gold dome in Jerusalem. The most famous dome in Jerusalem is on the top of a church called the Church of the Holy Sepulcher. It's very shiny gold and very pretty. There's also another gold dome on a mosque nearby called the Dome of the Rock, but it's not in Jerusalem itself. Jerusalem is a city with many religious buildings, and both of these have gold domes. If you're asking about something very specific, could you please tell me more? I'm here to help explain.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that the Dome of the Rock is not in Jerusalem, which is factually wrong. The Dome of the Rock is indeed located in Jerusalem. Additionally, the response does not clearly identify the Dome of the Rock as the \"big gold dome\" mentioned in the prompt, which is the main focus of the question. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It also attempts to clarify the question by asking for more details, which aligns with the instruction to provide a helpful response.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "where is fe best absorbed in the body Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Ferrous, which is another name for iron, is very well absorbed in the duodenum, which is a part of the small intestine. This part of the body is very good at taking in iron from what we eat or drink.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the duodenum as the part of the body where iron is best absorbed, which directly answers the prompt. However, it uses the term \"ferrous\" instead of simply stating \"iron,\" which could be confusing for non-native speakers. This slightly detracts from the overall correctness.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response generally follows the instruction to use simple English, but the use of the term \"ferrous\" is not in line with the request for very simple vocabulary. Despite this, the overall explanation is clear and understandable.  \nInstruction Following Score: 7  ",
+      "correctness_score": 8,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "the cast of don't tell mom the babysitter's dead Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The main cast of \"Don't Tell Mom the Babysitter's Dead\" included actors like Nancy Kwan who played the babysitter. Other important people were David本应该继续，但你似乎需要一个完整的答案。实际上，这部电影的主要演员有南茜·库万（Nancy Kwan）扮演的保姆角色。其他重要成员还包括了罗伯特·米彻姆（Robert Mitchum）饰演的丈夫，和伊丽莎白·泰勒（Elizabeth Taylor）饰演的妻子。这部电影讲述了一个保姆在试图掩盖她被谋杀的真相时发生的有趣故事。",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the cast members of \"Don't Tell Mom the Babysitter's Dead.\" Nancy Kwan is not in the film, and the roles mentioned (Robert Mitchum and Elizabeth Taylor) are also incorrect. The film features different actors, such as Christina Applegate and Keith Coogan. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not follow the instruction to use simple English. It includes names and terms that may not be easily understood by non-native speakers, and it also contains a mix of English and Chinese, which does not adhere to the instruction to use only simple English. However, it does attempt to provide a complete answer about the cast, which is a positive aspect.  \nInstruction Following Score: 4  ",
+      "correctness_score": 2,
+      "instruction_following_score": 4
+    },
+    {
+      "prompt": "how many hoops are used in a game of croquet Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In a game of croquet, very few hoops are used. There are usually 4 hoops, placed at the end of each side of the field. Players hit a small ball through these hoops very quickly, and the number of hoops they pass through helps them score points.",
+      "judgment": "Correctness Reasoning: The response states that there are usually 4 hoops in a game of croquet, which is incorrect. A standard game of croquet typically uses 6 hoops. Therefore, the answer does not accurately reflect the correct number of hoops used in a game of croquet.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, making it accessible for non-native speakers. It follows the instruction to use simpler words effectively.  \nInstruction Following Score: 10  ",
+      "correctness_score": 4,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who ran the fastest 40 yard dash in the nfl Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The fastest 40-yard dash in the NFL was run by Saquon Barkley from the New York Giants. He ran it very fast, like super quick! But remember, this number might change if someone else beats his time in the future.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that Saquon Barkley holds the record for the fastest 40-yard dash in the NFL. The correct record is held by John Ross, who ran it in 4.22 seconds. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It also provides a clear answer to the prompt, even though the answer is incorrect.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "another name for the torso is the blank region of the body Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The another name for the torso is the midsection of the body.",
+      "judgment": "Correctness Reasoning: The response correctly identifies \"midsection\" as another name for the torso, which is accurate. However, it could be considered slightly more advanced than the simplest terms, as \"midsection\" may not be as universally understood as \"middle\" or \"center.\" Still, it is a valid synonym.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response follows the instruction to use simple English, but \"midsection\" might not be the simplest term available. It does not use any advanced vocabulary, which aligns with the instruction.  \nInstruction Following Score: 8  ",
+      "correctness_score": 8,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "what is the oldest street in the philippines Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The very oldest street in the Philippines is called Rizal Street in Manila. It's very old, older than even some of the buildings on it. People say it's very old because it was very old when it was first made. If you're very curious to see it, you could go to where the streets meet at Plaza Rizal in the heart of Manila.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Rizal Street as the oldest street in the Philippines. The oldest street is actually Calle Crisologo in Vigan, Ilocos Sur. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It also provides a location related to the street mentioned, which adds context.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is the population of st petersburg fl Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I don't have the exact number right now, but St. Petersburg, Florida's population is very large. To give you an idea, it's very big, like when you have many toys in your room. If you count all the people living there, it would be a very long time to finish counting.",
+      "judgment": "Correctness Reasoning: The response does not provide an accurate or specific population figure for St. Petersburg, Florida. Instead, it uses vague comparisons and does not fulfill the request for a clear answer. Therefore, it fails to meet the correctness criteria.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. However, it does not provide a specific answer as requested, which slightly detracts from the instruction following. Nonetheless, it still follows the instruction to use simple language.  \nInstruction Following Score: 7  ",
+      "correctness_score": 2,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "who plays noah newman on the young and the restless Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I'm sorry, but I don't have this information readily available. Noah Newman is a character on the TV show \"The Young and the Restless,\" but I don't know who the actor was when he first appeared there. To find out who plays Noah now, you might want to check recent news about the show or look up current cast lists.",
+      "judgment": "Correctness Reasoning: The response does not provide the name of the actor who plays Noah Newman, which is the main question asked in the prompt. Instead, it suggests looking up information elsewhere, which does not directly answer the question. Therefore, the correctness score is low.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response does not use simple English as requested. Phrases like \"I don't have this information readily available\" and \"you might want to check recent news\" are more complex than necessary for non-native speakers. However, it does follow the instruction to not use advanced vocabulary. Therefore, the instruction following score is moderate.  \nInstruction Following Score: 6  ",
+      "correctness_score": 2,
+      "instruction_following_score": 6
+    },
+    {
+      "prompt": "when was the last time the military drafted Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The last time the military drafted someone happened a very long time ago, probably before you were born or even before your parents were born. So, today's military doesn't draft new people very often. Instead, they choose from people who want to join the military and have gone through special training.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific date or clear information about the last military draft, which was during the Vietnam War in 1973. Instead, it gives vague information that does not accurately answer the prompt. Therefore, the correctness score is low.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It follows the instruction well in terms of language simplicity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "where is the world's largest thermometer located Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The world's largest thermometer isn't really a thermometer but a very big sculpture called the World's Largest Temperature Sculpture. It's very large and made of ice, and you can find it in Chibok, Nigeria. This special ice sculpture is very cold and helps to show how very hot temperatures can feel when it's very cold outside. People visit it to see this very big ice structure that they can touch and feel its very coldness.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the world's largest thermometer as a sculpture and states that it is located in Chibok, Nigeria. The actual world's largest thermometer is located in Baker, California, and it is not made of ice. Therefore, the information provided is factually incorrect.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. However, it does not directly answer the prompt about the location of the world's largest thermometer, which affects the overall effectiveness of the response. Nonetheless, it follows the instruction regarding language simplicity.  \nInstruction Following Score: 7  ",
+      "correctness_score": 2,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "who holds the world record for the most world records Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The person who holds the world record for the most world records is Retired sprinter Carl Lewis. He won 9 gold medals in the Olympic games and also won a lot of world records in track and field events like running and jumping. Carl Lewis was very good at sports.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies Carl Lewis as the person who holds the world record for the most world records. The correct individual is Ashrita Furman, who has set numerous Guinness World Records. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It also provides a clear explanation of Carl Lewis's achievements in sports, which aligns with the prompt's request for information.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is the final season of downton abbey Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The final season of Downton Abbey came out very recently. It finished with 6 episodes. Some people got very upset because they wanted to see more stories from their favorite characters. But the showrunners decided to wrap everything up nicely after many years of adventures at Downton.",
+      "judgment": "Correctness Reasoning: The response accurately states that the final season of Downton Abbey consists of 6 episodes and mentions that it concluded the story. However, it does not specify that the final season is Season 6, which is a key detail in answering the prompt fully. Therefore, while the main points are correct, the lack of specificity affects the overall correctness.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It maintains a straightforward style throughout, which aligns well with the given instruction.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the last year the eagles went to the superbowl Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The last time the Philadelphia Eagles went to the Super Bowl was very recent. It was in the 2018 season. They played against the New England Patriots and lost. So, if you're asking about when they were last there, that would be 2018. But remember, football seasons change every year, so they might go again in the future.",
+      "judgment": "Correctness Reasoning: The response accurately states that the last time the Philadelphia Eagles went to the Super Bowl was in the 2018 season. However, it incorrectly mentions that they lost, which is misleading since they actually won that Super Bowl. Therefore, the answer is partially correct but contains a significant error regarding the outcome of the game.  \nCorrectness Score: 6  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, making it accessible for non-native speakers. It follows the instruction to use simpler words effectively. However, it could be more concise by omitting the additional information about future seasons, which is not directly related to the prompt. Nonetheless, it still adheres to the instruction overall.  \nInstruction Following Score: 8  ",
+      "correctness_score": 6,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "who wrote the text for jeanie with the light brown hair Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Jeannie with the Light Brown Hair was written by a man named Betty Crocker. She's like a character from baking boxes, you know, like when you see those colorful boxes with fun names on them. Betty Crocker is famous for making recipes, and she wrote this story about a doll with light brown hair. It was very popular back then.",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the authorship of \"Jeanie with the Light Brown Hair\" to Betty Crocker, who is not the author. The actual author is Stephen Foster. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 1  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. However, the content is misleading due to the incorrect authorship. Still, it follows the instruction regarding language simplicity.  \nInstruction Following Score: 8  ",
+      "correctness_score": 1,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "when is the last time the vikings were in the nfc championship Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Vikings were in the NFC Championship very recently, actually in 2020. It's been quite some time since then. They lost that game, but they came very close to winning it all.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that the Vikings were in the NFC Championship in 2020. The last time the Vikings played in the NFC Championship game was in 2017. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It also provides a clear answer to the question, even though the answer is incorrect.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who proclaimed 5th october as world’s teachers day Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Very few people know who declared October 5th as World Teachers' Day. It was very much a surprise to many. Some say the United Nations made this decision, but there is no very clear record of who exactly did it. It was done to very much show how important teachers are in very educating young minds and helping them learn about very different things in the world.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, as it fails to identify who specifically proclaimed October 5th as World Teachers' Day. Instead, it provides vague information about the United Nations without confirming it as the correct answer. Therefore, the response lacks correctness.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to use simpler words. However, it does not directly answer the question, which slightly detracts from its effectiveness. Still, it generally follows the instruction to use simple language.  \nInstruction Following Score: 7  ",
+      "correctness_score": 3,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "how many paintings of sunflowers did van gogh paint Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Vincent van Gogh painted quite a few paintings of sunflowers, but the most famous ones are three paintings. He painted them twice: once in his hometown of Arles in France, and again in Paris. So in total, he painted four sunflower paintings.",
+      "judgment": "Correctness Reasoning: The response states that van Gogh painted \"three paintings\" of sunflowers and then mentions \"four sunflower paintings,\" which is contradictory. The correct number of distinct sunflower paintings is generally considered to be around seven, including variations. Therefore, the response is factually incorrect.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It follows the instruction well in terms of language simplicity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 4,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "aphasia is a term defining difficulty or loss of ability to Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Aphasia is when someone has trouble very talking or understanding words very well. It's like they're having a hard time very using words to explain things or understand what others are saying very.",
+      "judgment": "Correctness Reasoning: The response accurately describes aphasia as a condition that affects a person's ability to talk and understand words. However, the use of \"very\" multiple times is unnecessary and does not enhance the clarity of the explanation. Therefore, while the core concept is correct, the execution is slightly flawed.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. However, the repeated use of \"very\" is excessive and does not align with the instruction to keep the language simple and clear. Despite this, the overall adherence to the instruction is strong.  \nInstruction Following Score: 8  ",
+      "correctness_score": 7,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "who plays dusty in the movie pure country Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In the movie \"Pure Country\", Dusty is played by an actor named Travis Hutson.",
+      "judgment": "Correctness Reasoning: The response incorrectly identifies the actor who plays Dusty in \"Pure Country.\" The correct actor is George Strait, not Travis Hutson. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, which aligns with the instruction to make it easy for non-native speakers to understand. It follows the instruction well in terms of language simplicity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "what is billy last name in where the red fern grows Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In the book \"Where the Red Fern Grows\", Billy's last name is Walters.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Billy's last name as Walters, which is correct according to the book \"Where the Red Fern Grows.\" \nCorrectness Score: 10\n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who sang let me tell you about the birds and the bees Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The song \"Let Me Tell You About the Birds and the Bees\" was very often sung by a group called The Weavers. They did it very early, way back in 1958. Many other artists have also performed this song since then, but The Weavers were very famous for singing it first.",
+      "judgment": "Correctness Reasoning: The response correctly identifies The Weavers as the group that sang the song \"Let Me Tell You About the Birds and the Bees\" and provides accurate information about the year they performed it. However, it could be misleading as it implies they were the first to sing it, while other artists may have also sung it before them. Therefore, the correctness is slightly affected.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It maintains clarity and simplicity throughout.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the money called in south korea Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In South Korea, the money they use is called \"wons\". They write it with a symbol like this ₩. So when you see those little circles with a line in South Korea, that's their money!",
+      "judgment": "Correctness Reasoning: The response accurately identifies the currency used in South Korea as \"wons\" and explains the symbol associated with it. The information provided is correct and clear.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. It uses straightforward language that is easy for non-native speakers to understand.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who did the broncos beat in the super bowl Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Broncos beat the Pittsburgh Steelers very easily in the Super Bowl. They were very happy about winning and felt very proud. The Steelers were very angry because they lost the game.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that the Broncos beat the Pittsburgh Steelers in the Super Bowl. The Broncos have faced the Steelers in the playoffs, but they have not played against them in a Super Bowl. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It also provides a clear answer to the prompt, even though the answer is factually incorrect.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who sings will you still love me when i'm not young and beautiful Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The song \"Will You Still Love Me When I'm Not Young and Beautiful?\" was sung by a group called Shen Wei. They're from China. The exact members of the group aren't very well known to everyone outside China, but they performed this song in the 1980s.",
+      "judgment": "Correctness Reasoning: The response incorrectly attributes the song \"Will You Still Love Me When I'm Not Young and Beautiful?\" to a group called Shen Wei. The song is actually performed by Lana Del Rey. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, which aligns with the instruction to make it easy for non-native speakers to understand. However, it does not provide the correct artist, which is a significant issue. Still, the language used is appropriate for the instruction.  \nInstruction Following Score: 8  ",
+      "correctness_score": 2,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "name the cell which is attached to the lateral side of sieve tube Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The cell very close to the side of the sieve tube is called the companion cell.",
+      "judgment": "Correctness Reasoning: The response correctly identifies the companion cell as the cell attached to the lateral side of the sieve tube, which is accurate information in the context of plant biology. \nCorrectness Score: 10\n\nInstruction Reasoning: The response follows the instruction to use simple English, avoiding advanced vocabulary and using straightforward language. It effectively communicates the answer in a way that is accessible to non-native speakers. \nInstruction Following Score: 10",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when do you get your white coat in pharmacy school Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In pharmacy school, students usually get their white coat at the end of their first year or right after they finish their required courses. It's like a special sign that you've finished one important part of your studies and are ready to learn more.",
+      "judgment": "Correctness Reasoning: The response accurately states that students typically receive their white coat at the end of their first year or after completing required courses, which aligns with common practices in pharmacy schools. Therefore, it correctly answers the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It follows the instruction well.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when did university stop being free in australia Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "University in Australia wasn't free very long ago. It became more expensive very gradually over many years. Some people thought it was unfair when universities started charging students money for education. But it's been like this for quite a while now, since the 1980s or maybe even before. A lot of people have been angry about this change because they used to be able to go to university without paying any money. However, they also think that making universities pay for themselves helps them improve and become better schools.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific date or clear timeline for when university stopped being free in Australia. It mentions the 1980s but lacks precision and clarity regarding the exact changes that occurred. Therefore, it does not accurately answer the prompt.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains a straightforward style throughout.  \nInstruction Following Score: 10  ",
+      "correctness_score": 4,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where is dakar located on the world map Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Dakar is very close to the west side of Africa. If you imagine a big map with different parts of the world, Dakar is very near the bottom right corner of that part. It's very close to the ocean too, almost like it's sitting right next to a big bathtub filled with water.",
+      "judgment": "Correctness Reasoning: The response accurately describes the location of Dakar as being on the west side of Africa and near the ocean. However, it incorrectly states that Dakar is near the \"bottom right corner\" of Africa, which is misleading since it is actually located on the western coast. This inaccuracy affects the overall correctness of the response.  \nCorrectness Score: 6  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. The analogy of Dakar being \"almost like it's sitting right next to a big bathtub filled with water\" is a creative way to describe its proximity to the ocean, which aligns with the instruction to use simple language.  \nInstruction Following Score: 10  ",
+      "correctness_score": 6,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the biltmore house opened to the public Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Biltmore House became open to the public very early, in 1895. That's when George Vanderbilt, who built it, decided to let people visit his big house and beautiful gardens. Some people might be very curious about this place because it's one of the largest houses ever built in America. But if anyone got very angry or upset about something, they probably wouldn't have let visitors see it right away.",
+      "judgment": "Correctness Reasoning: The response correctly states that the Biltmore House opened to the public in 1895, which directly answers the prompt. However, the additional information about people being curious or angry is not relevant to the question asked. This detracts slightly from the overall correctness of the response.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. The structure is clear and straightforward, which aligns well with the instruction provided.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what are the spices in chinese 5 spice powder Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Chinese five-spice powder is very tasty and contains very special spices. It's got very strong flavors of very many kinds of spices mixed together. Very commonly, it includes very cinnamon, very star anise, very fennel seeds, very cloves, and very Szechuan peppercorns. These very spices work very well together to give food a very nice taste.",
+      "judgment": "Correctness Reasoning: The response lists the correct spices typically found in Chinese five-spice powder, which are cinnamon, star anise, fennel seeds, cloves, and Szechuan peppercorns. However, the use of \"very\" before each spice is unnecessary and does not enhance the clarity of the answer. Therefore, while the spices are correct, the excessive use of \"very\" detracts from the overall quality of the response.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. However, the repeated use of \"very\" is excessive and does not align with the instruction to keep the language simple and clear. Despite this, the overall tone and vocabulary remain accessible for non-native speakers.  \nInstruction Following Score: 8  ",
+      "correctness_score": 7,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "chief ministers of tamil nadu mentioned on wikipedia Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Sure, I can help with that. But to be honest, as of now, Wikipedia doesn't have a list of all the chief ministers of Tamil Nadu. The information might be there, but it's not easy to find right away. Chief ministers are like very important leaders who help run the state of Tamil Nadu, which is a big place in India where people speak Tamil. Sometimes, these leaders change, kind of like when you might get a new teacher at school.",
+      "judgment": "Correctness Reasoning: The response inaccurately states that Wikipedia does not have a list of chief ministers of Tamil Nadu, which is incorrect. Wikipedia does have this information, and the response fails to provide any names or relevant details about the chief ministers, which is what the prompt asks for. Therefore, the response does not accurately answer the prompt.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to use simpler words. It also maintains a conversational tone that is easy to understand for non-native speakers. However, it does not provide the requested list of chief ministers, which is a significant part of the instruction. Despite this, the language used is appropriate for the audience.  \nInstruction Following Score: 6  ",
+      "correctness_score": 2,
+      "instruction_following_score": 6
+    },
+    {
+      "prompt": "what is the name of the lymphatic vessels located in the small intestine Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The very important lymphatic vessels found in the small intestine are called intestinal lymphatics or villous lymphatics. They help very much in moving things around inside the small intestine.",
+      "judgment": "Correctness Reasoning: The response correctly identifies the lymphatic vessels in the small intestine as \"intestinal lymphatics\" or \"villous lymphatics.\" However, it could be clearer and more direct in stating the name without additional information that may confuse non-native speakers. The phrase \"help very much in moving things around\" is vague and does not directly relate to the function of these vessels. Overall, the answer is mostly correct but lacks clarity.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. However, the phrase \"very important\" could be simplified further, and the explanation could be more concise. Despite these minor issues, the response generally follows the instruction well.  \nInstruction Following Score: 8  ",
+      "correctness_score": 7,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "how many games in a row have the uconn women's basketball team won Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The UConn Women's Basketball Team has won many games in a row, but I don't have the exact number right now. To find out how many they've won in a row recently, you might want to check their latest games on the internet or watch their next game to see if they win again.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific number of games that the UConn women's basketball team has won in a row, which is the main question asked in the prompt. Instead, it suggests checking online for the information, which does not directly answer the question. Therefore, the correctness score is low.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. It follows the instruction well in terms of language simplicity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "where is lord's prayer found in bible Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Lord's Prayer is found in the Bible very close to the middle. It's in a book called the New Testament, and it's on page 61 of some versions. The specific place is Matthew chapter 6, verses 9 through 13.",
+      "judgment": "Correctness Reasoning: The response accurately identifies the location of the Lord's Prayer in the Bible, specifying that it is found in the book of Matthew, chapter 6, verses 9 through 13. However, stating that it is \"very close to the middle\" and \"on page 61 of some versions\" is misleading, as page numbers can vary widely between different editions of the Bible. Therefore, while the main information is correct, the additional details about the page number and its position in the Bible are not universally applicable. \nCorrectness Score: 7\n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains clarity and simplicity throughout the explanation. \nInstruction Following Score: 10",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "mark who went to golf majors in 1998 Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "In 1998, very few people went to the big golf games called majors. Only one player, Scott Simpson, was very lucky to play in all four of those big golf games that year.",
+      "judgment": "Correctness Reasoning: The response incorrectly states that only Scott Simpson played in all four majors in 1998. In reality, multiple players participated in the golf majors that year, including well-known golfers like Tiger Woods and Phil Mickelson. Therefore, the information provided is not accurate.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It also directly answers the prompt about who went to golf majors in 1998.  \nInstruction Following Score: 10  ",
+      "correctness_score": 2,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who developed the central processing unit (cpu) Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The very first CPU was made by Intel, a big company that makes computer parts. They worked very hard to create this very important part of computers that does lots of work very fast. Other companies like AMD also make CPUs, but Intel is very well known for their CPUs.",
+      "judgment": "Correctness Reasoning: The response accurately identifies Intel as the company that developed the first CPU and mentions AMD as another company that makes CPUs. However, it could be misleading as it implies Intel was the sole developer of the CPU, while the concept of a CPU has evolved over time with contributions from various individuals and companies. Therefore, it is not entirely correct.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains clarity and simplicity throughout.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when was the nobel prize for literature first awarded Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The Nobel Prize for Literature was very first given out way back in 1901. It was very much like giving prizes to people who write very good stories or poems. So, if you're very curious, it was very long ago, right after a big person named Alfred Nobel died and decided to give prizes to nice people for their writing.",
+      "judgment": "Correctness Reasoning: The response accurately states that the Nobel Prize for Literature was first awarded in 1901. It also explains the context of Alfred Nobel's decision to establish the prizes, which is relevant to the prompt. However, the phrase \"very much like giving prizes to people who write very good stories or poems\" is somewhat vague and could be simplified further. Overall, the main fact is correct, but the additional explanation could be clearer.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. It uses basic words and phrases that are easy to understand for non-native speakers. The structure of the response is clear and adheres to the instruction provided.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "where are alkali metals located on the periodic table Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Alkali metals are very close to each other on the periodic table. They start right after helium and go all the way down to francium. If you imagine the table like a big line, they're all standing very closely together at the bottom left side of this line. They're very important because they react very quickly with water, sometimes even making steam (which is like very hot water) when they touch it. It's kind of like if you touched them, they would make a little explosion!",
+      "judgment": "Correctness Reasoning: The response inaccurately states that alkali metals start right after helium. In reality, alkali metals are located in Group 1 of the periodic table, starting from lithium (Li) and going down to cesium (Cs) and francium (Fr). Helium is in Group 18, which is not related to alkali metals. Therefore, the information provided is incorrect.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It also provides a visual description of the periodic table, which aligns with the prompt's request for clarity.  \nInstruction Following Score: 9  ",
+      "correctness_score": 3,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "who has the power to approve or veto legislation constitution Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The person or group that has the power to approve or veto legislation very often depends on the country's constitution. In some countries, this power is very important for one person, like the president. In others, it could be a group of people, like the parliament. The person or group decides whether they like a new law or not. If they do not agree with the new law, they can veto it, which means they say no to it. If they agree with it, they can approve it, which means they say yes to it.",
+      "judgment": "Correctness Reasoning: The response accurately explains that the power to approve or veto legislation often lies with a person, such as a president, or a group, like a parliament, depending on the country's constitution. It also correctly defines \"veto\" and \"approve\" in simple terms. However, it could be clearer about the specific roles in different countries, which slightly affects the completeness of the answer. \nCorrectness Score: 8\n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, making it accessible for non-native speakers. It maintains clarity and simplicity throughout the explanation. \nInstruction Following Score: 10",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who supported states rights during the civil war Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "During the Civil War, very few people supported states rights. The main groups that did were some slave owners who wanted to keep their slaves and some Southern states. They thought they should be able to make their own rules without the government telling them what to do. But most Americans thought the federal government should have more control over everything. They believed in a stronger central government that could make decisions for all the states.",
+      "judgment": "Correctness Reasoning: The response inaccurately states that \"very few people supported states rights\" during the Civil War. In fact, many Southern states and their leaders strongly supported states' rights as a key reason for their secession and the war itself. The explanation about slave owners is somewhat correct, but it does not fully capture the widespread support for states' rights among Southern states. Therefore, the answer does not accurately address the prompt.  \nCorrectness Score: 4  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains a straightforward style throughout, which aligns with the requirement.  \nInstruction Following Score: 10  ",
+      "correctness_score": 4,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "who hung the lanterns in the old north church Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Very long ago, very smart people called minutemen hung the lanterns in the old North Church to very quickly tell other people about very bad men coming very soon. They did this because they were very worried that those bad men would come and surprise the other people who were very important.",
+      "judgment": "Correctness Reasoning: The response correctly identifies that the minutemen hung the lanterns in the Old North Church to signal the approach of British troops. However, it lacks some historical context, such as mentioning Paul Revere's role in the event, which is a significant part of the story. Therefore, while the main idea is conveyed, it is not fully accurate in terms of historical detail.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary, making it accessible for non-native speakers. The use of \"very\" to emphasize points aligns with the instruction to use simpler words.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "what is the full form of ib board Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The full form of IB Board is International Baccalaureate Board. It's like saying \"big group of people who help schools give special tests to students around the world.\"",
+      "judgment": "Correctness Reasoning: The response accurately provides the full form of \"IB Board\" as \"International Baccalaureate Board.\" It also explains the purpose of the board in simple terms, making it understandable for non-native speakers. Therefore, the correctness of the answer is high.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. It uses straightforward language that is accessible to non-native speakers. Thus, it adheres well to the instruction provided.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when does the dlc for rainbow six siege come out Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I'm sorry, but the exact release date for new DLC (Downloadable Content) for Rainbow Six Siege is not something I know for sure because it might change. It's best to check the official game website or app for the most up-to-date information. They usually announce these details well in advance.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific answer to the question about when the DLC for Rainbow Six Siege comes out. Instead, it states that the exact release date is unknown and suggests checking the official website, which does not fulfill the prompt's request for a straightforward answer.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. However, it does not directly answer the question, which is a key part of the instruction.  \nInstruction Following Score: 7  ",
+      "correctness_score": 3,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "when did hootie and the blowfish come out Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Hootie and the Blowfish came out very early in 1994. They released their first album called \"Release the Stars\" on January 4, 1994. So if you're looking for when they became very popular, that happened later, around 1995 with their second album \"Crashing Tone Frequencies\".",
+      "judgment": "Correctness Reasoning: The response inaccurately states that Hootie and the Blowfish released their first album \"Release the Stars\" on January 4, 1994. Their actual debut album is \"Cracked Rear View,\" which was released on July 5, 1994. The mention of their second album \"Crashing Tone Frequencies\" is also incorrect, as it does not exist. Therefore, the response does not accurately answer the prompt regarding when Hootie and the Blowfish came out.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It provides a clear timeline of events related to the band, even though the details are incorrect. Thus, it follows the instruction well.  \nInstruction Following Score: 9  ",
+      "correctness_score": 2,
+      "instruction_following_score": 9
+    },
+    {
+      "prompt": "when did the wall go up in east germany Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "The wall went up very quickly in East Germany very soon after World War II ended. It was put up in 1961. People from West Germany could not come to visit their families in East Germany very often because of this wall. Many people were very angry about this.",
+      "judgment": "Correctness Reasoning: The response accurately states that the Berlin Wall was erected in 1961, which is the correct answer to the prompt. It also provides context about the impact of the wall on families, which is relevant information. However, the phrase \"very quickly\" is somewhat misleading as it implies a rapid construction process rather than the political context leading to its erection. Overall, the main fact is correct, but the additional context could be clearer.  \nCorrectness Score: 8  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. The language is straightforward, and the structure is clear, which aligns well with the instruction provided.  \nInstruction Following Score: 10  ",
+      "correctness_score": 8,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many countries does cadbury sell its products Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Cadbury sells its products very widely, in many different countries around the world. It's like when you have a favorite candy and you find it in lots of stores where people live. Cadbury is in many places very far from each other, from Europe to Africa and even some places in Asia. So, very many people can buy Cadbury products there.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific number of countries where Cadbury sells its products, which is what the prompt asks for. Instead, it gives a vague description of the global reach of Cadbury without quantifying it. Therefore, it does not accurately answer the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. It maintains a clear and straightforward style throughout.  \nInstruction Following Score: 10  ",
+      "correctness_score": 3,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "when did michael jordan return to the nba Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Michael Jordan came back to play in the NBA very late, after he had retired for a few years. He played his last game in 1998, but then he came back to play again from 2001 to 2003. He got very excited to play basketball again after taking some time off.",
+      "judgment": "Correctness Reasoning: The response accurately states that Michael Jordan returned to the NBA after retiring, specifying the years he played after his return. However, it does not clearly mention the exact year of his return, which is 2001. This omission affects the overall correctness of the answer.  \nCorrectness Score: 7  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it easy for non-native speakers to understand. It maintains a straightforward style throughout.  \nInstruction Following Score: 10  ",
+      "correctness_score": 7,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many times have real madrid won the champions league in a row Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Real Madrid hasn't won the Champions League in a row very often. They last did it in 2016-2017. Before that, they had to wait for quite some time to win again. It's like trying to catch a really fast butterfly - sometimes you get it, other times you don't.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt regarding how many times Real Madrid has won the Champions League in a row. It mentions the last occurrence but does not provide a clear count of consecutive wins, which is what the prompt specifically asks for. Therefore, the correctness is low.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. However, it does not directly answer the question, which slightly affects the overall adherence to the instruction. Still, it maintains a simple language throughout.  \nInstruction Following Score: 8  ",
+      "correctness_score": 3,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "who wrote old flames cant hold a candle to you Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I don't have information about who wrote that specific song. The song title you mentioned isn't very famous or widely known, so it's hard to find out the exact author. Maybe you heard it somewhere? Songs can be written by many people - sometimes one person writes the music and another writes the lyrics. It could also be a band or group. If you're interested in finding out more about the song, you might want to ask someone who works at a music store or search online for it.",
+      "judgment": "Correctness Reasoning: The response does not accurately answer the prompt, which asks for the name of the person who wrote the song \"Old Flames Can't Hold a Candle to You.\" Instead, it provides vague information about song authorship without giving a specific answer. Therefore, it fails to meet the correctness requirement.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to make it understandable for non-native speakers. However, it does not directly answer the question, which is a key part of the instruction. Despite this, the language used is appropriate for the audience.  \nInstruction Following Score: 7  ",
+      "correctness_score": 2,
+      "instruction_following_score": 7
+    },
+    {
+      "prompt": "when is season 2 of jessica jones being released Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I'm sorry, but I don't have the exact release date for Season 2 of Jessica Jones because that information might change or be updated later. To get the most accurate and up-to-date information, you should check the latest news from the official Marvel or Netflix websites. They usually post these details there first.",
+      "judgment": "Correctness Reasoning: The response does not answer the prompt directly, as it fails to provide any information about the release date of Season 2 of Jessica Jones. Instead, it only states that the information is not available, which does not fulfill the request for a specific answer.  \nCorrectness Score: 2  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. However, it does not provide a direct answer to the question asked in the prompt.  \nInstruction Following Score: 8  ",
+      "correctness_score": 2,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "when is the publishers clearing house sweepstakes drawing Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "I'm sorry, little one, but I don't have that information right now because these types of sweepstakes often change their dates. You might want to visit the official website of Publishers Clearing House or check their social media pages to find out when their next sweepstakes drawing will be. They usually post this kind of information there.",
+      "judgment": "Correctness Reasoning: The response does not provide a specific date for the Publishers Clearing House sweepstakes drawing, which is what the prompt asks for. Instead, it suggests checking the official website or social media, which is not a direct answer to the question. Therefore, it lacks correctness.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response uses simple English and avoids advanced vocabulary, adhering to the instruction to keep the language accessible for non-native speakers. However, it does not directly answer the question, which could be seen as a failure to fully follow the instruction. Nonetheless, the language used is appropriate.  \nInstruction Following Score: 8  ",
+      "correctness_score": 3,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "what season does bart bass die in gossip girl Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Bart Bass died in the third season of Gossip Girl. His character passed away very suddenly at sea during a family trip. The show had people very sad and angry because it was unexpected.",
+      "judgment": "Correctness Reasoning: The response accurately states that Bart Bass died in the third season of Gossip Girl and provides a brief explanation of the circumstances surrounding his death. This directly answers the prompt.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response uses simple English as requested, avoiding advanced vocabulary and using straightforward language. It adheres to the instruction to keep the explanation easy to understand for non-native speakers.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    },
+    {
+      "prompt": "how many episodes of touching evil are there Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Touching Evil has 10 very episodes.",
+      "judgment": "Correctness Reasoning: The response states that \"Touching Evil has 10 very episodes,\" which is incorrect. The show actually has 13 episodes. Therefore, the answer does not accurately respond to the prompt.  \nCorrectness Score: 3  \n\nInstruction Reasoning: The response follows the instruction to use simple English and avoids advanced vocabulary. It uses the word \"very\" as requested, although it is not necessary in this context. Overall, it adheres to the instruction regarding language simplicity.  \nInstruction Following Score: 8  ",
+      "correctness_score": 3,
+      "instruction_following_score": 8
+    },
+    {
+      "prompt": "who came out first batman or spider man Please use only simple English in your response so that non-native speakers can easily understand it. Do not use advanced vocabularies such as \"extraordinarily\" and \"fuming\", but instead use simpler words such as \"very\" and \"angry\" that has similar meaning.",
+      "response": "Batman came out first. Spider-Man followed later.",
+      "judgment": "Correctness Reasoning: The response accurately states that Batman was created before Spider-Man, which is correct. Batman first appeared in 1939, while Spider-Man debuted in 1962. Therefore, the answer is factually correct.  \nCorrectness Score: 10  \n\nInstruction Reasoning: The response uses simple English as requested, avoiding advanced vocabulary and sticking to straightforward language. It follows the instruction well.  \nInstruction Following Score: 10  ",
+      "correctness_score": 10,
+      "instruction_following_score": 10
+    }
+  ]
+}
